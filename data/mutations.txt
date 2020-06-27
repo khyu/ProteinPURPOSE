@@ -1,0 +1,15 @@
+EGFR+mutation
+TP53+mutation
+BRCA1+mutation
+KRAS+mutation
+CDKN2A+mutation
+BRAF+mutation
+HER2+mutation
+ALK+rearrangement
+MET+amplification
+ROS1+rearrangement
+RET+rearrangement
+KRAS+mutation
+TP53+mutation
+IDH1+mutation
+EML4-ALK+fusion

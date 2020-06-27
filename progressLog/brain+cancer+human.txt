@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17245754
+Calculating PPS [query=brain+cancer+human]..count_Big_T=160262....[total citaion]=309629...Finished!---> Execucution:5 seconds
+Extracting PMIDs [query=brain+cancer+human]..PMID#=567.Finished!---> Execucution:1 seconds

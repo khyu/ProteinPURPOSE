@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=alcohol+human]..count_Big_T=446478....[total citaion]=475335...Finished!---> Execucution:5 seconds
+Extracting PMIDs [query=alcohol+human]..PMID#=454.Finished!---> Execucution:0 seconds

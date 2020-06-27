@@ -1,0 +1,49 @@
+cancer	6602130	1950	Assoian RK	Transforming growth factor-beta in human platelets. Identification of a major storage site, purification, and characterization.	The Journal of biological chemistry	1983	234
+cancer	11457733	1950	Jiang BH	Phosphatidylinositol 3-kinase signaling controls levels of hypoxia-inducible factor 1.	Cell growth and differentiation 	2001	108
+cancer	15632317	1950	Simard J	Molecular biology of the 3beta-hydroxysteroid dehydrogenase/delta5-delta4 isomerase gene family.	Endocrine reviews	2005	80
+cancer	15802268	1950	Phillips RJ	Epidermal growth factor and hypoxia-induced expression of CXC chemokine receptor 4 on non-small cell lung cancer cells is regulated by the phosphatidylinositol 3-kinase/PTEN/AKT/mammalian target of rapamycin signaling pathway and activation of hypoxia inducible factor-1alpha.	The Journal of biological chemistry	2005	93
+cancer	17016520	1950	Wolf-Yadlin A	Effects of HER2 overexpression on cell signaling networks governing proliferation and migration.	Molecular systems biology	2006	91
+cancer	17121914	1950	Buck E	Rapamycin synergizes with the epidermal growth factor receptor inhibitor erlotinib in non-small-cell lung, pancreatic, colon, and breast tumors.	Molecular cancer therapeutics	2006	67
+cancer	17477732	1950	Adams KE	Comparison of visible and near-infrared wavelength-excitable fluorescent dyes for molecular imaging of cancer.	Journal of biomedical optics	2007	86
+cancer	18167406	1950	Tanabe KK	Epidermal growth factor gene functional polymorphism and the risk of hepatocellular carcinoma in patients with cirrhosis.	JAMA	2008	59
+cancer	18291115	1950	Lafky JM	Clinical implications of the ErbB/epidermal growth factor (EGF) receptor family and its ligands in ovarian cancer.	Biochimica et biophysica acta	2008	73
+cancer	18292095	1950	Soeda A	Epidermal growth factor plays a crucial role in mitogenic regulation of human brain tumor stem cells.	The Journal of biological chemistry	2008	56
+cancer	18379349	1950	Beau-Faller M	MET gene copy number in non-small cell lung cancer: molecular analysis in a targeted tyrosine kinase inhibitor naïve cohort.	Journal of thoracic oncology 	2008	60
+cancer	19343194	1950	Aldridge BB	Fuzzy logic analysis of kinase pathway crosstalk in TNF/EGF/insulin-induced signaling.	PLoS computational biology	2009	50
+cancer	19484147	1950	Neiva KG	Cross talk initiated by endothelial cells enhances migration and inhibits anoikis of squamous cell carcinoma cells through STAT3/Akt/ERK signaling.	Neoplasia	2009	50
+cancer	21440548	1950	Abu Dayyeh BK	A functional polymorphism in the epidermal growth factor gene is associated with risk for hepatocellular carcinoma.	Gastroenterology	2011	41
+cancer	25143389	1950	Nair V	Mechanism of metformin-dependent inhibition of mammalian target of rapamycin (mTOR) and Ras activity in pancreatic cancer: role of specificity protein (Sp) transcription factors.	The Journal of biological chemistry	2014	23
+cancer	25175731	1950	Yang J	Site-specific mapping and quantification of protein S-sulphenylation in cells.	Nature communications	2014	37
+cancer	25688736	1950	Chen ZY	Cytokine profile and prognostic significance of high neutrophil-lymphocyte ratio in colorectal cancer.	British journal of cancer	2015	17
+cancer	25924068	1950	Drost J	Sequential cancer mutations in cultured human intestinal stem cells.	Nature	2015	71
+eye+or+ocular	10487957	1950	Pflugfelder SC	Altered cytokine balance in the tear fluid and conjunctiva of patients with Sjögren's syndrome keratoconjunctivitis sicca.	Current eye research	1999	103
+eye+or+ocular	18992869	1950	Lam H	Tear cytokine profiles in dysfunctional tear syndrome.	American journal of ophthalmology	2009	97
+rat+or+mouse	6602130	1950	Assoian RK	Transforming growth factor-beta in human platelets. Identification of a major storage site, purification, and characterization.	The Journal of biological chemistry	1983	234
+rat+or+mouse	10436156	1950	Sassone-Corsi P	Requirement of Rsk-2 for epidermal growth factor-activated phosphorylation of histone H3.	Science	1999	118
+rat+or+mouse	11967021	1950	Strutz F	Role of basic fibroblast growth factor-2 in epithelial-mesenchymal transformation.	Kidney international	2002	103
+rat+or+mouse	16086633	1950	Conti L	Niche-independent symmetrical self-renewal of a mammalian tissue stem cell.	PLoS biology	2005	240
+rat+or+mouse	16150920	1950	Tamama K	Epidermal growth factor as a candidate for ex vivo expansion of bone marrow-derived mesenchymal stem cells.	Stem cells	2006	67
+rat+or+mouse	17121914	1950	Buck E	Rapamycin synergizes with the epidermal growth factor receptor inhibitor erlotinib in non-small-cell lung, pancreatic, colon, and breast tumors.	Molecular cancer therapeutics	2006	67
+rat+or+mouse	17477732	1950	Adams KE	Comparison of visible and near-infrared wavelength-excitable fluorescent dyes for molecular imaging of cancer.	Journal of biomedical optics	2007	86
+rat+or+mouse	18292095	1950	Soeda A	Epidermal growth factor plays a crucial role in mitogenic regulation of human brain tumor stem cells.	The Journal of biological chemistry	2008	56
+rat+or+mouse	19091002	1950	Hanson LR	Intranasal delivery bypasses the blood-brain barrier to target therapeutic agents to the central nervous system and treat neurodegenerative disease.	BMC neuroscience	2008	68
+rat+or+mouse	19544429	1950	Gonzalez-Perez O	Epidermal growth factor induces the progeny of subventricular zone type B cells to migrate and differentiate into oligodendrocytes.	Stem cells	2009	69
+rat+or+mouse	24207025	1950	Schröder S	Acetylation of RNA polymerase II regulates growth-factor-induced gene transcription in mammalian cells.	Molecular cell	2013	26
+rat+or+mouse	24610630	1950	Sareen D	Human induced pluripotent stem cells are a novel source of neural progenitor cells (iNPCs) that migrate and integrate in the rodent spinal cord.	The Journal of comparative neurology	2014	33
+rat+or+mouse	25143389	1950	Nair V	Mechanism of metformin-dependent inhibition of mammalian target of rapamycin (mTOR) and Ras activity in pancreatic cancer: role of specificity protein (Sp) transcription factors.	The Journal of biological chemistry	2014	23
+rat+or+mouse	25924068	1950	Drost J	Sequential cancer mutations in cultured human intestinal stem cells.	Nature	2015	71
+stem+cells	10436156	1950	Sassone-Corsi P	Requirement of Rsk-2 for epidermal growth factor-activated phosphorylation of histone H3.	Science	1999	118
+stem+cells	11027332	1950	Schuldiner M	Effects of eight growth factors on the differentiation of cells derived from human embryonic stem cells.	Proceedings of the National Academy of Sciences of the United States of America	2000	119
+stem+cells	14766732	1950	Chan RW	Clonogenicity of human endometrial epithelial and stromal cells.	Biology of reproduction	2004	98
+stem+cells	15791337	1950	Chung BG	Human neural stem cell growth and differentiation in a gradient-generating microfluidic device.	Lab on a chip	2005	105
+stem+cells	15917469	1950	Toma JG	Isolation and characterization of multipotent skin-derived precursors from human skin.	Stem cells	2005	136
+stem+cells	16086633	1950	Conti L	Niche-independent symmetrical self-renewal of a mammalian tissue stem cell.	PLoS biology	2005	240
+stem+cells	16150920	1950	Tamama K	Epidermal growth factor as a candidate for ex vivo expansion of bone marrow-derived mesenchymal stem cells.	Stem cells	2006	67
+stem+cells	16183912	1950	Bouwens L	Regulation of pancreatic beta-cell mass.	Physiological reviews	2005	111
+stem+cells	17477371	1950	Kilroy GE	Cytokine profile of human adipose-derived stem cells: expression of angiogenic, hematopoietic, and pro-inflammatory factors.	Journal of cellular physiology	2007	109
+stem+cells	18292095	1950	Soeda A	Epidermal growth factor plays a crucial role in mitogenic regulation of human brain tumor stem cells.	The Journal of biological chemistry	2008	56
+stem+cells	18450476	1950	Sun Y	Long-term tripotent differentiation capacity of human neural stem (NS) cells in adherent culture.	Molecular and cellular neurosciences	2008	62
+stem+cells	19544429	1950	Gonzalez-Perez O	Epidermal growth factor induces the progeny of subventricular zone type B cells to migrate and differentiate into oligodendrocytes.	Stem cells	2009	69
+stem+cells	24207025	1950	Schröder S	Acetylation of RNA polymerase II regulates growth-factor-induced gene transcription in mammalian cells.	Molecular cell	2013	26
+stem+cells	24610630	1950	Sareen D	Human induced pluripotent stem cells are a novel source of neural progenitor cells (iNPCs) that migrate and integrate in the rodent spinal cord.	The Journal of comparative neurology	2014	33
+stem+cells	25924068	1950	Drost J	Sequential cancer mutations in cultured human intestinal stem cells.	Nature	2015	71

@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17228187
+Calculating PPS [query=brucella+canis+human]..count_Big_T=145....[total citaion]=126...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=brucella+canis+human]..PMID#=0Finished!---> Execucution:0 seconds

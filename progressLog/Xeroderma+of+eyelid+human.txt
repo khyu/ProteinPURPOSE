@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17238601
+Calculating PPS [query=xeroderma+of+eyelid+human]..count_Big_T=118....[total citaion]=25...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=xeroderma+of+eyelid+human]..PMID#=0Finished!---> Execucution:0 seconds

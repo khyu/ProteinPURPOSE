@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=muscular+system+human]..count_Big_T=48202....[total citaion]=82633...Finished!---> Execucution:4 seconds
+Extracting PMIDs [query=muscular+system+human]..PMID#=93.Finished!---> Execucution:0 seconds

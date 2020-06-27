@@ -1,0 +1,4 @@
+Big_T	60
+Big_F	262352
+UniProtKB_ID	GeneID	Gene_Name	PPS	Big_P	T+P	Citation	1+Log(T+P)	log10((Cit/yr+1)/10)	1+log10(F/T)+log10(F/P)
+SRO9_YEAST	850320	SRO9	9.156	8	1	1	1.0	0.0	9.156

@@ -1,0 +1,380 @@
+cancer	3264384	3558	Rosenberg SA	Use of tumor-infiltrating lymphocytes and interleukin-2 in the immunotherapy of patients with metastatic melanoma. A preliminary report.	The New England journal of medicine	1988	246
+cancer	3493432	3558	Rosenberg SA	A progress report on the treatment of 157 patients with advanced cancer using lymphokine-activated killer cells and interleukin-2 or high-dose interleukin-2 alone.	The New England journal of medicine	1987	221
+cancer	6327821	3558	Weiss A	The role of T3 surface molecules in the activation of human T cells: a two-stimulus requirement for IL 2 production reflects events occurring at a pre-translational level.	Journal of immunology	1984	179
+cancer	7523571	3558	Carson WE	Interleukin (IL) 15 is a novel cytokine that activates human natural killer cells via components of the IL-2 receptor.	The Journal of experimental medicine	1994	200
+cancer	8011282	3558	Romagnani S	Lymphokine production by human T cells in disease states.	Annual review of immunology	1994	169
+cancer	8028037	3558	Rosenberg SA	Treatment of patients with metastatic melanoma with autologous tumor-infiltrating lymphocytes and interleukin 2.	Journal of the National Cancer Institute	1994	157
+cancer	8120958	3558	Rosenberg SA	Treatment of 283 consecutive patients with metastatic melanoma or renal cell cancer using high-dose bolus interleukin 2.	JAMA	1994	150
+cancer	9500606	3558	Rosenberg SA	Immunologic and therapeutic evaluation of a synthetic peptide vaccine for the treatment of patients with metastatic melanoma.	Nature medicine	1998	274
+cancer	10358752	3558	Waldmann TA	The multifaceted regulation of interleukin-15 expression and the role of this cytokine in NK cell differentiation and host response to intracellular pathogens.	Annual review of immunology	1999	139
+cancer	10685652	3558	Atkins MB	High-dose recombinant interleukin-2 therapy in patients with metastatic melanoma: long-term survival update.	The cancer journal from Scientific American	2000	117
+cancer	10699311	3558	Sudimack J	Targeted drug delivery via the folate receptor.	Advanced drug delivery reviews	2000	117
+cancer	10887096	3558	Kunzmann V	Stimulation of gammadelta T cells by aminobisphosphonates and induction of antiplasma cell activity in multiple myeloma.	Blood	2000	98
+cancer	11022927	3558	Takayama T	Adoptive immunotherapy to lower postsurgical recurrence rates of hepatocellular carcinoma: a randomised trial.	Lancet	2000	135
+cancer	11357146	3558	Rosenberg SA	Progress in human tumour immunology and immunotherapy.	Nature	2001	236
+cancer	11565838	3558	Dudley ME	Adoptive transfer of cloned melanoma-reactive T lymphocytes for the treatment of patients with metastatic melanoma.	Journal of immunotherapy	2001	108
+cancer	12000866	3558	Dudley ME	A phase I study of nonmyeloablative chemotherapy and adoptive transfer of autologous tumor antigen-specific T lymphocytes in patients with metastatic melanoma.	Journal of immunotherapy	2002	86
+cancer	12082564	3558	Capuron L	Association between decreased serum tryptophan concentrations and depressive symptoms in cancer patients undergoing cytokine therapy.	Molecular psychiatry	2002	99
+cancer	12427970	3558	Yee C	Adoptive T cell therapy using antigen-specific CD8+ T cell clones for the treatment of patients with metastatic melanoma: in vivo persistence, migration, and antitumor effect of transferred T cells.	Proceedings of the National Academy of Sciences of the United States of America	2002	320
+cancer	12623838	3558	Wilhelm M	Gammadelta T cells for immune therapy of patients with lymphoid malignancies.	Blood	2003	109
+cancer	12843795	3558	Dudley ME	Generation of tumor-infiltrating lymphocyte cultures for use in adoptive transfer therapy for melanoma patients.	Journal of immunotherapy	2003	157
+cancer	12915604	3558	Yang JC	Randomized study of high-dose and low-dose interleukin-2 in patients with metastatic renal cancer.	Journal of clinical oncology 	2003	110
+cancer	14961035	3558	Imai C	Chimeric receptors with 4-1BB signaling capacity provoke potent cytotoxicity against acute lymphoblastic leukemia.	Leukemia	2004	141
+cancer	14974943	3558	Opelz G	Lymphomas after solid organ transplantation: a collaborative transplant study report.	American journal of transplantation 	2004	79
+cancer	15141157	3558	Nakamura K	Antitumor effect of genetically engineered mesenchymal stem cells in a rat glioma model.	Gene therapy	2004	141
+cancer	15632206	3558	Miller JS	Successful adoptive transfer and in vivo expansion of human haploidentical NK cells in patients with cancer.	Blood	2005	340
+cancer	15638853	3558	Hayashi T	Molecular mechanisms whereby immunomodulatory drugs activate natural killer cells: clinical application.	British journal of haematology	2005	70
+cancer	15674877	3558	Coppin C	Immunotherapy for advanced renal cell cancer.	The Cochrane database of systematic reviews	2005	88
+cancer	15800326	3558	Dudley ME	Adoptive cell transfer therapy following non-myeloablative but lymphodepleting chemotherapy for the treatment of patients with refractory metastatic melanoma.	Journal of clinical oncology 	2005	443
+cancer	15897568	3558	Atkins M	Carbonic anhydrase IX expression predicts outcome of interleukin 2 therapy for renal cancer.	Clinical cancer research 	2005	68
+cancer	15980149	3558	Klebanoff CA	Central memory self/tumor-reactive CD8+ T cells confer superior antitumor immunity compared with effector memory T cells.	Proceedings of the National Academy of Sciences of the United States of America	2005	231
+cancer	16121185	3558	Watanabe N	Hassall's corpuscles instruct dendritic cells to induce CD4+CD25+ regulatory T cells in human thymus.	Nature	2005	162
+cancer	16224276	3558	Attia P	Inability of a fusion protein of IL-2 and diphtheria toxin (Denileukin Diftitox, DAB389IL-2, ONTAK) to eliminate regulatory T lymphocytes in patients with melanoma.	Journal of immunotherapy	2005	70
+cancer	16308572	3558	Dannull J	Enhancement of vaccine-mediated antitumor immunity in cancer patients after depletion of regulatory T cells.	The Journal of clinical investigation	2005	257
+cancer	16364519	3558	Farag SS	Human natural killer cell development and biology.	Blood reviews	2006	79
+cancer	16763205	3558	Banerjee DK	Expansion of FOXP3high regulatory T cells by human dendritic cells (DCs) in vitro and after injection of cytokine-matured DCs in myeloma patients.	Blood	2006	94
+cancer	17025272	3558	Kreitman RJ	Immunotoxins for targeted cancer therapy.	The AAPS journal	2006	68
+cancer	17075125	3558	Mackensen A	Phase I study of adoptive T-cell therapy using antigen-specific CD8+ T cells for the treatment of patients with metastatic melanoma.	Journal of clinical oncology 	2006	92
+cancer	17108138	3558	Kowolik CM	CD28 costimulation provided through a CD19-specific chimeric antigen receptor enhances in vivo persistence and antitumor efficacy of adoptively transferred T cells.	Cancer research	2006	155
+cancer	17671216	3558	Clayton A	Human tumor-derived exosomes selectively impair lymphocyte responses to interleukin-2.	Cancer research	2007	106
+cancer	18000167	3558	Lange BJ	Outcomes in CCG-2961, a children's oncology group phase 3 trial for untreated pediatric acute myeloid leukemia: a report from the children's oncology group.	Blood	2008	73
+cancer	18281670	3558	Testori A	Phase III comparison of vitespen, an autologous tumor-derived heat shock protein gp96 peptide complex vaccine, with physician's choice of treatment for stage IV melanoma: the C-100-21 Study Group.	Journal of clinical oncology 	2008	69
+cancer	18334676	3558	Ferrajoli A	Lenalidomide induces complete and partial remissions in patients with relapsed and refractory chronic lymphocytic leukemia.	Blood	2008	105
+cancer	18457330	3558	Klapper JA	High-dose interleukin-2 for the treatment of metastatic renal cell carcinoma : a retrospective analysis of response and survival in patients treated in the surgery branch at the National Cancer Institute between 1986 and 2006.	Cancer	2008	60
+cancer	18508251	3558	Curiel TJ	Regulatory T cells and treatment of cancer.	Current opinion in immunology	2008	66
+cancer	18509084	3558	Till BG	Adoptive immunotherapy for indolent non-Hodgkin lymphoma and mantle cell lymphoma using genetically modified autologous CD20-specific T cells.	Blood	2008	185
+cancer	18559587	3558	Bergmann C	T regulatory type 1 cells in squamous cell carcinoma of the head and neck: mechanisms of suppression and expansion in advanced disease.	Clinical cancer research 	2008	56
+cancer	18779745	3558	Tran KQ	Minimally cultured tumor-infiltrating lymphocytes display optimal characteristics for adoptive cell therapy.	Journal of immunotherapy	2008	61
+cancer	18809613	3558	Dudley ME	Adoptive cell therapy for patients with metastatic melanoma: evaluation of intensive myeloablative chemoradiation preparative regimens.	Journal of clinical oncology 	2008	389
+cancer	19001327	3558	Atkins MB	Phase III trial comparing concurrent biochemotherapy with cisplatin, vinblastine, dacarbazine, interleukin-2, and interferon alfa-2b with cisplatin, vinblastine, and dacarbazine alone in patients with metastatic malignant melanoma (E3695): a trial coordinated by the Eastern Cooperative Oncology Group.	Journal of clinical oncology 	2008	57
+cancer	19265131	3558	Castriconi R	NK cells recognize and kill human glioblastoma cells with stem cell-like properties.	Journal of immunology	2009	54
+cancer	19364969	3558	Sabatino M	Serum vascular endothelial growth factor and fibronectin predict clinical response to high-dose interleukin-2 therapy.	Journal of clinical oncology 	2009	49
+cancer	19383914	3558	Fujisaki H	Expansion of highly cytotoxic human natural killer cells for cancer cell therapy.	Cancer research	2009	103
+cancer	19465693	3558	Chung DJ	Indoleamine 2,3-dioxygenase-expressing mature human monocyte-derived dendritic cells expand potent autologous regulatory T cells.	Blood	2009	83
+cancer	19544689	3558	Bhatia S	Treatment of metastatic melanoma: an overview.	Oncology	2009	95
+cancer	19726501	3558	Migueles SA	Defective human immunodeficiency virus-specific CD8+ T-cell polyfunctionality, proliferation, and cytotoxicity are not restored by antiretroviral therapy.	Journal of virology	2009	67
+cancer	20068175	3558	Schatton T	Modulation of T-cell activation by malignant melanoma initiating cells.	Cancer research	2010	66
+cancer	20085940	3558	Rubnitz JE	NKAML: a pilot study to determine the safety and feasibility of haploidentical natural killer cell transplantation in childhood acute myeloid leukemia.	Journal of clinical oncology 	2010	118
+cancer	20304086	3558	Jensen MC	Antitransgene rejection responses contribute to attenuated persistence of adoptively transferred CD20/CD19-specific chimeric antigen receptor redirected T cells in humans.	Biology of blood and marrow transplantation 	2010	119
+cancer	20406835	3558	Besser MJ	Clinical responses in a phase II study using adoptive transfer of short-term cultured tumor infiltration lymphocytes in metastatic melanoma patients.	Clinical cancer research 	2010	105
+cancer	20439625	3558	Abès R	Long-lasting antitumor protection by anti-CD20 antibody through cellular immune response.	Blood	2010	55
+cancer	20491785	3558	Meraviglia S	In vivo manipulation of Vgamma9Vdelta2 T cells with zoledronate and low-dose interleukin-2 for immunotherapy of advanced breast cancer patients.	Clinical and experimental immunology	2010	57
+cancer	20557286	3558	Heller LC	Electroporation gene therapy preclinical and clinical trials for melanoma.	Current gene therapy	2010	41
+cancer	20558731	3558	Mandapathil M	Adenosine and prostaglandin E2 cooperate in the suppression of immune responses mediated by adaptive regulatory T cells.	The Journal of biological chemistry	2010	47
+cancer	20651070	3558	Görgün G	Immunomodulatory effects of lenalidomide and pomalidomide on interaction of tumor and bone marrow accessory cells in multiple myeloma.	Blood	2010	47
+cancer	20668005	3558	Dudley ME	CD8+ enriched "young" tumor infiltrating lymphocytes can mediate regression of metastatic melanoma.	Clinical cancer research 	2010	60
+cancer	20680271	3558	Bachanova V	Allogeneic natural killer cells for refractory lymphoma.	Cancer immunology, immunotherapy 	2010	46
+cancer	20736326	3558	Jacobs JF	Dendritic cell vaccination in combination with anti-CD25 monoclonal antibody treatment: a phase I/II study in metastatic melanoma patients.	Clinical cancer research 	2010	50
+cancer	20849361	3558	Geller MA	A phase II study of allogeneic natural killer cell therapy to treat patients with recurrent ovarian and breast cancer.	Cytotherapy	2011	84
+cancer	20881001	3558	Amato RJ	Vaccination of metastatic renal cancer patients with MVA-5T4: a randomized, double-blind, placebo-controlled phase III study.	Clinical cancer research 	2010	44
+cancer	20921469	3558	Shusterman S	Antitumor activity of hu14.18-IL2 in patients with relapsed/refractory neuroblastoma: a Children's Oncology Group (COG) phase II study.	Journal of clinical oncology 	2010	61
+cancer	20935224	3558	Delgado DC	Genotypes of NK cell KIR receptors, their ligands, and Fcγ receptors in the response of neuroblastoma patients to Hu14.18-IL2 immunotherapy.	Cancer research	2010	50
+cancer	20952687	3558	Brunstein CG	Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics.	Blood	2011	272
+cancer	20978269	3558	Hsu AK	The immunostimulatory effect of lenalidomide on NK-cell function is profoundly inhibited by concurrent dexamethasone therapy.	Blood	2011	43
+cancer	21212434	3558	Garbe C	Systematic review of medical treatment in melanoma: current status and future prospects.	The oncologist	2011	78
+cancer	21389874	3558	Hernandez-Chacon JA	Costimulation through the CD137/4-1BB pathway protects human melanoma tumor-infiltrating lymphocytes from activation-induced cell death and enhances antitumor effector function.	Journal of immunotherapy	2011	37
+cancer	21498393	3558	Rosenberg SA	Durable complete responses in heavily pretreated patients with metastatic melanoma using T-cell transfer immunotherapy.	Clinical cancer research 	2011	412
+cancer	21631324	3558	Schwartzentruber DJ	gp100 peptide vaccine and interleukin-2 in patients with advanced melanoma.	The New England journal of medicine	2011	208
+cancer	21771874	3558	Lesterhuis WJ	Route of administration modulates the induction of dendritic cell vaccine-induced antigen-specific T cells in advanced melanoma patients.	Clinical cancer research 	2011	39
+cancer	21791425	3558	Curti A	Successful transfer of alloreactive haploidentical KIR ligand-mismatched natural killer cells after infusion in elderly high risk acute myeloid leukemia patients.	Blood	2011	69
+cancer	22129252	3558	Koreth J	Interleukin-2 and regulatory T cells in graft-versus-host disease.	The New England journal of medicine	2011	209
+cancer	22160384	3558	Kochenderfer JN	B-cell depletion and remissions of malignancy along with cytokine-associated toxicity in a clinical trial of anti-CD19 chimeric-antigen-receptor-transduced T cells.	Blood	2012	345
+cancer	22275504	3558	Liu L	Randomized study of autologous cytokine-induced killer cell immunotherapy in metastatic renal carcinoma.	Clinical cancer research 	2012	37
+cancer	22311675	3558	Andersen RS	Dissection of T-cell antigen specificity in human melanoma.	Cancer research	2012	44
+cancer	22393002	3558	Chapuis AG	Transferred melanoma-specific CD8+ T cells persist, mediate tumor regression, and acquire central memory phenotype.	Proceedings of the National Academy of Sciences of the United States of America	2012	47
+cancer	22461638	3558	Rosenberg SA	Raising the bar: the curative potential of human cancer immunotherapy.	Science translational medicine	2012	75
+cancer	22555974	3558	Yao X	Levels of peripheral CD4(+)FoxP3(+) regulatory T cells are negatively associated with clinical response to adoptive immunotherapy of human cancer.	Blood	2012	44
+cancer	22674552	3558	Seung SK	Phase 1 study of stereotactic body radiotherapy and interleukin-2--tumor and immunological responses.	Science translational medicine	2012	56
+cancer	23369684	3558	Jang S	Which drug, and when, for patients with BRAF-mutant melanoma?	The Lancet. Oncology	2013	45
+cancer	23552371	3558	Matsuoka K	Low-dose interleukin-2 therapy restores regulatory T cell homeostasis in patients with chronic graft-versus-host disease.	Science translational medicine	2013	93
+cancer	23639322	3558	Lippitz BE	Cytokine patterns in patients with cancer: a systematic review.	The Lancet. Oncology	2013	136
+cancer	23650429	3558	Dudley ME	Randomized selection design trial evaluating CD8+-enriched versus unselected tumor-infiltrating lymphocytes for adoptive cell therapy for patients with melanoma.	Journal of clinical oncology 	2013	44
+cancer	23741305	3558	Singh H	Manufacture of clinical-grade CD19-specific T cells stably expressing chimeric antigen receptor using Sleeping Beauty system and artificial antigen presenting cells.	PloS one	2013	39
+cancer	23982524	3558	Kaufman HL	The Society for Immunotherapy of Cancer consensus statement on tumour immunotherapy for the treatment of cutaneous melanoma.	Nature reviews. Clinical oncology	2013	37
+cancer	24094496	3558	Tonn T	Treatment of patients with advanced cancer with the natural killer cell line NK-92.	Cytotherapy	2013	40
+cancer	24573552	3558	Kennedy-Nasser AA	Ultra low-dose IL-2 for GVHD prophylaxis after allogeneic hematopoietic stem cell transplantation mediates expansion of regulatory T cells without diminishing antiviral and antileukemic activity.	Clinical cancer research 	2014	32
+cancer	24577748	3558	Ackerman A	Outcomes of patients with metastatic melanoma treated with immunotherapy prior to or after BRAF inhibitors.	Cancer	2014	29
+cancer	24719405	3558	Bachanova V	Clearance of acute myeloid leukemia by haploidentical natural killer cells is improved using IL-2 diphtheria toxin fusion protein.	Blood	2014	59
+cancer	24782509	3558	Xu Y	Closely related T-memory stem cells correlate with in vivo expansion of CAR.CD19-T cells and are preserved by IL-7 and IL-15.	Blood	2014	59
+cancer	24907378	3558	Rosenberg SA	IL-2: the first effective immunotherapy for human cancer.	Journal of immunology	2014	84
+cancer	25060490	3558	McDermott D	Durable benefit and the potential for long-term survival with immunotherapy in advanced melanoma.	Cancer treatment reviews	2014	37
+cancer	25415285	3558	Szmania S	Ex vivo-expanded natural killer cells demonstrate robust proliferation in vivo in high-risk relapsed multiple myeloma patients.	Journal of immunotherapy	2015	24
+cancer	25503054	3558	Schuetz A	Initiation of ART during early acute HIV infection preserves mucosal Th17 function and reverses HIV-related immune activation.	PLoS pathogens	2014	48
+cancer	25695689	3558	Zhang L	Tumor-infiltrating lymphocytes genetically engineered with an inducible gene encoding interleukin-12 for the immunotherapy of metastatic melanoma.	Clinical cancer research 	2015	29
+cancer	25747273	3558	Lee JH	Adjuvant immunotherapy with autologous cytokine-induced killer cells for hepatocellular carcinoma.	Gastroenterology	2015	31
+cancer	25850950	3558	Katz SC	Phase I Hepatic Immunotherapy for Metastases Study of Intra-Arterial Chimeric Antigen Receptor-Modified T-cell Therapy for CEA+ Liver Metastases.	Clinical cancer research 	2015	23
+cancer	25940712	3558	Ninomiya S	Tumor indoleamine 2,3-dioxygenase (IDO) inhibits CD19-CAR T cells and is downregulated by lymphodepleting drugs.	Blood	2015	25
+cancer	27073224	3558	Koreth J	Efficacy, durability, and response predictors of low-dose interleukin-2 therapy for chronic graft-versus-host disease.	Blood	2016	15
+glycoproteins	6975347	3558	Robb RJ	T cell growth factor receptors. Quantitation, specificity, and biological relevance.	The Journal of experimental medicine	1981	224
+glycoproteins	7523571	3558	Carson WE	Interleukin (IL) 15 is a novel cytokine that activates human natural killer cells via components of the IL-2 receptor.	The Journal of experimental medicine	1994	200
+glycoproteins	9500606	3558	Rosenberg SA	Immunologic and therapeutic evaluation of a synthetic peptide vaccine for the treatment of patients with metastatic melanoma.	Nature medicine	1998	274
+glycoproteins	10699311	3558	Sudimack J	Targeted drug delivery via the folate receptor.	Advanced drug delivery reviews	2000	117
+glycoproteins	11565838	3558	Dudley ME	Adoptive transfer of cloned melanoma-reactive T lymphocytes for the treatment of patients with metastatic melanoma.	Journal of immunotherapy	2001	108
+glycoproteins	11675346	3558	Ng WF	Human CD4(+)CD25(+) cells: a naturally occurring population of regulatory T cells.	Blood	2001	100
+glycoproteins	12427970	3558	Yee C	Adoptive T cell therapy using antigen-specific CD8+ T cell clones for the treatment of patients with metastatic melanoma: in vivo persistence, migration, and antitumor effect of transferred T cells.	Proceedings of the National Academy of Sciences of the United States of America	2002	320
+glycoproteins	12480696	3558	Fehniger TA	CD56bright natural killer cells are present in human lymph nodes and are activated by T cell-derived IL-2: a potential new link between adaptive and innate immunity.	Blood	2003	179
+glycoproteins	12843795	3558	Dudley ME	Generation of tumor-infiltrating lymphocyte cultures for use in adoptive transfer therapy for melanoma patients.	Journal of immunotherapy	2003	157
+glycoproteins	15218108	3558	Sivori S	CpG and double-stranded RNA trigger human NK cells by Toll-like receptors: induction of cytokine release and cytotoxicity against tumors and dendritic cells.	Proceedings of the National Academy of Sciences of the United States of America	2004	87
+glycoproteins	15780987	3558	Freud AG	A human CD34(+) subset resides in lymph nodes and differentiates into CD56bright natural killer cells.	Immunity	2005	99
+glycoproteins	16007258	3558	Valmori D	A peripheral circulating compartment of natural naive CD4 Tregs.	The Journal of clinical investigation	2005	96
+glycoproteins	16051844	3558	Brooks DG	Intrinsic functional dysregulation of CD4 T cells occurs rapidly following persistent viral infection.	Journal of virology	2005	82
+glycoproteins	16121185	3558	Watanabe N	Hassall's corpuscles instruct dendritic cells to induce CD4+CD25+ regulatory T cells in human thymus.	Nature	2005	162
+glycoproteins	16567385	3558	Jabbari A	Secondary memory CD8+ T cells are more protective but slower to acquire a central-memory phenotype.	The Journal of experimental medicine	2006	83
+glycoproteins	17025272	3558	Kreitman RJ	Immunotoxins for targeted cancer therapy.	The AAPS journal	2006	68
+glycoproteins	19364969	3558	Sabatino M	Serum vascular endothelial growth factor and fibronectin predict clinical response to high-dose interleukin-2 therapy.	Journal of clinical oncology 	2009	49
+glycoproteins	20491785	3558	Meraviglia S	In vivo manipulation of Vgamma9Vdelta2 T cells with zoledronate and low-dose interleukin-2 for immunotherapy of advanced breast cancer patients.	Clinical and experimental immunology	2010	57
+glycoproteins	20736326	3558	Jacobs JF	Dendritic cell vaccination in combination with anti-CD25 monoclonal antibody treatment: a phase I/II study in metastatic melanoma patients.	Clinical cancer research 	2010	50
+glycoproteins	20921469	3558	Shusterman S	Antitumor activity of hu14.18-IL2 in patients with relapsed/refractory neuroblastoma: a Children's Oncology Group (COG) phase II study.	Journal of clinical oncology 	2010	61
+glycoproteins	20935224	3558	Delgado DC	Genotypes of NK cell KIR receptors, their ligands, and Fcγ receptors in the response of neuroblastoma patients to Hu14.18-IL2 immunotherapy.	Cancer research	2010	50
+glycoproteins	20951793	3558	Janelidze S	Cytokine levels in the blood may distinguish suicide attempters from depressed patients.	Brain, behavior, and immunity	2011	44
+glycoproteins	21521467	3558	Thompson P	CD40-specific costimulation blockade enhances neonatal porcine islet survival in nonhuman primates.	American journal of transplantation 	2011	39
+glycoproteins	21771874	3558	Lesterhuis WJ	Route of administration modulates the induction of dendritic cell vaccine-induced antigen-specific T cells in advanced melanoma patients.	Clinical cancer research 	2011	39
+immune+or+immune+system	1846244	3558	Fraser JD	Regulation of interleukin-2 gene enhancer activity by the T cell accessory molecule CD28.	Science	1991	152
+immune+or+immune+system	2871125	3558	Kehrl JH	Production of transforming growth factor beta by human T lymphocytes and its potential role in the regulation of T cell growth.	The Journal of experimental medicine	1986	304
+immune+or+immune+system	2995487	3558	McDougal JS	Cellular tropism of the human retrovirus HTLV-III/LAV. I. Role of T cell activation and expression of the T4 antigen.	Journal of immunology	1985	169
+immune+or+immune+system	3264384	3558	Rosenberg SA	Use of tumor-infiltrating lymphocytes and interleukin-2 in the immunotherapy of patients with metastatic melanoma. A preliminary report.	The New England journal of medicine	1988	246
+immune+or+immune+system	6327821	3558	Weiss A	The role of T3 surface molecules in the activation of human T cells: a two-stimulus requirement for IL 2 production reflects events occurring at a pre-translational level.	Journal of immunology	1984	179
+immune+or+immune+system	6975347	3558	Robb RJ	T cell growth factor receptors. Quantitation, specificity, and biological relevance.	The Journal of experimental medicine	1981	224
+immune+or+immune+system	7523571	3558	Carson WE	Interleukin (IL) 15 is a novel cytokine that activates human natural killer cells via components of the IL-2 receptor.	The Journal of experimental medicine	1994	200
+immune+or+immune+system	8028037	3558	Rosenberg SA	Treatment of patients with metastatic melanoma with autologous tumor-infiltrating lymphocytes and interleukin 2.	Journal of the National Cancer Institute	1994	157
+immune+or+immune+system	8120958	3558	Rosenberg SA	Treatment of 283 consecutive patients with metastatic melanoma or renal cell cancer using high-dose bolus interleukin 2.	JAMA	1994	150
+immune+or+immune+system	8691133	3558	Groux H	Interleukin-10 induces a long-term antigen-specific anergic state in human CD4+ T cells.	The Journal of experimental medicine	1996	137
+immune+or+immune+system	10358752	3558	Waldmann TA	The multifaceted regulation of interleukin-15 expression and the role of this cytokine in NK cell differentiation and host response to intracellular pathogens.	Annual review of immunology	1999	139
+immune+or+immune+system	10371503	3558	Chun TW	Effect of interleukin-2 on the pool of latently infected, resting CD4+ T cells in HIV-1-infected patients receiving highly active anti-retroviral therapy.	Nature medicine	1999	122
+immune+or+immune+system	10611346	3558	Davey RT Jr	HIV-1 and T cell dynamics after interruption of highly active antiretroviral therapy (HAART) in patients with a history of sustained viral suppression.	Proceedings of the National Academy of Sciences of the United States of America	1999	198
+immune+or+immune+system	10887096	3558	Kunzmann V	Stimulation of gammadelta T cells by aminobisphosphonates and induction of antiplasma cell activity in multiple myeloma.	Blood	2000	98
+immune+or+immune+system	11081504	3558	Parrish-Novak J	Interleukin 21 and its receptor are involved in NK cell expansion and regulation of lymphocyte function.	Nature	2000	237
+immune+or+immune+system	11357146	3558	Rosenberg SA	Progress in human tumour immunology and immunotherapy.	Nature	2001	236
+immune+or+immune+system	11565838	3558	Dudley ME	Adoptive transfer of cloned melanoma-reactive T lymphocytes for the treatment of patients with metastatic melanoma.	Journal of immunotherapy	2001	108
+immune+or+immune+system	11675346	3558	Ng WF	Human CD4(+)CD25(+) cells: a naturally occurring population of regulatory T cells.	Blood	2001	100
+immune+or+immune+system	12000866	3558	Dudley ME	A phase I study of nonmyeloablative chemotherapy and adoptive transfer of autologous tumor antigen-specific T lymphocytes in patients with metastatic melanoma.	Journal of immunotherapy	2002	86
+immune+or+immune+system	12218168	3558	Wedemeyer H	Impaired effector function of hepatitis C virus-specific CD8+ T cells in chronic hepatitis C virus infection.	Journal of immunology	2002	173
+immune+or+immune+system	12427970	3558	Yee C	Adoptive T cell therapy using antigen-specific CD8+ T cell clones for the treatment of patients with metastatic melanoma: in vivo persistence, migration, and antitumor effect of transferred T cells.	Proceedings of the National Academy of Sciences of the United States of America	2002	320
+immune+or+immune+system	12480696	3558	Fehniger TA	CD56bright natural killer cells are present in human lymph nodes and are activated by T cell-derived IL-2: a potential new link between adaptive and innate immunity.	Blood	2003	179
+immune+or+immune+system	12623838	3558	Wilhelm M	Gammadelta T cells for immune therapy of patients with lymphoid malignancies.	Blood	2003	109
+immune+or+immune+system	12663797	3558	Wherry EJ	Viral persistence alters CD8 T-cell immunodominance and tissue distribution and results in distinct stages of functional impairment.	Journal of virology	2003	484
+immune+or+immune+system	12843795	3558	Dudley ME	Generation of tumor-infiltrating lymphocyte cultures for use in adoptive transfer therapy for melanoma patients.	Journal of immunotherapy	2003	157
+immune+or+immune+system	14961035	3558	Imai C	Chimeric receptors with 4-1BB signaling capacity provoke potent cytotoxicity against acute lymphoblastic leukemia.	Leukemia	2004	141
+immune+or+immune+system	15100259	3558	Zheng SG	Natural and induced CD4+CD25+ cells educate CD4+CD25- cells to develop suppressive activity: the role of IL-2, TGF-beta, and IL-10.	Journal of immunology	2004	148
+immune+or+immune+system	15128946	3558	Sundrud MS	Inhibition of primary human T cell proliferation by Helicobacter pylori vacuolating toxin (VacA) is independent of VacA effects on IL-2 secretion.	Proceedings of the National Academy of Sciences of the United States of America	2004	80
+immune+or+immune+system	15218108	3558	Sivori S	CpG and double-stranded RNA trigger human NK cells by Toll-like receptors: induction of cytokine release and cytotoxicity against tumors and dendritic cells.	Proceedings of the National Academy of Sciences of the United States of America	2004	87
+immune+or+immune+system	15632206	3558	Miller JS	Successful adoptive transfer and in vivo expansion of human haploidentical NK cells in patients with cancer.	Blood	2005	340
+immune+or+immune+system	15638853	3558	Hayashi T	Molecular mechanisms whereby immunomodulatory drugs activate natural killer cells: clinical application.	British journal of haematology	2005	70
+immune+or+immune+system	15777785	3558	Rasmusson I	Mesenchymal stem cells inhibit lymphocyte proliferation by mitogens and alloantigens by different mechanisms.	Experimental cell research	2005	91
+immune+or+immune+system	15780987	3558	Freud AG	A human CD34(+) subset resides in lymph nodes and differentiates into CD56bright natural killer cells.	Immunity	2005	99
+immune+or+immune+system	15800326	3558	Dudley ME	Adoptive cell transfer therapy following non-myeloablative but lymphodepleting chemotherapy for the treatment of patients with refractory metastatic melanoma.	Journal of clinical oncology 	2005	443
+immune+or+immune+system	15972602	3558	Wikby A	An immune risk phenotype, cognitive impairment, and survival in very late life: impact of allostatic load in Swedish octogenarian and nonagenarian humans.	The journals of gerontology. Series A, Biological sciences and medical sciences	2005	83
+immune+or+immune+system	15980149	3558	Klebanoff CA	Central memory self/tumor-reactive CD8+ T cells confer superior antitumor immunity compared with effector memory T cells.	Proceedings of the National Academy of Sciences of the United States of America	2005	231
+immune+or+immune+system	16007258	3558	Valmori D	A peripheral circulating compartment of natural naive CD4 Tregs.	The Journal of clinical investigation	2005	96
+immune+or+immune+system	16051844	3558	Brooks DG	Intrinsic functional dysregulation of CD4 T cells occurs rapidly following persistent viral infection.	Journal of virology	2005	82
+immune+or+immune+system	16121185	3558	Watanabe N	Hassall's corpuscles instruct dendritic cells to induce CD4+CD25+ regulatory T cells in human thymus.	Nature	2005	162
+immune+or+immune+system	16224276	3558	Attia P	Inability of a fusion protein of IL-2 and diphtheria toxin (Denileukin Diftitox, DAB389IL-2, ONTAK) to eliminate regulatory T lymphocytes in patients with melanoma.	Journal of immunotherapy	2005	70
+immune+or+immune+system	16308572	3558	Dannull J	Enhancement of vaccine-mediated antitumor immunity in cancer patients after depletion of regulatory T cells.	The Journal of clinical investigation	2005	257
+immune+or+immune+system	16364519	3558	Farag SS	Human natural killer cell development and biology.	Blood reviews	2006	79
+immune+or+immune+system	16567385	3558	Jabbari A	Secondary memory CD8+ T cells are more protective but slower to acquire a central-memory phenotype.	The Journal of experimental medicine	2006	83
+immune+or+immune+system	16763205	3558	Banerjee DK	Expansion of FOXP3high regulatory T cells by human dendritic cells (DCs) in vitro and after injection of cytokine-matured DCs in myeloma patients.	Blood	2006	94
+immune+or+immune+system	17075125	3558	Mackensen A	Phase I study of adoptive T-cell therapy using antigen-specific CD8+ T cells for the treatment of patients with metastatic melanoma.	Journal of clinical oncology 	2006	92
+immune+or+immune+system	17108138	3558	Kowolik CM	CD28 costimulation provided through a CD19-specific chimeric antigen receptor enhances in vivo persistence and antitumor efficacy of adoptively transferred T cells.	Cancer research	2006	155
+immune+or+immune+system	17110377	3558	Stopak KS	Distinct patterns of cytokine regulation of APOBEC3G expression and activity in primary lymphocytes, macrophages, and dendritic cells.	The Journal of biological chemistry	2007	75
+immune+or+immune+system	17202333	3558	Peluso I	IL-21 counteracts the regulatory T cell-mediated suppression of human CD4+ T lymphocytes.	Journal of immunology	2007	71
+immune+or+immune+system	17289812	3558	Biancotto A	Abnormal activation and cytokine spectra in lymph nodes of people chronically infected with HIV-1.	Blood	2007	87
+immune+or+immune+system	17671216	3558	Clayton A	Human tumor-derived exosomes selectively impair lymphocyte responses to interleukin-2.	Cancer research	2007	106
+immune+or+immune+system	18334676	3558	Ferrajoli A	Lenalidomide induces complete and partial remissions in patients with relapsed and refractory chronic lymphocytic leukemia.	Blood	2008	105
+immune+or+immune+system	18508251	3558	Curiel TJ	Regulatory T cells and treatment of cancer.	Current opinion in immunology	2008	66
+immune+or+immune+system	18509084	3558	Till BG	Adoptive immunotherapy for indolent non-Hodgkin lymphoma and mantle cell lymphoma using genetically modified autologous CD20-specific T cells.	Blood	2008	185
+immune+or+immune+system	18559587	3558	Bergmann C	T regulatory type 1 cells in squamous cell carcinoma of the head and neck: mechanisms of suppression and expansion in advanced disease.	Clinical cancer research 	2008	56
+immune+or+immune+system	18684212	3558	Chang L	Dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis in irritable bowel syndrome.	Neurogastroenterology and motility 	2009	51
+immune+or+immune+system	18779745	3558	Tran KQ	Minimally cultured tumor-infiltrating lymphocytes display optimal characteristics for adoptive cell therapy.	Journal of immunotherapy	2008	61
+immune+or+immune+system	18809613	3558	Dudley ME	Adoptive cell therapy for patients with metastatic melanoma: evaluation of intensive myeloablative chemoradiation preparative regimens.	Journal of clinical oncology 	2008	389
+immune+or+immune+system	19265131	3558	Castriconi R	NK cells recognize and kill human glioblastoma cells with stem cell-like properties.	Journal of immunology	2009	54
+immune+or+immune+system	19383914	3558	Fujisaki H	Expansion of highly cytotoxic human natural killer cells for cancer cell therapy.	Cancer research	2009	103
+immune+or+immune+system	19404981	3558	Pinna D	Clonal dissection of the human memory B-cell repertoire following infection and vaccination.	European journal of immunology	2009	49
+immune+or+immune+system	19465693	3558	Chung DJ	Indoleamine 2,3-dioxygenase-expressing mature human monocyte-derived dendritic cells expand potent autologous regulatory T cells.	Blood	2009	83
+immune+or+immune+system	19726501	3558	Migueles SA	Defective human immunodeficiency virus-specific CD8+ T-cell polyfunctionality, proliferation, and cytotoxicity are not restored by antiretroviral therapy.	Journal of virology	2009	67
+immune+or+immune+system	19933795	3558	Hopkins S	SCY-635, a novel nonimmunosuppressive analog of cyclosporine that exhibits potent inhibition of hepatitis C virus RNA replication in vitro.	Antimicrobial agents and chemotherapy	2010	41
+immune+or+immune+system	19965651	3558	Curtale G	An emerging player in the adaptive immune response: microRNA-146a is a modulator of IL-2 expression and activation-induced cell death in T lymphocytes.	Blood	2010	92
+immune+or+immune+system	20085940	3558	Rubnitz JE	NKAML: a pilot study to determine the safety and feasibility of haploidentical natural killer cell transplantation in childhood acute myeloid leukemia.	Journal of clinical oncology 	2010	118
+immune+or+immune+system	20221423	3558	Makedonas G	Perforin and IL-2 upregulation define qualitative differences among highly functional virus-specific human CD8 T cells.	PLoS pathogens	2010	56
+immune+or+immune+system	20304086	3558	Jensen MC	Antitransgene rejection responses contribute to attenuated persistence of adoptively transferred CD20/CD19-specific chimeric antigen receptor redirected T cells in humans.	Biology of blood and marrow transplantation 	2010	119
+immune+or+immune+system	20382097	3558	Coura JR	Chagas disease: 100 years after its discovery. A systemic review.	Acta tropica	2010	42
+immune+or+immune+system	20406835	3558	Besser MJ	Clinical responses in a phase II study using adoptive transfer of short-term cultured tumor infiltration lymphocytes in metastatic melanoma patients.	Clinical cancer research 	2010	105
+immune+or+immune+system	20439625	3558	Abès R	Long-lasting antitumor protection by anti-CD20 antibody through cellular immune response.	Blood	2010	55
+immune+or+immune+system	20491785	3558	Meraviglia S	In vivo manipulation of Vgamma9Vdelta2 T cells with zoledronate and low-dose interleukin-2 for immunotherapy of advanced breast cancer patients.	Clinical and experimental immunology	2010	57
+immune+or+immune+system	20558731	3558	Mandapathil M	Adenosine and prostaglandin E2 cooperate in the suppression of immune responses mediated by adaptive regulatory T cells.	The Journal of biological chemistry	2010	47
+immune+or+immune+system	20651070	3558	Görgün G	Immunomodulatory effects of lenalidomide and pomalidomide on interaction of tumor and bone marrow accessory cells in multiple myeloma.	Blood	2010	47
+immune+or+immune+system	20668005	3558	Dudley ME	CD8+ enriched "young" tumor infiltrating lymphocytes can mediate regression of metastatic melanoma.	Clinical cancer research 	2010	60
+immune+or+immune+system	20680271	3558	Bachanova V	Allogeneic natural killer cells for refractory lymphoma.	Cancer immunology, immunotherapy 	2010	46
+immune+or+immune+system	20736326	3558	Jacobs JF	Dendritic cell vaccination in combination with anti-CD25 monoclonal antibody treatment: a phase I/II study in metastatic melanoma patients.	Clinical cancer research 	2010	50
+immune+or+immune+system	20849361	3558	Geller MA	A phase II study of allogeneic natural killer cell therapy to treat patients with recurrent ovarian and breast cancer.	Cytotherapy	2011	84
+immune+or+immune+system	20935224	3558	Delgado DC	Genotypes of NK cell KIR receptors, their ligands, and Fcγ receptors in the response of neuroblastoma patients to Hu14.18-IL2 immunotherapy.	Cancer research	2010	50
+immune+or+immune+system	20952687	3558	Brunstein CG	Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics.	Blood	2011	272
+immune+or+immune+system	20978269	3558	Hsu AK	The immunostimulatory effect of lenalidomide on NK-cell function is profoundly inhibited by concurrent dexamethasone therapy.	Blood	2011	43
+immune+or+immune+system	21278738	3558	Yang XP	Opposing regulation of the locus encoding IL-17 through direct, reciprocal actions of STAT3 and STAT5.	Nature immunology	2011	191
+immune+or+immune+system	21389874	3558	Hernandez-Chacon JA	Costimulation through the CD137/4-1BB pathway protects human melanoma tumor-infiltrating lymphocytes from activation-induced cell death and enhances antitumor effector function.	Journal of immunotherapy	2011	37
+immune+or+immune+system	21498393	3558	Rosenberg SA	Durable complete responses in heavily pretreated patients with metastatic melanoma using T-cell transfer immunotherapy.	Clinical cancer research 	2011	412
+immune+or+immune+system	21532597	3558	Wuest SC	A role for interleukin-2 trans-presentation in dendritic cell-mediated T cell activation in humans, as revealed by daclizumab therapy.	Nature medicine	2011	76
+immune+or+immune+system	21631324	3558	Schwartzentruber DJ	gp100 peptide vaccine and interleukin-2 in patients with advanced melanoma.	The New England journal of medicine	2011	208
+immune+or+immune+system	21771874	3558	Lesterhuis WJ	Route of administration modulates the induction of dendritic cell vaccine-induced antigen-specific T cells in advanced melanoma patients.	Clinical cancer research 	2011	39
+immune+or+immune+system	21791425	3558	Curti A	Successful transfer of alloreactive haploidentical KIR ligand-mismatched natural killer cells after infusion in elderly high risk acute myeloid leukemia patients.	Blood	2011	69
+immune+or+immune+system	21889323	3558	Liao W	IL-2 family cytokines: new insights into the complex roles of IL-2 as a broad regulator of T helper cell differentiation.	Current opinion in immunology	2011	102
+immune+or+immune+system	21998698	3558	Olotu A	Circumsporozoite-specific T cell responses in children vaccinated with RTS,S/AS01E and protection against P falciparum clinical malaria.	PloS one	2011	38
+immune+or+immune+system	22072753	3558	Lachmann R	Polyfunctional T cells accumulate in large human cytomegalovirus-specific T cell responses.	Journal of virology	2012	33
+immune+or+immune+system	22129252	3558	Koreth J	Interleukin-2 and regulatory T cells in graft-versus-host disease.	The New England journal of medicine	2011	209
+immune+or+immune+system	22129253	3558	Saadoun D	Regulatory T-cell responses to low-dose interleukin-2 in HCV-induced vasculitis.	The New England journal of medicine	2011	142
+immune+or+immune+system	22160384	3558	Kochenderfer JN	B-cell depletion and remissions of malignancy along with cytokine-associated toxicity in a clinical trial of anti-CD19 chimeric-antigen-receptor-transduced T cells.	Blood	2012	345
+immune+or+immune+system	22275504	3558	Liu L	Randomized study of autologous cytokine-induced killer cell immunotherapy in metastatic renal carcinoma.	Clinical cancer research 	2012	37
+immune+or+immune+system	22311675	3558	Andersen RS	Dissection of T-cell antigen specificity in human melanoma.	Cancer research	2012	44
+immune+or+immune+system	22393002	3558	Chapuis AG	Transferred melanoma-specific CD8+ T cells persist, mediate tumor regression, and acquire central memory phenotype.	Proceedings of the National Academy of Sciences of the United States of America	2012	47
+immune+or+immune+system	22453018	3558	Wu R	Adoptive T-cell therapy using autologous tumor-infiltrating lymphocytes for metastatic melanoma: current status and future outlook.	Cancer journal	2012	39
+immune+or+immune+system	22461703	3558	Garg G	Type 1 diabetes-associated IL2RA variation lowers IL-2 signaling and contributes to diminished CD4+CD25+ regulatory T cell function.	Journal of immunology	2012	43
+immune+or+immune+system	22555974	3558	Yao X	Levels of peripheral CD4(+)FoxP3(+) regulatory T cells are negatively associated with clinical response to adoptive immunotherapy of human cancer.	Blood	2012	44
+immune+or+immune+system	22674552	3558	Seung SK	Phase 1 study of stereotactic body radiotherapy and interleukin-2--tumor and immunological responses.	Science translational medicine	2012	56
+immune+or+immune+system	22706088	3558	Moorman JP	Tim-3 pathway controls regulatory and effector T cell balance during hepatitis C virus infection.	Journal of immunology	2012	32
+immune+or+immune+system	22710188	3558	Kennedy PTF	Preserved T-cell function in children and young adults with immune-tolerant chronic hepatitis B.	Gastroenterology	2012	39
+immune+or+immune+system	22737606	3558	Galluzzi L	Trial Watch: Adoptive cell transfer immunotherapy.	Oncoimmunology	2012	44
+immune+or+immune+system	23552371	3558	Matsuoka K	Low-dose interleukin-2 therapy restores regulatory T cell homeostasis in patients with chronic graft-versus-host disease.	Science translational medicine	2013	93
+immune+or+immune+system	23583734	3558	Hirschfield GM	The genetics of complex cholestatic disorders.	Gastroenterology	2013	28
+immune+or+immune+system	23639322	3558	Lippitz BE	Cytokine patterns in patients with cancer: a systematic review.	The Lancet. Oncology	2013	136
+immune+or+immune+system	23650429	3558	Dudley ME	Randomized selection design trial evaluating CD8+-enriched versus unselected tumor-infiltrating lymphocytes for adoptive cell therapy for patients with melanoma.	Journal of clinical oncology 	2013	44
+immune+or+immune+system	23741305	3558	Singh H	Manufacture of clinical-grade CD19-specific T cells stably expressing chimeric antigen receptor using Sleeping Beauty system and artificial antigen presenting cells.	PloS one	2013	39
+immune+or+immune+system	24094496	3558	Tonn T	Treatment of patients with advanced cancer with the natural killer cell line NK-92.	Cytotherapy	2013	40
+immune+or+immune+system	24573552	3558	Kennedy-Nasser AA	Ultra low-dose IL-2 for GVHD prophylaxis after allogeneic hematopoietic stem cell transplantation mediates expansion of regulatory T cells without diminishing antiviral and antileukemic activity.	Clinical cancer research 	2014	32
+immune+or+immune+system	24622415	3558	Hartemann A	Low-dose interleukin 2 in patients with type 1 diabetes: a phase 1/2 randomised, double-blind, placebo-controlled trial.	The lancet. Diabetes and endocrinology	2013	45
+immune+or+immune+system	24650034	3558	Kimbrel EA	Mesenchymal stem cell population derived from human pluripotent stem cells displays potent immunomodulatory and therapeutic properties.	Stem cells and development	2014	28
+immune+or+immune+system	24719405	3558	Bachanova V	Clearance of acute myeloid leukemia by haploidentical natural killer cells is improved using IL-2 diphtheria toxin fusion protein.	Blood	2014	59
+immune+or+immune+system	24782509	3558	Xu Y	Closely related T-memory stem cells correlate with in vivo expansion of CAR.CD19-T cells and are preserved by IL-7 and IL-15.	Blood	2014	59
+immune+or+immune+system	24907378	3558	Rosenberg SA	IL-2: the first effective immunotherapy for human cancer.	Journal of immunology	2014	84
+immune+or+immune+system	25171868	3558	Bartemes KR	Enhanced innate type 2 immune response in peripheral blood from patients with asthma.	The Journal of allergy and clinical immunology	2014	40
+immune+or+immune+system	25415285	3558	Szmania S	Ex vivo-expanded natural killer cells demonstrate robust proliferation in vivo in high-risk relapsed multiple myeloma patients.	Journal of immunotherapy	2015	24
+immune+or+immune+system	25503054	3558	Schuetz A	Initiation of ART during early acute HIV infection preserves mucosal Th17 function and reverses HIV-related immune activation.	PLoS pathogens	2014	48
+immune+or+immune+system	25576057	3558	Yu A	Selective IL-2 responsiveness of regulatory T cells through multiple intrinsic mechanisms supports the use of low-dose IL-2 therapy in type 1 diabetes.	Diabetes	2015	21
+immune+or+immune+system	25695689	3558	Zhang L	Tumor-infiltrating lymphocytes genetically engineered with an inducible gene encoding interleukin-12 for the immunotherapy of metastatic melanoma.	Clinical cancer research 	2015	29
+immune+or+immune+system	25747273	3558	Lee JH	Adjuvant immunotherapy with autologous cytokine-induced killer cells for hepatocellular carcinoma.	Gastroenterology	2015	31
+immune+or+immune+system	25850950	3558	Katz SC	Phase I Hepatic Immunotherapy for Metastases Study of Intra-Arterial Chimeric Antigen Receptor-Modified T-cell Therapy for CEA+ Liver Metastases.	Clinical cancer research 	2015	23
+immune+or+immune+system	25939024	3558	Thiault N	Peripheral regulatory T lymphocytes recirculating to the thymus suppress the development of their precursors.	Nature immunology	2015	23
+immune+or+immune+system	25940712	3558	Ninomiya S	Tumor indoleamine 2,3-dioxygenase (IDO) inhibits CD19-CAR T cells and is downregulated by lymphodepleting drugs.	Blood	2015	25
+immune+or+immune+system	26324847	3558	von Spee-Mayer C	Low-dose interleukin-2 selectively corrects regulatory T cell defects in patients with systemic lupus erythematosus.	Annals of the rheumatic diseases	2016	12
+immune+or+immune+system	27006492	3558	Andersen R	Long-Lasting Complete Responses in Patients with Metastatic Melanoma after Adoptive Cell Therapy with Tumor-Infiltrating Lymphocytes and an Attenuated IL2 Regimen.	Clinical cancer research 	2016	16
+immune+or+immune+system	27073224	3558	Koreth J	Efficacy, durability, and response predictors of low-dose interleukin-2 therapy for chronic graft-versus-host disease.	Blood	2016	15
+immune+or+immune+system	27500725	3558	He J	Low-dose interleukin-2 treatment selectively modulates CD4(+) T cell subsets in patients with systemic lupus erythematosus.	Nature medicine	2016	11
+infectious+or+infection	2995487	3558	McDougal JS	Cellular tropism of the human retrovirus HTLV-III/LAV. I. Role of T cell activation and expression of the T4 antigen.	Journal of immunology	1985	169
+infectious+or+infection	8011282	3558	Romagnani S	Lymphokine production by human T cells in disease states.	Annual review of immunology	1994	169
+infectious+or+infection	10358758	3558	Lenardo M	Mature T lymphocyte apoptosis--immune regulation in a dynamic and unpredictable antigenic environment.	Annual review of immunology	1999	192
+infectious+or+infection	10371503	3558	Chun TW	Effect of interleukin-2 on the pool of latently infected, resting CD4+ T cells in HIV-1-infected patients receiving highly active anti-retroviral therapy.	Nature medicine	1999	122
+infectious+or+infection	10611346	3558	Davey RT Jr	HIV-1 and T cell dynamics after interruption of highly active antiretroviral therapy (HAART) in patients with a history of sustained viral suppression.	Proceedings of the National Academy of Sciences of the United States of America	1999	198
+infectious+or+infection	12218168	3558	Wedemeyer H	Impaired effector function of hepatitis C virus-specific CD8+ T cells in chronic hepatitis C virus infection.	Journal of immunology	2002	173
+infectious+or+infection	12663797	3558	Wherry EJ	Viral persistence alters CD8 T-cell immunodominance and tissue distribution and results in distinct stages of functional impairment.	Journal of virology	2003	484
+infectious+or+infection	15128946	3558	Sundrud MS	Inhibition of primary human T cell proliferation by Helicobacter pylori vacuolating toxin (VacA) is independent of VacA effects on IL-2 secretion.	Proceedings of the National Academy of Sciences of the United States of America	2004	80
+infectious+or+infection	15141157	3558	Nakamura K	Antitumor effect of genetically engineered mesenchymal stem cells in a rat glioma model.	Gene therapy	2004	141
+infectious+or+infection	15218108	3558	Sivori S	CpG and double-stranded RNA trigger human NK cells by Toll-like receptors: induction of cytokine release and cytotoxicity against tumors and dendritic cells.	Proceedings of the National Academy of Sciences of the United States of America	2004	87
+infectious+or+infection	15972602	3558	Wikby A	An immune risk phenotype, cognitive impairment, and survival in very late life: impact of allostatic load in Swedish octogenarian and nonagenarian humans.	The journals of gerontology. Series A, Biological sciences and medical sciences	2005	83
+infectious+or+infection	15980149	3558	Klebanoff CA	Central memory self/tumor-reactive CD8+ T cells confer superior antitumor immunity compared with effector memory T cells.	Proceedings of the National Academy of Sciences of the United States of America	2005	231
+infectious+or+infection	16051844	3558	Brooks DG	Intrinsic functional dysregulation of CD4 T cells occurs rapidly following persistent viral infection.	Journal of virology	2005	82
+infectious+or+infection	17093248	3558	Brennan DC	Rabbit antithymocyte globulin versus basiliximab in renal transplantation.	The New England journal of medicine	2006	77
+infectious+or+infection	17110377	3558	Stopak KS	Distinct patterns of cytokine regulation of APOBEC3G expression and activity in primary lymphocytes, macrophages, and dendritic cells.	The Journal of biological chemistry	2007	75
+infectious+or+infection	17289812	3558	Biancotto A	Abnormal activation and cytokine spectra in lymph nodes of people chronically infected with HIV-1.	Blood	2007	87
+infectious+or+infection	19364969	3558	Sabatino M	Serum vascular endothelial growth factor and fibronectin predict clinical response to high-dose interleukin-2 therapy.	Journal of clinical oncology 	2009	49
+infectious+or+infection	19404981	3558	Pinna D	Clonal dissection of the human memory B-cell repertoire following infection and vaccination.	European journal of immunology	2009	49
+infectious+or+infection	19726501	3558	Migueles SA	Defective human immunodeficiency virus-specific CD8+ T-cell polyfunctionality, proliferation, and cytotoxicity are not restored by antiretroviral therapy.	Journal of virology	2009	67
+infectious+or+infection	19828532	3558	INSIGHT-ESPRIT Study Group.	Interleukin-2 therapy in patients with HIV infection.	The New England journal of medicine	2009	135
+infectious+or+infection	20952687	3558	Brunstein CG	Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics.	Blood	2011	272
+infectious+or+infection	22072753	3558	Lachmann R	Polyfunctional T cells accumulate in large human cytomegalovirus-specific T cell responses.	Journal of virology	2012	33
+infectious+or+infection	22129253	3558	Saadoun D	Regulatory T-cell responses to low-dose interleukin-2 in HCV-induced vasculitis.	The New England journal of medicine	2011	142
+infectious+or+infection	22436957	3558	Tan J	Induction therapy with autologous mesenchymal stem cells in living-related kidney transplants: a randomized controlled trial.	JAMA	2012	99
+infectious+or+infection	22706088	3558	Moorman JP	Tim-3 pathway controls regulatory and effector T cell balance during hepatitis C virus infection.	Journal of immunology	2012	32
+infectious+or+infection	22710188	3558	Kennedy PTF	Preserved T-cell function in children and young adults with immune-tolerant chronic hepatitis B.	Gastroenterology	2012	39
+infectious+or+infection	25503054	3558	Schuetz A	Initiation of ART during early acute HIV infection preserves mucosal Th17 function and reverses HIV-related immune activation.	PLoS pathogens	2014	48
+infectious+or+infection	26444729	3558	Kappos L	Daclizumab HYP versus Interferon Beta-1a in Relapsing Multiple Sclerosis.	The New England journal of medicine	2015	26
+infectious+or+infection	27500725	3558	He J	Low-dose interleukin-2 treatment selectively modulates CD4(+) T cell subsets in patients with systemic lupus erythematosus.	Nature medicine	2016	11
+kidney+or+urine	8120958	3558	Rosenberg SA	Treatment of 283 consecutive patients with metastatic melanoma or renal cell cancer using high-dose bolus interleukin 2.	JAMA	1994	150
+kidney+or+urine	11357146	3558	Rosenberg SA	Progress in human tumour immunology and immunotherapy.	Nature	2001	236
+kidney+or+urine	12218168	3558	Wedemeyer H	Impaired effector function of hepatitis C virus-specific CD8+ T cells in chronic hepatitis C virus infection.	Journal of immunology	2002	173
+kidney+or+urine	12915604	3558	Yang JC	Randomized study of high-dose and low-dose interleukin-2 in patients with metastatic renal cancer.	Journal of clinical oncology 	2003	110
+kidney+or+urine	14974943	3558	Opelz G	Lymphomas after solid organ transplantation: a collaborative transplant study report.	American journal of transplantation 	2004	79
+kidney+or+urine	15632206	3558	Miller JS	Successful adoptive transfer and in vivo expansion of human haploidentical NK cells in patients with cancer.	Blood	2005	340
+kidney+or+urine	15674877	3558	Coppin C	Immunotherapy for advanced renal cell cancer.	The Cochrane database of systematic reviews	2005	88
+kidney+or+urine	15897568	3558	Atkins M	Carbonic anhydrase IX expression predicts outcome of interleukin 2 therapy for renal cancer.	Clinical cancer research 	2005	68
+kidney+or+urine	16224276	3558	Attia P	Inability of a fusion protein of IL-2 and diphtheria toxin (Denileukin Diftitox, DAB389IL-2, ONTAK) to eliminate regulatory T lymphocytes in patients with melanoma.	Journal of immunotherapy	2005	70
+kidney+or+urine	16308572	3558	Dannull J	Enhancement of vaccine-mediated antitumor immunity in cancer patients after depletion of regulatory T cells.	The Journal of clinical investigation	2005	257
+kidney+or+urine	17093248	3558	Brennan DC	Rabbit antithymocyte globulin versus basiliximab in renal transplantation.	The New England journal of medicine	2006	77
+kidney+or+urine	19364969	3558	Sabatino M	Serum vascular endothelial growth factor and fibronectin predict clinical response to high-dose interleukin-2 therapy.	Journal of clinical oncology 	2009	49
+kidney+or+urine	20881001	3558	Amato RJ	Vaccination of metastatic renal cancer patients with MVA-5T4: a randomized, double-blind, placebo-controlled phase III study.	Clinical cancer research 	2010	44
+kidney+or+urine	22275504	3558	Liu L	Randomized study of autologous cytokine-induced killer cell immunotherapy in metastatic renal carcinoma.	Clinical cancer research 	2012	37
+kidney+or+urine	22436957	3558	Tan J	Induction therapy with autologous mesenchymal stem cells in living-related kidney transplants: a randomized controlled trial.	JAMA	2012	99
+kidney+or+urine	22674552	3558	Seung SK	Phase 1 study of stereotactic body radiotherapy and interleukin-2--tumor and immunological responses.	Science translational medicine	2012	56
+kidney+or+urine	24907378	3558	Rosenberg SA	IL-2: the first effective immunotherapy for human cancer.	Journal of immunology	2014	84
+liver+or+hepatic	3264384	3558	Rosenberg SA	Use of tumor-infiltrating lymphocytes and interleukin-2 in the immunotherapy of patients with metastatic melanoma. A preliminary report.	The New England journal of medicine	1988	246
+liver+or+hepatic	11022927	3558	Takayama T	Adoptive immunotherapy to lower postsurgical recurrence rates of hepatocellular carcinoma: a randomised trial.	Lancet	2000	135
+liver+or+hepatic	12218168	3558	Wedemeyer H	Impaired effector function of hepatitis C virus-specific CD8+ T cells in chronic hepatitis C virus infection.	Journal of immunology	2002	173
+liver+or+hepatic	12663797	3558	Wherry EJ	Viral persistence alters CD8 T-cell immunodominance and tissue distribution and results in distinct stages of functional impairment.	Journal of virology	2003	484
+liver+or+hepatic	14974943	3558	Opelz G	Lymphomas after solid organ transplantation: a collaborative transplant study report.	American journal of transplantation 	2004	79
+liver+or+hepatic	15800326	3558	Dudley ME	Adoptive cell transfer therapy following non-myeloablative but lymphodepleting chemotherapy for the treatment of patients with refractory metastatic melanoma.	Journal of clinical oncology 	2005	443
+liver+or+hepatic	19933795	3558	Hopkins S	SCY-635, a novel nonimmunosuppressive analog of cyclosporine that exhibits potent inhibition of hepatitis C virus RNA replication in vitro.	Antimicrobial agents and chemotherapy	2010	41
+liver+or+hepatic	21940902	3558	Bajaj JS	Linkage of gut microbiome with cognition in hepatic encephalopathy.	American journal of physiology. Gastrointestinal and liver physiology	2012	69
+liver+or+hepatic	22710188	3558	Kennedy PTF	Preserved T-cell function in children and young adults with immune-tolerant chronic hepatitis B.	Gastroenterology	2012	39
+liver+or+hepatic	23583734	3558	Hirschfield GM	The genetics of complex cholestatic disorders.	Gastroenterology	2013	28
+liver+or+hepatic	25695689	3558	Zhang L	Tumor-infiltrating lymphocytes genetically engineered with an inducible gene encoding interleukin-12 for the immunotherapy of metastatic melanoma.	Clinical cancer research 	2015	29
+liver+or+hepatic	25747273	3558	Lee JH	Adjuvant immunotherapy with autologous cytokine-induced killer cells for hepatocellular carcinoma.	Gastroenterology	2015	31
+liver+or+hepatic	25850950	3558	Katz SC	Phase I Hepatic Immunotherapy for Metastases Study of Intra-Arterial Chimeric Antigen Receptor-Modified T-cell Therapy for CEA+ Liver Metastases.	Clinical cancer research 	2015	23
+liver+or+hepatic	26444729	3558	Kappos L	Daclizumab HYP versus Interferon Beta-1a in Relapsing Multiple Sclerosis.	The New England journal of medicine	2015	26
+liver+or+hepatic	27073224	3558	Koreth J	Efficacy, durability, and response predictors of low-dose interleukin-2 therapy for chronic graft-versus-host disease.	Blood	2016	15
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	3493432	3558	Rosenberg SA	A progress report on the treatment of 157 patients with advanced cancer using lymphokine-activated killer cells and interleukin-2 or high-dose interleukin-2 alone.	The New England journal of medicine	1987	221
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	8028037	3558	Rosenberg SA	Treatment of patients with metastatic melanoma with autologous tumor-infiltrating lymphocytes and interleukin 2.	Journal of the National Cancer Institute	1994	157
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	8120958	3558	Rosenberg SA	Treatment of 283 consecutive patients with metastatic melanoma or renal cell cancer using high-dose bolus interleukin 2.	JAMA	1994	150
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	11675346	3558	Ng WF	Human CD4(+)CD25(+) cells: a naturally occurring population of regulatory T cells.	Blood	2001	100
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	12000866	3558	Dudley ME	A phase I study of nonmyeloablative chemotherapy and adoptive transfer of autologous tumor antigen-specific T lymphocytes in patients with metastatic melanoma.	Journal of immunotherapy	2002	86
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	14974943	3558	Opelz G	Lymphomas after solid organ transplantation: a collaborative transplant study report.	American journal of transplantation 	2004	79
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	15632206	3558	Miller JS	Successful adoptive transfer and in vivo expansion of human haploidentical NK cells in patients with cancer.	Blood	2005	340
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	15800326	3558	Dudley ME	Adoptive cell transfer therapy following non-myeloablative but lymphodepleting chemotherapy for the treatment of patients with refractory metastatic melanoma.	Journal of clinical oncology 	2005	443
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16121185	3558	Watanabe N	Hassall's corpuscles instruct dendritic cells to induce CD4+CD25+ regulatory T cells in human thymus.	Nature	2005	162
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	17289812	3558	Biancotto A	Abnormal activation and cytokine spectra in lymph nodes of people chronically infected with HIV-1.	Blood	2007	87
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18000167	3558	Lange BJ	Outcomes in CCG-2961, a children's oncology group phase 3 trial for untreated pediatric acute myeloid leukemia: a report from the children's oncology group.	Blood	2008	73
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18457330	3558	Klapper JA	High-dose interleukin-2 for the treatment of metastatic renal cell carcinoma : a retrospective analysis of response and survival in patients treated in the surgery branch at the National Cancer Institute between 1986 and 2006.	Cancer	2008	60
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18809613	3558	Dudley ME	Adoptive cell therapy for patients with metastatic melanoma: evaluation of intensive myeloablative chemoradiation preparative regimens.	Journal of clinical oncology 	2008	389
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19726501	3558	Migueles SA	Defective human immunodeficiency virus-specific CD8+ T-cell polyfunctionality, proliferation, and cytotoxicity are not restored by antiretroviral therapy.	Journal of virology	2009	67
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20085940	3558	Rubnitz JE	NKAML: a pilot study to determine the safety and feasibility of haploidentical natural killer cell transplantation in childhood acute myeloid leukemia.	Journal of clinical oncology 	2010	118
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20542324	3558	Blumchen K	Oral peanut immunotherapy in children with peanut anaphylaxis.	The Journal of allergy and clinical immunology	2010	70
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20881001	3558	Amato RJ	Vaccination of metastatic renal cancer patients with MVA-5T4: a randomized, double-blind, placebo-controlled phase III study.	Clinical cancer research 	2010	44
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20921469	3558	Shusterman S	Antitumor activity of hu14.18-IL2 in patients with relapsed/refractory neuroblastoma: a Children's Oncology Group (COG) phase II study.	Journal of clinical oncology 	2010	61
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20935224	3558	Delgado DC	Genotypes of NK cell KIR receptors, their ligands, and Fcγ receptors in the response of neuroblastoma patients to Hu14.18-IL2 immunotherapy.	Cancer research	2010	50
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21498393	3558	Rosenberg SA	Durable complete responses in heavily pretreated patients with metastatic melanoma using T-cell transfer immunotherapy.	Clinical cancer research 	2011	412
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21998698	3558	Olotu A	Circumsporozoite-specific T cell responses in children vaccinated with RTS,S/AS01E and protection against P falciparum clinical malaria.	PloS one	2011	38
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	22436957	3558	Tan J	Induction therapy with autologous mesenchymal stem cells in living-related kidney transplants: a randomized controlled trial.	JAMA	2012	99
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	22710188	3558	Kennedy PTF	Preserved T-cell function in children and young adults with immune-tolerant chronic hepatitis B.	Gastroenterology	2012	39
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23562009	3558	Gold R	Daclizumab high-yield process in relapsing-remitting multiple sclerosis (SELECT): a randomised, double-blind, placebo-controlled trial.	Lancet	2013	55
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23650429	3558	Dudley ME	Randomized selection design trial evaluating CD8+-enriched versus unselected tumor-infiltrating lymphocytes for adoptive cell therapy for patients with melanoma.	Journal of clinical oncology 	2013	44
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23741305	3558	Singh H	Manufacture of clinical-grade CD19-specific T cells stably expressing chimeric antigen receptor using Sleeping Beauty system and artificial antigen presenting cells.	PloS one	2013	39
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24094496	3558	Tonn T	Treatment of patients with advanced cancer with the natural killer cell line NK-92.	Cytotherapy	2013	40
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24573552	3558	Kennedy-Nasser AA	Ultra low-dose IL-2 for GVHD prophylaxis after allogeneic hematopoietic stem cell transplantation mediates expansion of regulatory T cells without diminishing antiviral and antileukemic activity.	Clinical cancer research 	2014	32
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24719405	3558	Bachanova V	Clearance of acute myeloid leukemia by haploidentical natural killer cells is improved using IL-2 diphtheria toxin fusion protein.	Blood	2014	59
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24782509	3558	Xu Y	Closely related T-memory stem cells correlate with in vivo expansion of CAR.CD19-T cells and are preserved by IL-7 and IL-15.	Blood	2014	59
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25415285	3558	Szmania S	Ex vivo-expanded natural killer cells demonstrate robust proliferation in vivo in high-risk relapsed multiple myeloma patients.	Journal of immunotherapy	2015	24
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25939024	3558	Thiault N	Peripheral regulatory T lymphocytes recirculating to the thymus suppress the development of their precursors.	Nature immunology	2015	23
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25940712	3558	Ninomiya S	Tumor indoleamine 2,3-dioxygenase (IDO) inhibits CD19-CAR T cells and is downregulated by lymphodepleting drugs.	Blood	2015	25
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	27073224	3558	Koreth J	Efficacy, durability, and response predictors of low-dose interleukin-2 therapy for chronic graft-versus-host disease.	Blood	2016	15
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	27500725	3558	He J	Low-dose interleukin-2 treatment selectively modulates CD4(+) T cell subsets in patients with systemic lupus erythematosus.	Nature medicine	2016	11
+stem+cells	15141157	3558	Nakamura K	Antitumor effect of genetically engineered mesenchymal stem cells in a rat glioma model.	Gene therapy	2004	141
+stem+cells	15777785	3558	Rasmusson I	Mesenchymal stem cells inhibit lymphocyte proliferation by mitogens and alloantigens by different mechanisms.	Experimental cell research	2005	91
+stem+cells	15780987	3558	Freud AG	A human CD34(+) subset resides in lymph nodes and differentiates into CD56bright natural killer cells.	Immunity	2005	99
+stem+cells	19265131	3558	Castriconi R	NK cells recognize and kill human glioblastoma cells with stem cell-like properties.	Journal of immunology	2009	54
+stem+cells	20304086	3558	Jensen MC	Antitransgene rejection responses contribute to attenuated persistence of adoptively transferred CD20/CD19-specific chimeric antigen receptor redirected T cells in humans.	Biology of blood and marrow transplantation 	2010	119
+stem+cells	20935224	3558	Delgado DC	Genotypes of NK cell KIR receptors, their ligands, and Fcγ receptors in the response of neuroblastoma patients to Hu14.18-IL2 immunotherapy.	Cancer research	2010	50
+stem+cells	20952687	3558	Brunstein CG	Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics.	Blood	2011	272
+stem+cells	21791425	3558	Curti A	Successful transfer of alloreactive haploidentical KIR ligand-mismatched natural killer cells after infusion in elderly high risk acute myeloid leukemia patients.	Blood	2011	69
+stem+cells	22436957	3558	Tan J	Induction therapy with autologous mesenchymal stem cells in living-related kidney transplants: a randomized controlled trial.	JAMA	2012	99
+stem+cells	23552371	3558	Matsuoka K	Low-dose interleukin-2 therapy restores regulatory T cell homeostasis in patients with chronic graft-versus-host disease.	Science translational medicine	2013	93
+stem+cells	23741305	3558	Singh H	Manufacture of clinical-grade CD19-specific T cells stably expressing chimeric antigen receptor using Sleeping Beauty system and artificial antigen presenting cells.	PloS one	2013	39
+stem+cells	24573552	3558	Kennedy-Nasser AA	Ultra low-dose IL-2 for GVHD prophylaxis after allogeneic hematopoietic stem cell transplantation mediates expansion of regulatory T cells without diminishing antiviral and antileukemic activity.	Clinical cancer research 	2014	32
+stem+cells	24650034	3558	Kimbrel EA	Mesenchymal stem cell population derived from human pluripotent stem cells displays potent immunomodulatory and therapeutic properties.	Stem cells and development	2014	28
+stem+cells	24782509	3558	Xu Y	Closely related T-memory stem cells correlate with in vivo expansion of CAR.CD19-T cells and are preserved by IL-7 and IL-15.	Blood	2014	59
+stem+cells	25939024	3558	Thiault N	Peripheral regulatory T lymphocytes recirculating to the thymus suppress the development of their precursors.	Nature immunology	2015	23
+toxicology+or+toxic+or+toxin	3264384	3558	Rosenberg SA	Use of tumor-infiltrating lymphocytes and interleukin-2 in the immunotherapy of patients with metastatic melanoma. A preliminary report.	The New England journal of medicine	1988	246
+toxicology+or+toxic+or+toxin	15128946	3558	Sundrud MS	Inhibition of primary human T cell proliferation by Helicobacter pylori vacuolating toxin (VacA) is independent of VacA effects on IL-2 secretion.	Proceedings of the National Academy of Sciences of the United States of America	2004	80
+toxicology+or+toxic+or+toxin	16224276	3558	Attia P	Inability of a fusion protein of IL-2 and diphtheria toxin (Denileukin Diftitox, DAB389IL-2, ONTAK) to eliminate regulatory T lymphocytes in patients with melanoma.	Journal of immunotherapy	2005	70
+toxicology+or+toxic+or+toxin	16308572	3558	Dannull J	Enhancement of vaccine-mediated antitumor immunity in cancer patients after depletion of regulatory T cells.	The Journal of clinical investigation	2005	257
+toxicology+or+toxic+or+toxin	17025272	3558	Kreitman RJ	Immunotoxins for targeted cancer therapy.	The AAPS journal	2006	68
+toxicology+or+toxic+or+toxin	19001327	3558	Atkins MB	Phase III trial comparing concurrent biochemotherapy with cisplatin, vinblastine, dacarbazine, interleukin-2, and interferon alfa-2b with cisplatin, vinblastine, and dacarbazine alone in patients with metastatic malignant melanoma (E3695): a trial coordinated by the Eastern Cooperative Oncology Group.	Journal of clinical oncology 	2008	57
+toxicology+or+toxic+or+toxin	21631324	3558	Schwartzentruber DJ	gp100 peptide vaccine and interleukin-2 in patients with advanced melanoma.	The New England journal of medicine	2011	208
+toxicology+or+toxic+or+toxin	21940902	3558	Bajaj JS	Linkage of gut microbiome with cognition in hepatic encephalopathy.	American journal of physiology. Gastrointestinal and liver physiology	2012	69
+toxicology+or+toxic+or+toxin	22436957	3558	Tan J	Induction therapy with autologous mesenchymal stem cells in living-related kidney transplants: a randomized controlled trial.	JAMA	2012	99
+toxicology+or+toxic+or+toxin	24719405	3558	Bachanova V	Clearance of acute myeloid leukemia by haploidentical natural killer cells is improved using IL-2 diphtheria toxin fusion protein.	Blood	2014	59

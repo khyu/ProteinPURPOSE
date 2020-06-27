@@ -1,0 +1,17 @@
+mutation cancer
+mutation lung cancer
+mutation prostate cancer
+mutation colorectal cancer
+mutation stomach cancer
+mutation liver cancer
+mutation bladder cancer
+mutation esophageal cancer
+mutation lymphoma
+mutation kidney cancer
+mutation leukemia
+mutation breast cancer
+mutation cervical cancer
+mutation uterine cancer
+mutation ovarian cancer
+mutation thyroid cancer
+mutation brain cancer

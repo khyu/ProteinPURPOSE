@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=cardiovascular+system+or+circulatory+system+human]..count_Big_T=1212848....[total citaion]=966002...Finished!---> Execucution:8 seconds
+Extracting PMIDs [query=cardiovascular+system+or+circulatory+system+human]..PMID#=902..Finished!---> Execucution:1 seconds

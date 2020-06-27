@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=integumentary+system+human]..count_Big_T=173432....[total citaion]=216314...Finished!---> Execucution:4 seconds
+Extracting PMIDs [query=integumentary+system+human]..PMID#=164.Finished!---> Execucution:0 seconds

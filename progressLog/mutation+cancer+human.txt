@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=mutation+cancer+human]..count_Big_T=172247....[total citaion]=1167202...Finished!---> Execucution:6 seconds
+Extracting PMIDs [query=mutation+cancer+human]..PMID#=2733....Finished!---> Execucution:5 seconds

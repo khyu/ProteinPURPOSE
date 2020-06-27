@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17581914
+Calculating PPS [query=protein+aggregation+not+platelet+aggregation+human]..count_Big_T=54020....[total citaion]=113861...Finished!---> Execucution:4 seconds
+Extracting PMIDs [query=protein+aggregation+not+platelet+aggregation+human]..PMID#=217.Finished!---> Execucution:0 seconds

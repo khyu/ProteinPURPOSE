@@ -1,0 +1,871 @@
+eye+or+ocular	18391061	3458	Luger D	Either a Th17 or a Th1 effector response can drive autoimmunity: conditions of disease induction affect dominant effector category.	The Journal of experimental medicine	2008	221
+eye+or+ocular	19724208	3458	Massingale ML	Analysis of inflammatory cytokines in the tears of dry eye patients.	Cornea	2009	81
+eye+or+ocular	21187448	3458	Rajasagi NK	Controlling herpes simplex virus-induced ocular inflammatory lesions with the lipid-derived mediator resolvin E1.	Journal of immunology	2011	44
+eye+or+ocular	23592910	3458	Kutty RK	Differential regulation of microRNA-146a and microRNA-146b-5p in human retinal pigment epithelial cells by interleukin-1β, tumor necrosis factor-α, and interferon-γ.	Molecular vision	2013	27
+food+or+nutrition+or+nutrients	10905243	3458	Gereda JE	Relation between house-dust endotoxin exposure, type 1 T-cell development, and allergen sensitisation in infants at high risk of asthma.	Lancet	2000	90
+food+or+nutrition+or+nutrients	11160295	3458	Verthelyi D	Human peripheral blood cells differentially recognize and respond to two distinct CPG motifs.	Journal of immunology	2001	88
+food+or+nutrition+or+nutrients	15479680	3458	Hart AL	Modulation of human dendritic cell phenotype and function by probiotic bacteria.	Gut	2004	93
+food+or+nutrition+or+nutrients	16357824	3458	Mazurek GH	Guidelines for using the QuantiFERON-TB Gold test for detecting Mycobacterium tuberculosis infection, United States.	MMWR. Recommendations and reports 	2005	150
+food+or+nutrition+or+nutrients	17463418	3458	Martineau AR	A single dose of vitamin D enhances immunity to mycobacteria.	American journal of respiratory and critical care medicine	2007	113
+food+or+nutrition+or+nutrients	17641064	3458	Admyre C	Exosomes with immune modulatory features are present in human breast milk.	Journal of immunology	2007	168
+food+or+nutrition+or+nutrients	18420999	3458	Kintscher U	T-lymphocyte infiltration in visceral adipose tissue: a primary event in adipose tissue inflammation and the development of obesity-mediated insulin resistance.	Arteriosclerosis, thrombosis, and vascular biology	2008	181
+food+or+nutrition+or+nutrients	18479258	3458	Atreya I	NF-kappaB in inflammatory bowel disease.	Journal of internal medicine	2008	101
+food+or+nutrition+or+nutrients	19401385	3458	Aydemir TB	Zinc transporter ZIP8 (SLC39A8) and zinc influence IFN-gamma expression in activated human T cells.	Journal of leukocyte biology	2009	53
+food+or+nutrition+or+nutrients	19538319	3458	Schulzke JD	Epithelial tight junctions in intestinal inflammation.	Annals of the New York Academy of Sciences	2009	70
+food+or+nutrition+or+nutrients	19577283	3458	Jones SM	Clinical efficacy and immune regulation with peanut oral immunotherapy.	The Journal of allergy and clinical immunology	2009	135
+food+or+nutrition+or+nutrients	20231693	3458	Wu X	Protein-DNA complex is the exclusive malaria parasite component that activates dendritic cells and triggers innate immune responses.	Journal of immunology	2010	50
+food+or+nutrition+or+nutrients	21281959	3458	Kim EH	Sublingual immunotherapy for peanut allergy: clinical and immunologic evidence of desensitization.	The Journal of allergy and clinical immunology	2011	63
+food+or+nutrition+or+nutrients	23331510	3458	Salahuddin N	Vitamin D accelerates clinical recovery from tuberculosis: results of the SUCCINCT Study Supplementary Cholecalciferol in recovery from tuberculosis. A randomized, placebo-controlled, clinical trial of vitamin D supplementation in patients with pulmonary tuberculosis'.	BMC infectious diseases	2013	36
+food+or+nutrition+or+nutrients	25469528	3458	Villar-García J	Effect of probiotics (Saccharomyces boulardii) on microbial translocation and inflammation in HIV-treated patients: a double-blind, randomized, placebo-controlled trial.	Journal of acquired immune deficiency syndromes	2015	26
+food+or+nutrition+or+nutrients	26350966	3458	Selleck EM	A Noncanonical Autophagy Pathway Restricts Toxoplasma gondii Growth in a Strain-Specific Manner in IFN-γ-Activated Human Cells.	mBio	2015	17
+glycoproteins	1672545	3458	Chan SH	Induction of interferon gamma production by natural killer cell stimulatory factor: characterization of the responder cells and synergy with other inducers.	The Journal of experimental medicine	1991	182
+glycoproteins	3926894	3458	Shalaby MR	Activation of human polymorphonuclear neutrophil functions by interferon-gamma and tumor necrosis factors.	Journal of immunology	1985	172
+glycoproteins	8102388	3458	D'Andrea A	Interleukin 10 (IL-10) inhibits human lymphocyte interferon gamma-production by suppressing natural killer cell stimulatory factor/IL-12 synthesis in accessory cells.	The Journal of experimental medicine	1993	292
+glycoproteins	9176497	3458	Döcke WD	Monocyte deactivation in septic patients: restoration by IFN-gamma treatment.	Nature medicine	1997	203
+glycoproteins	9294140	3458	Lalvani A	Rapid effector function in CD8+ memory T cells.	The Journal of experimental medicine	1997	171
+glycoproteins	9366401	3458	Steinbrink K	Induction of tolerance by IL-10-treated dendritic cells.	Journal of immunology	1997	220
+glycoproteins	10201989	3458	Fehniger TA	Differential cytokine and chemokine gene expression by human NK cells following activation with IL-18 or IL-15 in combination with IL-12: implications for the innate immune response.	Journal of immunology	1999	129
+glycoproteins	10226067	3458	Baldini M	A Polymorphism* in the 5' flanking region of the CD14 gene is associated with circulating soluble CD14 levels and with total serum immunoglobulin E.	American journal of respiratory cell and molecular biology	1999	125
+glycoproteins	10428293	3458	Frostegård J	Cytokine expression in advanced human atherosclerotic plaques: dominance of pro-inflammatory (Th1) and macrophage-stimulating cytokines.	Atherosclerosis	1999	141
+glycoproteins	10479160	3458	Day NP	The prognostic and pathophysiologic role of pro- and antiinflammatory cytokines in severe malaria.	The Journal of infectious diseases	1999	99
+glycoproteins	10646872	3458	Jaiswal M	Inflammatory cytokines induce DNA damage and inhibit DNA repair in cholangiocarcinoma cells by a nitric oxide-dependent mechanism.	Cancer research	2000	104
+glycoproteins	10725715	3458	Hwu P	Indoleamine 2,3-dioxygenase production by human dendritic cells results in the inhibition of T cell proliferation.	Journal of immunology	2000	131
+glycoproteins	10880527	3458	Appay V	HIV-specific CD8(+) T cells produce antiviral cytokines but are impaired in cytolytic function.	The Journal of experimental medicine	2000	201
+glycoproteins	10955814	3458	Ueno T	Significance of macrophage chemoattractant protein-1 in macrophage recruitment, angiogenesis, and survival in human breast cancer.	Clinical cancer research 	2000	160
+glycoproteins	11406550	3458	Woo EY	Regulatory CD4(+)CD25(+) T cells in tumors from patients with early-stage non-small cell lung cancer and late-stage ovarian cancer.	Cancer research	2001	243
+glycoproteins	11673535	3458	Pathan AA	Direct ex vivo analysis of antigen-specific IFN-gamma-secreting CD4 T cells in Mycobacterium tuberculosis-infected individuals: associations with clinical disease state and effect of treatment.	Journal of immunology	2001	103
+glycoproteins	11717429	3458	Bennett BL	SP600125, an anthrapyrazolone inhibitor of Jun N-terminal kinase.	Proceedings of the National Academy of Sciences of the United States of America	2001	591
+glycoproteins	12147537	3458	Adrie C	Successful cardiopulmonary resuscitation after cardiac arrest as a "sepsis-like" syndrome.	Circulation	2002	113
+glycoproteins	12438348	3458	Bacellar O	Up-regulation of Th1-type responses in mucosal leishmaniasis patients.	Infection and immunity	2002	100
+glycoproteins	12750172	3458	Dufour C	TNF-alpha and IFN-gamma are overexpressed in the bone marrow of Fanconi anemia patients and TNF-alpha suppresses erythropoiesis in vitro.	Blood	2003	82
+glycoproteins	12960359	3458	Morgan RA	High efficiency TCR gene transfer into primary human lymphocytes affords avid recognition of melanoma tumor antigen glycoprotein 100 and does not alter the recognition of autologous melanoma antigens.	Journal of immunology	2003	77
+glycoproteins	15589309	3458	Dorman SE	Clinical features of dominant and recessive interferon gamma receptor 1 deficiencies.	Lancet	2004	89
+glycoproteins	15710900	3458	Mohamadzadeh M	Lactobacilli activate human dendritic cells that skew T cells toward T helper 1 polarization.	Proceedings of the National Academy of Sciences of the United States of America	2005	87
+glycoproteins	15864738	3458	Klyushnenkova E	T cell responses to allogeneic human mesenchymal stem cells: immunogenicity, tolerance, and suppression.	Journal of biomedical science	2005	97
+glycoproteins	16258194	3458	Arican O	Serum levels of TNF-alpha, IFN-gamma, IL-6, IL-8, IL-12, IL-17, and IL-18 in patients with active psoriasis and correlation with disease severity.	Mediators of inflammation	2005	91
+glycoproteins	16330536	3458	Verreck FA	Phenotypic and functional profiling of human proinflammatory type-1 and anti-inflammatory type-2 macrophages in response to microbial antigens and IFN-gamma- and CD40L-mediated costimulation.	Journal of leukocyte biology	2006	91
+glycoproteins	16542361	3458	Ribeiro-Rodrigues R	A role for CD4+CD25+ T cells in regulation of the immune response during human tuberculosis.	Clinical and experimental immunology	2006	68
+glycoproteins	16543949	3458	Amedei A	The neutrophil-activating protein of Helicobacter pylori promotes Th1 immune responses.	The Journal of clinical investigation	2006	70
+glycoproteins	16971810	3458	Palucka AK	Dendritic cells loaded with killed allogeneic melanoma cells can induce objective clinical responses and MART-1 specific CD8+ T-cell immunity.	Journal of immunotherapy	2006	71
+glycoproteins	17255300	3458	Ochoa AC	Arginase, prostaglandins, and myeloid-derived suppressor cells in renal cell carcinoma.	Clinical cancer research 	2007	133
+glycoproteins	17339431	3458	Bogiatzi SI	Cutting Edge: Proinflammatory and Th2 cytokines synergize to induce thymic stromal lymphopoietin production by human skin keratinocytes.	Journal of immunology	2007	59
+glycoproteins	17513768	3458	Martineau AR	IFN-gamma- and TNF-independent vitamin D-inducible human suppression of mycobacteria: the role of cathelicidin LL-37.	Journal of immunology	2007	100
+glycoproteins	17553885	3458	Kannanganat S	Multiple-cytokine-producing antiviral CD4 T cells are functionally superior to single-cytokine-producing cells.	Journal of virology	2007	114
+glycoproteins	17709496	3458	Jones S	The antiproliferative effect of mesenchymal stem cells is a fundamental property shared by all stromal cells.	Journal of immunology	2007	63
+glycoproteins	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+glycoproteins	18039949	3458	Zaba LC	Amelioration of epidermal hyperplasia by TNF inhibition is associated with reduced Th17 responses.	The Journal of experimental medicine	2007	134
+glycoproteins	18292584	3458	Soares AP	Bacillus Calmette-Guérin vaccination of human newborns induces T cells with complex cytokine and phenotypic profiles.	Journal of immunology	2008	81
+glycoproteins	18497880	3458	Kamada N	Unique CD14 intestinal macrophages contribute to the pathogenesis of Crohn disease via IL-23/IFN-gamma axis.	The Journal of clinical investigation	2008	139
+glycoproteins	18678243	3458	Reale M	Peripheral cytokines profile in Parkinson's disease.	Brain, behavior, and immunity	2009	75
+glycoproteins	18840671	3458	Spencer LA	Human eosinophils constitutively express multiple Th1, Th2, and immunoregulatory cytokines that are secreted rapidly and differentially.	Journal of leukocyte biology	2009	65
+glycoproteins	19017986	3458	Bertholet S	Identification of human T cell antigens for the development of vaccines against Mycobacterium tuberculosis.	Journal of immunology	2008	52
+glycoproteins	19029905	3458	Cupedo T	Human fetal lymphoid tissue-inducer cells are interleukin 17-producing precursors to RORC+ CD127+ natural killer-like cells.	Nature immunology	2009	149
+glycoproteins	19088044	3458	Kusmartsev S	Reversal of myeloid cell-mediated immunosuppression in patients with metastatic renal cell carcinoma.	Clinical cancer research 	2008	83
+glycoproteins	19251324	3458	Brietzke E	Comparison of cytokine levels in depressed, manic and euthymic patients with bipolar disorder.	Journal of affective disorders	2009	46
+glycoproteins	19330474	3458	Wolk K	IL-22 and IL-20 are key mediators of the epidermal alterations in psoriasis while IL-17 and IFN-gamma are not.	Journal of molecular medicine	2009	58
+glycoproteins	19487422	3458	Strowig T	Priming of protective T cell responses against virus-induced tumors in mice with human immune system components.	The Journal of experimental medicine	2009	92
+glycoproteins	19497992	3458	Moodley Y	Human umbilical cord mesenchymal stem cells reduce fibrosis of bleomycin-induced lung injury.	The American journal of pathology	2009	77
+glycoproteins	19536809	3458	Xu Q	Antigen-specific T-cell response from dendritic cell vaccination using cancer stem-like cell-associated antigens.	Stem cells	2009	54
+glycoproteins	19724208	3458	Massingale ML	Analysis of inflammatory cytokines in the tears of dry eye patients.	Cornea	2009	81
+glycoproteins	19890056	3458	Jäger A	Th1, Th17, and Th9 effector cells induce experimental autoimmune encephalomyelitis with different pathological phenotypes.	Journal of immunology	2009	186
+glycoproteins	20015486	3458	Dowlati Y	A meta-analysis of cytokines in major depression.	Biological psychiatry	2010	516
+glycoproteins	20194818	3458	Wright RJ	Prenatal maternal stress and cord blood innate and adaptive cytokine responses in an inner-city cohort.	American journal of respiratory and critical care medicine	2010	58
+glycoproteins	20339534	3458	Waddell SJ	Dissecting interferon-induced transcriptional programs in human peripheral blood cells.	PloS one	2010	58
+glycoproteins	20400682	3458	Maslak PG	Vaccination with synthetic analog peptides derived from WT1 oncoprotein induces T-cell responses in patients with complete remission from acute myeloid leukemia.	Blood	2010	43
+glycoproteins	20437580	3458	Bar-Or A	Abnormal B-cell cytokine responses a trigger of T-cell-mediated disease in MS?	Annals of neurology	2010	85
+glycoproteins	20491796	3458	Harris J	How tumour necrosis factor blockers interfere with tuberculosis immunity.	Clinical and experimental immunology	2010	52
+glycoproteins	21085185	3458	Chiricozzi A	Integrative responses to IL-17 and TNF-α in human keratinocytes account for key inflammatory pathogenic circuits in psoriasis.	The Journal of investigative dermatology	2011	77
+glycoproteins	22323453	3458	Gleason MK	Tim-3 is an inducible human natural killer cell receptor that enhances interferon gamma production in response to galectin-9.	Blood	2012	58
+glycoproteins	22378844	3458	Trotta R	miR-155 regulates IFN-γ production in natural killer cells.	Blood	2012	61
+glycoproteins	22466287	3458	Zielinski CE	Pathogen-induced human TH17 cells produce IFN-γ or IL-10 and are regulated by IL-1β.	Nature	2012	190
+glycoproteins	22539471	3458	Singh OP	Reassessment of immune correlates in human visceral leishmaniasis as defined by cytokine release in whole blood.	Clinical and vaccine immunology 	2012	33
+glycoproteins	22569268	3458	Kamat A	Monocyte activation markers in cerebrospinal fluid associated with impaired neurocognitive testing in advanced HIV infection.	Journal of acquired immune deficiency syndromes	2012	61
+glycoproteins	22983442	3458	Romee R	Cytokine activation induces human memory-like NK cells.	Blood	2012	82
+glycoproteins	23271808	3458	Fu B	Natural killer cells promote immune tolerance by regulating inflammatory TH17 cells at the human maternal-fetal interface.	Proceedings of the National Academy of Sciences of the United States of America	2013	36
+glycoproteins	23468501	3458	Jegaskanda S	Antibody-dependent cellular cytotoxicity is associated with control of pandemic H1N1 influenza virus infection of macaques.	Journal of virology	2013	47
+glycoproteins	23493728	3458	Jarvis JN	The phenotype of the Cryptococcus-specific CD4+ memory T-cell response is associated with disease severity and outcome in HIV-associated cryptococcal meningitis.	The Journal of infectious diseases	2013	29
+glycoproteins	23592910	3458	Kutty RK	Differential regulation of microRNA-146a and microRNA-146b-5p in human retinal pigment epithelial cells by interleukin-1β, tumor necrosis factor-α, and interferon-γ.	Molecular vision	2013	27
+glycoproteins	23867552	3458	Carreno BM	IL-12p70-producing patient DC vaccine elicits Tc1-polarized immunity.	The Journal of clinical investigation	2013	37
+glycoproteins	23915137	3458	Swindell WR	Dissecting the psoriasis transcriptome: inflammatory- and cytokine-driven gene expression in lesions from 163 patients.	BMC genomics	2013	34
+glycoproteins	23999600	3458	Garg A	HIV type 1 gp120-induced expansion of myeloid derived suppressor cells is dependent on interleukin 6 and suppresses immunity.	The Journal of infectious diseases	2014	22
+glycoproteins	24219905	3458	Zimmermann JA	Pre-conditioning mesenchymal stromal cell spheroids for immunomodulatory paracrine factor secretion.	Cytotherapy	2014	26
+glycoproteins	24442432	3458	Della Chiesa M	Human cytomegalovirus infection promotes rapid maturation of NK cells expressing activating killer Ig-like receptor in patients transplanted with NKG2C-/- umbilical cord blood.	Journal of immunology	2014	31
+glycoproteins	25211344	3458	Sedegah M	Sterile immunity to malaria after DNA prime/adenovirus boost immunization is associated with effector memory CD8+T cells targeting AMA1 class I epitopes.	PloS one	2014	25
+glycoproteins	25329659	3458	Luetke-Eversloh M	Human cytomegalovirus drives epigenetic imprinting of the IFNG locus in NKG2Chi natural killer cells.	PLoS pathogens	2014	34
+glycoproteins	25469528	3458	Villar-García J	Effect of probiotics (Saccharomyces boulardii) on microbial translocation and inflammation in HIV-treated patients: a double-blind, randomized, placebo-controlled trial.	Journal of acquired immune deficiency syndromes	2015	26
+glycoproteins	25534940	3458	Cardoso TM	Protective and pathological functions of CD8+ T cells in Leishmania braziliensis infection.	Infection and immunity	2015	16
+glycoproteins	25644696	3458	Jiang W	Dysbiosis gut microbiota associated with inflammation and impaired mucosal immune function in intestine of humans with non-alcoholic fatty liver disease.	Scientific reports	2015	23
+glycoproteins	26405286	3458	Getahun H	Management of latent Mycobacterium tuberculosis infection: WHO guidelines for low tuberculosis burden countries.	The European respiratory journal	2015	21
+glycoproteins	27068708	3458	Fletcher HA	T-cell activation is an immune correlate of risk in BCG vaccinated infants.	Nature communications	2016	16
+immune+or+immune+system	1590992	3458	Sher A	Regulation of immunity to parasites by T cells and T cell-derived cytokines.	Annual review of immunology	1992	153
+immune+or+immune+system	1672545	3458	Chan SH	Induction of interferon gamma production by natural killer cell stimulatory factor: characterization of the responder cells and synergy with other inducers.	The Journal of experimental medicine	1991	182
+immune+or+immune+system	1681588	3458	Salgame P	Differing lymphokine profiles of functional subsets of human CD4 and CD8 T cell clones.	Science	1991	187
+immune+or+immune+system	3926894	3458	Shalaby MR	Activation of human polymorphonuclear neutrophil functions by interferon-gamma and tumor necrosis factors.	Journal of immunology	1985	172
+immune+or+immune+system	7475549	3458	Diepolder HM	Possible mechanism involving T-lymphocyte response to non-structural protein 3 in viral clearance in acute hepatitis C virus infection.	Lancet	1995	151
+immune+or+immune+system	8102388	3458	D'Andrea A	Interleukin 10 (IL-10) inhibits human lymphocyte interferon gamma-production by suppressing natural killer cell stimulatory factor/IL-12 synthesis in accessory cells.	The Journal of experimental medicine	1993	292
+immune+or+immune+system	8445253	3458	Jung T	Detection of intracellular cytokines by flow cytometry.	Journal of immunological methods	1993	149
+immune+or+immune+system	8536356	3458	Duchmann R	Tolerance exists towards resident intestinal flora but is broken in active inflammatory bowel disease (IBD)	Clinical and experimental immunology	1995	157
+immune+or+immune+system	8666949	3458	Valitutti S	Different responses are elicited in cytotoxic T lymphocytes by different levels of T cell receptor occupancy.	The Journal of experimental medicine	1996	124
+immune+or+immune+system	8757634	3458	Fuss IJ	Disparate CD4+ lamina propria (LP) lymphokine secretion profiles in inflammatory bowel disease. Crohn's disease LP cells manifest increased secretion of IFN-gamma, whereas ulcerative colitis LP cells manifest increased secretion of IL-5.	Journal of immunology	1996	241
+immune+or+immune+system	8993017	3458	D'Elios MM	T helper 1 effector cells specific for Helicobacter pylori in the gastric antrum of patients with peptic ulcer disease.	Journal of immunology	1997	135
+immune+or+immune+system	9120388	3458	Rogge L	Selective expression of an interleukin-12 receptor component by human T helper 1 cells.	The Journal of experimental medicine	1997	107
+immune+or+immune+system	9176497	3458	Döcke WD	Monocyte deactivation in septic patients: restoration by IFN-gamma treatment.	Nature medicine	1997	203
+immune+or+immune+system	9294140	3458	Lalvani A	Rapid effector function in CD8+ memory T cells.	The Journal of experimental medicine	1997	171
+immune+or+immune+system	9366401	3458	Steinbrink K	Induction of tolerance by IL-10-treated dendritic cells.	Journal of immunology	1997	220
+immune+or+immune+system	9428763	3458	Wilson SB	Extreme Th1 bias of invariant Valpha24JalphaQ T cells in type 1 diabetes.	Nature	1998	126
+immune+or+immune+system	9464798	3458	Jonuleit H	Pro-inflammatory cytokines and prostaglandins induce maturation of potent immunostimulatory dendritic cells under fetal calf serum-free conditions.	European journal of immunology	1997	226
+immune+or+immune+system	9603732	3458	Altare F	Impairment of mycobacterial immunity in human interleukin-12 receptor deficiency.	Science	1998	172
+immune+or+immune+system	9617578	3458	Maes M	The effects of psychological stress on humans: increased production of pro-inflammatory cytokines and a Th1-like response in stress-induced anxiety.	Cytokine	1998	106
+immune+or+immune+system	9923875	3458	Prescott SL	Development of allergen-specific T-cell memory in atopic and normal children.	Lancet	1999	100
+immune+or+immune+system	10201989	3458	Fehniger TA	Differential cytokine and chemokine gene expression by human NK cells following activation with IL-18 or IL-15 in combination with IL-12: implications for the innate immune response.	Journal of immunology	1999	129
+immune+or+immune+system	10428293	3458	Frostegård J	Cytokine expression in advanced human atherosclerotic plaques: dominance of pro-inflammatory (Th1) and macrophage-stimulating cytokines.	Atherosclerosis	1999	141
+immune+or+immune+system	10438971	3458	Heeger PS	Pretransplant frequency of donor-specific, IFN-gamma-producing lymphocytes is a manifestation of immunologic memory and correlates with the risk of posttransplant rejection episodes.	Journal of immunology	1999	111
+immune+or+immune+system	10725715	3458	Hwu P	Indoleamine 2,3-dioxygenase production by human dendritic cells results in the inhibition of T cell proliferation.	Journal of immunology	2000	131
+immune+or+immune+system	10779751	3458	Vieira PL	Development of Th1-inducing capacity in myeloid dendritic cells requires environmental instruction.	Journal of immunology	2000	91
+immune+or+immune+system	10790425	3458	Lechner F	Analysis of successful immune responses in persons infected with hepatitis C virus.	The Journal of experimental medicine	2000	356
+immune+or+immune+system	10792007	3458	Boussiotis VA	IL-10-producing T cells suppress immune responses in anergic tuberculosis patients.	The Journal of clinical investigation	2000	117
+immune+or+immune+system	10880527	3458	Appay V	HIV-specific CD8(+) T cells produce antiviral cytokines but are impaired in cytolytic function.	The Journal of experimental medicine	2000	201
+immune+or+immune+system	10905243	3458	Gereda JE	Relation between house-dust endotoxin exposure, type 1 T-cell development, and allergen sensitisation in infants at high risk of asthma.	Lancet	2000	90
+immune+or+immune+system	10955814	3458	Ueno T	Significance of macrophage chemoattractant protein-1 in macrophage recruitment, angiogenesis, and survival in human breast cancer.	Clinical cancer research 	2000	160
+immune+or+immune+system	11100127	3458	Kwak B	Statins as a newly recognized type of immunomodulator.	Nature medicine	2000	192
+immune+or+immune+system	11160295	3458	Verthelyi D	Human peripheral blood cells differentially recognize and respond to two distinct CPG motifs.	Journal of immunology	2001	88
+immune+or+immune+system	11170064	3458	To KF	Pathology of fatal human infection associated with avian influenza A H5N1 virus.	Journal of medical virology	2001	104
+immune+or+immune+system	11358808	3458	Schumacher K	Prognostic significance of activated CD8(+) T cell infiltrations within esophageal carcinomas.	Cancer research	2001	102
+immune+or+immune+system	11390435	3458	Jonuleit H	Identification and functional characterization of human CD4(+)CD25(+) T cells with regulatory properties isolated from peripheral blood.	The Journal of experimental medicine	2001	227
+immune+or+immune+system	11406550	3458	Woo EY	Regulatory CD4(+)CD25(+) T cells in tumors from patients with early-stage non-small cell lung cancer and late-stage ovarian cancer.	Cancer research	2001	243
+immune+or+immune+system	11418482	3458	Davies FE	Thalidomide and immunomodulatory derivatives augment natural killer cell cytotoxicity in multiple myeloma.	Blood	2001	145
+immune+or+immune+system	11673535	3458	Pathan AA	Direct ex vivo analysis of antigen-specific IFN-gamma-secreting CD4 T cells in Mycobacterium tuberculosis-infected individuals: associations with clinical disease state and effect of treatment.	Journal of immunology	2001	103
+immune+or+immune+system	11717429	3458	Bennett BL	SP600125, an anthrapyrazolone inhibitor of Jun N-terminal kinase.	Proceedings of the National Academy of Sciences of the United States of America	2001	591
+immune+or+immune+system	11781358	3458	Kukreja A	Multiple immuno-regulatory defects in type-1 diabetes.	The Journal of clinical investigation	2002	156
+immune+or+immune+system	11828007	3458	Gerosa F	Reciprocal activating interaction between natural killer cells and dendritic cells.	The Journal of experimental medicine	2002	218
+immune+or+immune+system	11900986	3458	Ikeda H	The roles of IFN gamma in protection against tumor development and cancer immunoediting.	Cytokine and growth factor reviews	2002	152
+immune+or+immune+system	12001037	3458	Libraty DH	Differing influences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections.	The Journal of infectious diseases	2002	160
+immune+or+immune+system	12023394	3458	Saurwein-Teissl M	Lack of antibody production following immunization in old age: association with CD8(+)CD28(-) T cell clonal expansions and an imbalance in the production of Th1 and Th2 cytokines.	Journal of immunology	2002	126
+immune+or+immune+system	12147537	3458	Adrie C	Successful cardiopulmonary resuscitation after cardiac arrest as a "sepsis-like" syndrome.	Circulation	2002	113
+immune+or+immune+system	12218109	3458	Artavanis-Tsakonas K	Innate immune response to malaria: rapid induction of IFN-gamma from human NK cells by live Plasmodium falciparum-infected erythrocytes.	Journal of immunology	2002	84
+immune+or+immune+system	12239255	3458	Braun-Fahrländer C	Environmental exposure to endotoxin and its relation to asthma in school-age children.	The New England journal of medicine	2002	250
+immune+or+immune+system	12438348	3458	Bacellar O	Up-regulation of Th1-type responses in mucosal leishmaniasis patients.	Infection and immunity	2002	100
+immune+or+immune+system	12447360	3458	Messi M	Memory and flexibility of cytokine gene expression as separable properties of human T(H)1 and T(H)2 lymphocytes.	Nature immunology	2003	100
+immune+or+immune+system	12529460	3458	Zhang L	Intratumoral T cells, recurrence, and survival in epithelial ovarian cancer.	The New England journal of medicine	2003	639
+immune+or+immune+system	12731045	3458	Jutel M	IL-10 and TGF-beta cooperate in the regulatory T cell response to mucosal allergens in normal immunity and specific immunotherapy.	European journal of immunology	2003	108
+immune+or+immune+system	12750172	3458	Dufour C	TNF-alpha and IFN-gamma are overexpressed in the bone marrow of Fanconi anemia patients and TNF-alpha suppresses erythropoiesis in vitro.	Blood	2003	82
+immune+or+immune+system	12810858	3458	Alimonti JB	Mechanisms of CD4+ T lymphocyte cell death in human immunodeficiency virus infection and AIDS.	The Journal of general virology	2003	96
+immune+or+immune+system	12883107	3458	Carlson LE	Mindfulness-based stress reduction in relation to quality of life, mood, symptoms of stress, and immune parameters in breast and prostate cancer outpatients.	Psychosomatic medicine	2003	98
+immune+or+immune+system	12898444	3458	Wang SM	Pathogenesis of enterovirus 71 brainstem encephalitis in pediatric patients: roles of cytokines and cellular immune activation in patients with pulmonary edema.	The Journal of infectious diseases	2003	75
+immune+or+immune+system	12942579	3458	Sasada T	CD4+CD25+ regulatory T cells in patients with gastrointestinal malignancies: possible involvement of regulatory T cells in disease progression.	Cancer	2003	81
+immune+or+immune+system	12951047	3458	Kaser S	Resistin messenger-RNA expression is increased by proinflammatory cytokines in vitro.	Biochemical and biophysical research communications	2003	82
+immune+or+immune+system	12957413	3458	Whelan JA	A method for the absolute quantification of cDNA using real-time PCR.	Journal of immunological methods	2003	112
+immune+or+immune+system	12960359	3458	Morgan RA	High efficiency TCR gene transfer into primary human lymphocytes affords avid recognition of melanoma tumor antigen glycoprotein 100 and does not alter the recognition of autologous melanoma antigens.	Journal of immunology	2003	77
+immune+or+immune+system	14512316	3458	Nieda M	Therapeutic activation of Valpha24+Vbeta11+ NKT cells in human subjects results in highly coordinated secondary activation of acquired and innate immunity.	Blood	2004	86
+immune+or+immune+system	14555512	3458	Ichihara F	Increased populations of regulatory T cells in peripheral blood and tumor-infiltrating lymphocytes in patients with gastric and esophageal cancers.	Clinical cancer research 	2003	97
+immune+or+immune+system	14718545	3458	Zitt C	Potent inhibition of Ca2+ release-activated Ca2+ channels and T-lymphocyte activation by the pyrazole derivative BTP2.	The Journal of biological chemistry	2004	74
+immune+or+immune+system	15100412	3458	Wieland S	Genomic analysis of the host response to hepatitis B virus infection.	Proceedings of the National Academy of Sciences of the United States of America	2004	143
+immune+or+immune+system	15240741	3458	Viguier M	Foxp3 expressing CD4+CD25(high) regulatory T cells are overrepresented in human metastatic melanoma lymph nodes and inhibit the function of infiltrating T cells.	Journal of immunology	2004	136
+immune+or+immune+system	15383574	3458	Moseman EA	Human plasmacytoid dendritic cells activated by CpG oligodeoxynucleotides induce the generation of CD4+CD25+ regulatory T cells.	Journal of immunology	2004	139
+immune+or+immune+system	15390107	3458	Guillemin GJ	Expression of indoleamine 2,3-dioxygenase and production of quinolinic acid by human microglia, astrocytes, and neurons.	Glia	2005	93
+immune+or+immune+system	15479680	3458	Hart AL	Modulation of human dendritic cell phenotype and function by probiotic bacteria.	Gut	2004	93
+immune+or+immune+system	15494483	3458	De Rosa SC	Vaccination in humans generates broad T cell cytokine responses.	Journal of immunology	2004	73
+immune+or+immune+system	15502839	3458	McShane H	Recombinant modified vaccinia virus Ankara expressing antigen 85A boosts BCG-primed and naturally acquired antimycobacterial immunity in humans.	Nature medicine	2004	194
+immune+or+immune+system	15537905	3458	Mannon PJ	Anti-interleukin-12 antibody for active Crohn's disease.	The New England journal of medicine	2004	154
+immune+or+immune+system	15546386	3458	Kovanen PE	Cytokines and immunodeficiency diseases: critical roles of the gamma(c)-dependent cytokines interleukins 2, 4, 7, 9, 15, and 21, and their signaling pathways.	Immunological reviews	2004	78
+immune+or+immune+system	15589309	3458	Dorman SE	Clinical features of dominant and recessive interferon gamma receptor 1 deficiencies.	Lancet	2004	89
+immune+or+immune+system	15623559	3458	Chen ML	Regulatory T cells suppress tumor-specific CD8 T cell cytotoxicity through TGF-beta signals in vivo.	Proceedings of the National Academy of Sciences of the United States of America	2005	169
+immune+or+immune+system	15694227	3458	Schiepers OJ	Cytokines and major depression.	Progress in neuro-psychopharmacology and biological psychiatry	2005	155
+immune+or+immune+system	15709009	3458	Lindesmith L	Cellular and humoral immunity following Snow Mountain virus challenge.	Journal of virology	2005	79
+immune+or+immune+system	15710900	3458	Mohamadzadeh M	Lactobacilli activate human dendritic cells that skew T cells toward T helper 1 polarization.	Proceedings of the National Academy of Sciences of the United States of America	2005	87
+immune+or+immune+system	15764907	3458	Ngoc PL	Cytokines, allergy, and asthma.	Current opinion in allergy and clinical immunology	2005	70
+immune+or+immune+system	15864738	3458	Klyushnenkova E	T cell responses to allogeneic human mesenchymal stem cells: immunogenicity, tolerance, and suppression.	Journal of biomedical science	2005	97
+immune+or+immune+system	15939793	3458	Ruprecht CR	Coexpression of CD25 and CD27 identifies FoxP3+ regulatory T cells in inflamed synovia.	The Journal of experimental medicine	2005	103
+immune+or+immune+system	15979412	3458	Pulè MA	A chimeric T cell antigen receptor that augments cytokine release and supports clonal expansion of primary human T cells.	Molecular therapy 	2005	122
+immune+or+immune+system	15987480	3458	Raza K	Early rheumatoid arthritis is characterized by a distinct and transient synovial fluid cytokine profile of T cell and stromal cell origin.	Arthritis research and therapy	2005	99
+immune+or+immune+system	16029895	3458	dupont NC	Validation and comparison of luminex multiplex cytokine analysis kits with ELISA: determinations of a panel of nine cytokines in clinical sample culture supernatants.	Journal of reproductive immunology	2005	71
+immune+or+immune+system	16123384	3458	Krampera M	Role for interferon-gamma in the immunomodulatory activity of human bone marrow mesenchymal stem cells.	Stem cells	2006	252
+immune+or+immune+system	16299275	3458	Faria DR	Decreased in situ expression of interleukin-10 receptor is correlated with the exacerbated inflammatory and cytotoxic responses observed in mucosal leishmaniasis.	Infection and immunity	2005	79
+immune+or+immune+system	16301659	3458	Leid JG	The exopolysaccharide alginate protects Pseudomonas aeruginosa biofilm bacteria from IFN-gamma-mediated macrophage killing.	Journal of immunology	2005	91
+immune+or+immune+system	16330536	3458	Verreck FA	Phenotypic and functional profiling of human proinflammatory type-1 and anti-inflammatory type-2 macrophages in response to microbial antigens and IFN-gamma- and CD40L-mediated costimulation.	Journal of leukocyte biology	2006	91
+immune+or+immune+system	16360218	3458	Molloy CA	Elevated cytokine levels in children with autism spectrum disorder.	Journal of neuroimmunology	2006	68
+immune+or+immune+system	16374252	3458	Fuss IJ	Both IL-12p70 and IL-23 are synthesized during active Crohn's disease and are down-regulated by treatment with anti-IL-12 p40 monoclonal antibody.	Inflammatory bowel diseases	2006	68
+immune+or+immune+system	16505141	3458	Trumpfheller C	Intensified and protective CD4+ T cell immunity in mice with anti-dendritic cell HIV gag fusion antibody vaccine.	The Journal of experimental medicine	2006	96
+immune+or+immune+system	16542361	3458	Ribeiro-Rodrigues R	A role for CD4+CD25+ T cells in regulation of the immune response during human tuberculosis.	Clinical and experimental immunology	2006	68
+immune+or+immune+system	16543949	3458	Amedei A	The neutrophil-activating protein of Helicobacter pylori promotes Th1 immune responses.	The Journal of clinical investigation	2006	70
+immune+or+immune+system	16547287	3458	Longhi MS	Functional study of CD4+CD25+ regulatory T cells in health and autoimmune hepatitis.	Journal of immunology	2006	64
+immune+or+immune+system	16785573	3458	Xu D	Circulating and liver resident CD4+CD25+ regulatory T cells actively influence the antiviral immune response and disease progression in patients with hepatitis B.	Journal of immunology	2006	101
+immune+or+immune+system	16803570	3458	Feuchtinger T	Safe adoptive transfer of virus-specific T-cell immunity for the treatment of systemic adenovirus infection after allogeneic stem cell transplantation.	British journal of haematology	2006	65
+immune+or+immune+system	16931093	3458	Leyten EM	Human T-cell responses to 25 novel antigens encoded by genes of the dormancy regulon of Mycobacterium tuberculosis.	Microbes and infection	2006	87
+immune+or+immune+system	16971810	3458	Palucka AK	Dendritic cells loaded with killed allogeneic melanoma cells can induce objective clinical responses and MART-1 specific CD8+ T-cell immunity.	Journal of immunotherapy	2006	71
+immune+or+immune+system	17185041	3458	Pillai V	Transient regulatory T-cells: a state attained by all activated human T-cells.	Clinical immunology	2007	89
+immune+or+immune+system	17230481	3458	Correale J	Association between parasite infection and immune responses in multiple sclerosis.	Annals of neurology	2007	88
+immune+or+immune+system	17255300	3458	Ochoa AC	Arginase, prostaglandins, and myeloid-derived suppressor cells in renal cell carcinoma.	Clinical cancer research 	2007	133
+immune+or+immune+system	17336692	3458	Dinarello CA	Interleukin-18 and the pathogenesis of inflammatory diseases.	Seminars in nephrology	2007	61
+immune+or+immune+system	17339431	3458	Bogiatzi SI	Cutting Edge: Proinflammatory and Th2 cytokines synergize to induce thymic stromal lymphopoietin production by human skin keratinocytes.	Journal of immunology	2007	59
+immune+or+immune+system	17379663	3458	Heidel JD	Administration in non-human primates of escalating intravenous doses of targeted nanoparticles containing ribonucleotide reductase subunit M2 siRNA.	Proceedings of the National Academy of Sciences of the United States of America	2007	87
+immune+or+immune+system	17386024	3458	Rasmusson I	Mesenchymal stem cells stimulate antibody secretion in human B cells.	Scandinavian journal of immunology	2007	56
+immune+or+immune+system	17433516	3458	Kim YK	Cytokine imbalance in the pathophysiology of major depressive disorder.	Progress in neuro-psychopharmacology and biological psychiatry	2007	55
+immune+or+immune+system	17438063	3458	Aspord C	Breast cancer instructs dendritic cells to prime interleukin 13-secreting CD4+ T cells that facilitate tumor development.	The Journal of experimental medicine	2007	79
+immune+or+immune+system	17442979	3458	Germain SJ	Systemic inflammatory priming in normal pregnancy and preeclampsia: the role of circulating syncytiotrophoblast microparticles.	Journal of immunology	2007	68
+immune+or+immune+system	17507983	3458	Barton ES	Herpesvirus latency confers symbiotic protection from bacterial infection.	Nature	2007	194
+immune+or+immune+system	17513768	3458	Martineau AR	IFN-gamma- and TNF-independent vitamin D-inducible human suppression of mycobacteria: the role of cathelicidin LL-37.	Journal of immunology	2007	100
+immune+or+immune+system	17553885	3458	Kannanganat S	Multiple-cytokine-producing antiviral CD4 T cells are functionally superior to single-cytokine-producing cells.	Journal of virology	2007	114
+immune+or+immune+system	17590175	3458	Shioya M	Epithelial overexpression of interleukin-32alpha in inflammatory bowel disease.	Clinical and experimental immunology	2007	60
+immune+or+immune+system	17641026	3458	Haniffa MA	Adult human fibroblasts are potent immunoregulatory cells and functionally equivalent to mesenchymal stem cells.	Journal of immunology	2007	88
+immune+or+immune+system	17641064	3458	Admyre C	Exosomes with immune modulatory features are present in human breast milk.	Journal of immunology	2007	168
+immune+or+immune+system	17655740	3458	Zeuthen LH	Epithelial cells prime the immune response to an array of gut-derived commensals towards a tolerogenic phenotype through distinct actions of thymic stromal lymphopoietin and transforming growth factor-beta.	Immunology	2008	57
+immune+or+immune+system	17671215	3458	Dieli F	Targeting human {gamma}delta} T cells with zoledronate and interleukin-2 for immunotherapy of hormone-refractory prostate cancer.	Cancer research	2007	115
+immune+or+immune+system	17689290	3458	Nylén S	Interleukin-10 and the pathogenesis of human visceral leishmaniasis.	Trends in immunology	2007	102
+immune+or+immune+system	17709496	3458	Jones S	The antiproliferative effect of mesenchymal stem cells is a fundamental property shared by all stromal cells.	Journal of immunology	2007	63
+immune+or+immune+system	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+immune+or+immune+system	17948267	3458	Beveridge NE	Immunisation with BCG and recombinant MVA85A induces long-lasting, polyfunctional Mycobacterium tuberculosis-specific CD4+ memory T lymphocyte populations.	European journal of immunology	2007	102
+immune+or+immune+system	17995965	3458	Reddy N	Immunomodulatory drugs stimulate natural killer-cell function, alter cytokine production by dendritic cells, and inhibit angiogenesis enhancing the anti-tumour activity of rituximab in vivo.	British journal of haematology	2008	62
+immune+or+immune+system	18005941	3458	Potvin S	Inflammatory cytokine alterations in schizophrenia: a systematic quantitative review.	Biological psychiatry	2008	171
+immune+or+immune+system	18039949	3458	Zaba LC	Amelioration of epidermal hyperplasia by TNF inhibition is associated with reduced Th17 responses.	The Journal of experimental medicine	2007	134
+immune+or+immune+system	18077358	3458	Salio M	Modulation of human natural killer T cell ligands on TLR-mediated antigen-presenting cell activation.	Proceedings of the National Academy of Sciences of the United States of America	2007	78
+immune+or+immune+system	18172268	3458	Kenter GG	Phase I immunotherapeutic trial with long peptides spanning the E6 and E7 sequences of high-risk human papillomavirus 16 in end-stage cervical cancer patients shows low toxicity and robust immunogenicity.	Clinical cancer research 	2008	76
+immune+or+immune+system	18179856	3458	Trivedi P	Derivation and immunological characterization of mesenchymal stromal cells from human embryonic stem cells.	Experimental hematology	2008	67
+immune+or+immune+system	18183290	3458	Kubica M	A potential new pathway for Staphylococcus aureus dissemination: the silent survival of S. aureus phagocytosed by human monocyte-derived macrophages.	PloS one	2008	91
+immune+or+immune+system	18209073	3458	Roti M	Healthy human subjects have CD4+ T cells directed against H5N1 influenza virus.	Journal of immunology	2008	57
+immune+or+immune+system	18209095	3458	Scriba TJ	Distinct, specific IL-17- and IL-22-producing CD4+ T cell subsets contribute to the human anti-mycobacterial immune response.	Journal of immunology	2008	135
+immune+or+immune+system	18256187	3458	Trumpfheller C	The microbial mimic poly IC induces durable and protective CD4+ T cell immunity together with a dendritic cell targeted vaccine.	Proceedings of the National Academy of Sciences of the United States of America	2008	114
+immune+or+immune+system	18275276	3458	Pereyra F	Genetic and immunologic heterogeneity among persons who control HIV infection in the absence of therapy.	The Journal of infectious diseases	2008	244
+immune+or+immune+system	18276911	3458	Doran AC	Role of smooth muscle cells in the initiation and early progression of atherosclerosis.	Arteriosclerosis, thrombosis, and vascular biology	2008	167
+immune+or+immune+system	18292584	3458	Soares AP	Bacillus Calmette-Guérin vaccination of human newborns induces T cells with complex cytokine and phenotypic profiles.	Journal of immunology	2008	81
+immune+or+immune+system	18359186	3458	Witek-Janusek L	Effect of mindfulness based stress reduction on immune function, quality of life and coping in women newly diagnosed with early stage breast cancer.	Brain, behavior, and immunity	2008	75
+immune+or+immune+system	18391061	3458	Luger D	Either a Th17 or a Th1 effector response can drive autoimmunity: conditions of disease induction affect dominant effector category.	The Journal of experimental medicine	2008	221
+immune+or+immune+system	18397264	3458	Hedegaard CJ	T helper cell type 1 (Th1), Th2 and Th17 responses to myelin basic protein and disease activity in multiple sclerosis.	Immunology	2008	57
+immune+or+immune+system	18420999	3458	Kintscher U	T-lymphocyte infiltration in visceral adipose tissue: a primary event in adipose tissue inflammation and the development of obesity-mediated insulin resistance.	Arteriosclerosis, thrombosis, and vascular biology	2008	181
+immune+or+immune+system	18430495	3458	Hirao LA	Combined effects of IL-12 and electroporation enhances the potency of DNA vaccination in macaques.	Vaccine	2008	68
+immune+or+immune+system	18448618	3458	Forrest BD	Correlation of cellular immune responses with protection against culture-confirmed influenza virus in young children.	Clinical and vaccine immunology 	2008	62
+immune+or+immune+system	18479258	3458	Atreya I	NF-kappaB in inflammatory bowel disease.	Journal of internal medicine	2008	101
+immune+or+immune+system	18497880	3458	Kamada N	Unique CD14 intestinal macrophages contribute to the pathogenesis of Crohn disease via IL-23/IFN-gamma axis.	The Journal of clinical investigation	2008	139
+immune+or+immune+system	18554755	3458	Elias D	Poor immunogenicity of BCG in helminth infected population is associated with increased in vitro TGF-beta production.	Vaccine	2008	59
+immune+or+immune+system	18579762	3458	Chi W	Upregulated IL-23 and IL-17 in Behçet patients with active uveitis.	Investigative ophthalmology and visual science	2008	73
+immune+or+immune+system	18582195	3458	Hawkridge T	Safety and immunogenicity of a new tuberculosis vaccine, MVA85A, in healthy adults in South Africa.	The Journal of infectious diseases	2008	63
+immune+or+immune+system	18624725	3458	Wang M	The immunomodulatory activity of human umbilical cord blood-derived mesenchymal stem cells in vitro.	Immunology	2009	57
+immune+or+immune+system	18632651	3458	Wheeler CJ	Vaccination elicits correlated immune and clinical responses in glioblastoma multiforme patients.	Cancer research	2008	92
+immune+or+immune+system	18678243	3458	Reale M	Peripheral cytokines profile in Parkinson's disease.	Brain, behavior, and immunity	2009	75
+immune+or+immune+system	18684007	3458	Cranage M	Prevention of SIV rectal transmission and priming of T cell responses in macaques after local pre-exposure application of tenofovir gel.	PLoS medicine	2008	72
+immune+or+immune+system	18684158	3458	Nograles KE	Th17 cytokines interleukin (IL)-17 and IL-22 modulate distinct inflammatory and keratinocyte-response pathways.	The British journal of dermatology	2008	139
+immune+or+immune+system	18722511	3458	Klehmet J	Stroke-induced immunodepression and post-stroke infections: lessons from the preventive antibacterial therapy in stroke trial.	Neuroscience	2009	51
+immune+or+immune+system	18755923	3458	Meintjes G	Type 1 helper T cells and FoxP3-positive T cells in HIV-tuberculosis-associated immune reconstitution inflammatory syndrome.	American journal of respiratory and critical care medicine	2008	54
+immune+or+immune+system	18802076	3458	Kryczek I	Induction of IL-17+ T cell trafficking and development by IFN-gamma: mechanism and pathological relevance in psoriasis.	Journal of immunology	2008	104
+immune+or+immune+system	18840671	3458	Spencer LA	Human eosinophils constitutively express multiple Th1, Th2, and immunoregulatory cytokines that are secreted rapidly and differentially.	Journal of leukocyte biology	2009	65
+immune+or+immune+system	18927310	3458	Finke JH	Sunitinib reverses type-1 immune suppression and decreases T-regulatory cells in renal cell carcinoma patients.	Clinical cancer research 	2008	113
+immune+or+immune+system	19017986	3458	Bertholet S	Identification of human T cell antigens for the development of vaccines against Mycobacterium tuberculosis.	Journal of immunology	2008	52
+immune+or+immune+system	19055947	3458	Terabe M	The role of NKT cells in tumor immunity.	Advances in cancer research	2008	91
+immune+or+immune+system	19074986	3458	Putnam AL	Expansion of human regulatory T-cells from patients with type 1 diabetes.	Diabetes	2009	102
+immune+or+immune+system	19088044	3458	Kusmartsev S	Reversal of myeloid cell-mediated immunosuppression in patients with metastatic renal cell carcinoma.	Clinical cancer research 	2008	83
+immune+or+immune+system	19105661	3458	Martinez FO	Alternative activation of macrophages: an immunologic functional perspective.	Annual review of immunology	2009	630
+immune+or+immune+system	19105884	3458	Pai M	T-cell assay conversions and reversions among household contacts of tuberculosis patients in rural India.	The international journal of tuberculosis and lung disease 	2009	45
+immune+or+immune+system	19118066	3458	Trimble CL	A phase I trial of a human papillomavirus DNA vaccine for HPV16+ cervical intraepithelial neoplasia 2/3.	Clinical cancer research 	2009	67
+immune+or+immune+system	19139565	3458	Urry Z	Ligation of TLR9 induced on human IL-10-secreting Tregs by 1alpha,25-dihydroxyvitamin D3 abrogates regulatory function.	The Journal of clinical investigation	2009	48
+immune+or+immune+system	19160415	3458	Wada N	Immunomodulatory properties of human periodontal ligament stem cells.	Journal of cellular physiology	2009	60
+immune+or+immune+system	19231921	3458	DelaRosa O	Requirement of IFN-gamma-mediated indoleamine 2,3-dioxygenase expression in the modulation of lymphocyte proliferation by human adipose-derived stem cells.	Tissue engineering. Part A	2009	59
+immune+or+immune+system	19251324	3458	Brietzke E	Comparison of cytokine levels in depressed, manic and euthymic patients with bipolar disorder.	Journal of affective disorders	2009	46
+immune+or+immune+system	19255340	3458	Eid RE	Interleukin-17 and interferon-gamma are produced concomitantly by human coronary artery-infiltrating T cells and act synergistically on vascular smooth muscle cells.	Circulation	2009	111
+immune+or+immune+system	19268625	3458	Billiau A	Interferon-gamma: a historical perspective.	Cytokine and growth factor reviews	2009	78
+immune+or+immune+system	19276286	3458	Ko JS	Sunitinib mediates reversal of myeloid-derived suppressor cell accumulation in renal cell carcinoma patients.	Clinical cancer research 	2009	227
+immune+or+immune+system	19282851	3458	Streeck H	The role of IFN-gamma Elispot assay in HIV vaccine research.	Nature protocols	2009	48
+immune+or+immune+system	19287090	3458	Levy Y	Enhanced T cell recovery in HIV-1-infected adults through IL-7 treatment.	The Journal of clinical investigation	2009	114
+immune+or+immune+system	19336372	3458	Ambalavanan N	Cytokines associated with bronchopulmonary dysplasia or death in extremely low birth weight infants.	Pediatrics	2009	69
+immune+or+immune+system	19351841	3458	Ménard C	Natural killer cell IFN-gamma levels predict long-term survival with imatinib mesylate therapy in gastrointestinal stromal tumor-bearing patients.	Cancer research	2009	52
+immune+or+immune+system	19387262	3458	Dheda K	T-cell interferon-gamma release assays for the rapid immunodiagnosis of tuberculosis: clinical utility in high-burden vs. low-burden settings.	Current opinion in pulmonary medicine	2009	64
+immune+or+immune+system	19401385	3458	Aydemir TB	Zinc transporter ZIP8 (SLC39A8) and zinc influence IFN-gamma expression in activated human T cells.	Journal of leukocyte biology	2009	53
+immune+or+immune+system	19440245	3458	Qiu X	Mucosal immunization of cynomolgus macaques with the VSVDeltaG/ZEBOVGP vaccine stimulates strong ebola GP-specific immune responses.	PloS one	2009	51
+immune+or+immune+system	19458616	3458	Hadjur S	Cohesins form chromosomal cis-interactions at the developmentally regulated IFNG locus.	Nature	2009	211
+immune+or+immune+system	19470694	3458	Kryczek I	Phenotype, distribution, generation, and functional and clinical relevance of Th17 cells in the human tumor environments.	Blood	2009	202
+immune+or+immune+system	19487422	3458	Strowig T	Priming of protective T cell responses against virus-induced tumors in mice with human immune system components.	The Journal of experimental medicine	2009	92
+immune+or+immune+system	19536809	3458	Xu Q	Antigen-specific T-cell response from dendritic cell vaccination using cancer stem-like cell-associated antigens.	Stem cells	2009	54
+immune+or+immune+system	19538319	3458	Schulzke JD	Epithelial tight junctions in intestinal inflammation.	Annals of the New York Academy of Sciences	2009	70
+immune+or+immune+system	19542050	3458	Gao B	Liver natural killer and natural killer T cells: immunobiology and emerging roles in liver diseases.	Journal of leukocyte biology	2009	93
+immune+or+immune+system	19564875	3458	O'Rourke RW	Depot-specific differences in inflammatory mediators and a role for NK cells and IFN-gamma in inflammation in human adipose tissue.	International journal of obesity	2009	46
+immune+or+immune+system	19569965	3458	Kester KE	Randomized, double-blind, phase 2a trial of falciparum malaria vaccines RTS,S/AS01B and RTS,S/AS02A in malaria-naive adults: safety, efficacy, and immunologic associates of protection.	The Journal of infectious diseases	2009	150
+immune+or+immune+system	19577283	3458	Jones SM	Clinical efficacy and immune regulation with peanut oral immunotherapy.	The Journal of allergy and clinical immunology	2009	135
+immune+or+immune+system	19585513	3458	Lynch L	Invariant NKT cells and CD1d(+) cells amass in human omentum and are depleted in patients with cancer and obesity.	European journal of immunology	2009	55
+immune+or+immune+system	19608159	3458	Yoo KH	Comparison of immunomodulatory properties of mesenchymal stem cells derived from adult human tissues.	Cellular immunology	2009	80
+immune+or+immune+system	19636353	3458	Malhotra I	Can prenatal malaria exposure produce an immune tolerant phenotype? A prospective birth cohort study in Kenya.	PLoS medicine	2009	62
+immune+or+immune+system	19675671	3458	Smolders J	Vitamin D status is positively correlated with regulatory T cell function in patients with multiple sclerosis.	PloS one	2009	53
+immune+or+immune+system	19740775	3458	Rovedatti L	Differential regulation of interleukin 17 and interferon gamma production in inflammatory bowel disease.	Gut	2009	67
+immune+or+immune+system	19747917	3458	Ahlenstiel G	Natural killer cells are polarized toward cytotoxicity in chronic hepatitis C in an interferon-alfa-dependent manner.	Gastroenterology	2010	91
+immune+or+immune+system	19818653	3458	Feuerer M	How punctual ablation of regulatory T cells unleashes an autoimmune lesion within the pancreatic islets.	Immunity	2009	83
+immune+or+immune+system	19822900	3458	Gutman JA	Single-unit dominance after double-unit umbilical cord blood transplantation coincides with a specific CD8+ T-cell response against the nonengrafted unit.	Blood	2010	44
+immune+or+immune+system	19875682	3458	Mauad T	Lung pathology in fatal novel human influenza A (H1N1) infection.	American journal of respiratory and critical care medicine	2010	99
+immune+or+immune+system	19890056	3458	Jäger A	Th1, Th17, and Th9 effector cells induce experimental autoimmune encephalomyelitis with different pathological phenotypes.	Journal of immunology	2009	186
+immune+or+immune+system	19909538	3458	Fletcher MA	Plasma cytokines in women with chronic fatigue syndrome.	Journal of translational medicine	2009	55
+immune+or+immune+system	19915051	3458	Santner-Nanan B	Systemic increase in the ratio between Foxp3+ and IL-17-producing CD4+ T cells in healthy pregnancy but not in preeclampsia.	Journal of immunology	2009	87
+immune+or+immune+system	19917691	3458	Fletcher JM	CD39+Foxp3+ regulatory T Cells suppress pathogenic Th17 cells and are impaired in multiple sclerosis.	Journal of immunology	2009	118
+immune+or+immune+system	19923445	3458	Zhang Q	Mesenchymal stem cells derived from human gingiva are capable of immunomodulatory functions and ameliorate inflammation-related tissue destruction in experimental colitis.	Journal of immunology	2009	111
+immune+or+immune+system	19940845	3458	Hill DA	Metagenomic analyses reveal antibiotic-induced temporal and spatial changes in intestinal microbiota with associated alterations in immune cell homeostasis.	Mucosal immunology	2010	121
+immune+or+immune+system	19996179	3458	Fujita H	Human Langerhans cells induce distinct IL-22-producing CD4+ T cells lacking IL-17 production.	Proceedings of the National Academy of Sciences of the United States of America	2009	57
+immune+or+immune+system	20003352	3458	Bermejo-Martin JF	Th1 and Th17 hypercytokinemia as early host response signature in severe pandemic influenza.	Critical care	2009	91
+immune+or+immune+system	20015486	3458	Dowlati Y	A meta-analysis of cytokines in major depression.	Biological psychiatry	2010	516
+immune+or+immune+system	20019339	3458	Chen X	Reduced Th17 response in patients with tuberculosis correlates with IL-6R expression on CD4+ T Cells.	American journal of respiratory and critical care medicine	2010	48
+immune+or+immune+system	20039303	3458	Recalcati S	Differential regulation of iron homeostasis during human macrophage polarized activation.	European journal of immunology	2010	55
+immune+or+immune+system	20050849	3458	Schafer PH	Apremilast, a cAMP phosphodiesterase-4 inhibitor, demonstrates anti-inflammatory activity in vitro and in a model of psoriasis.	British journal of pharmacology	2010	44
+immune+or+immune+system	20063313	3458	Wammes LJ	Regulatory T cells in human geohelminth infection suppress immune responses to BCG and Plasmodium falciparum.	European journal of immunology	2010	46
+immune+or+immune+system	20103780	3458	Moosmann A	Effective and long-term control of EBV PTLD after transfer of peptide-selected T cells.	Blood	2010	47
+immune+or+immune+system	20112361	3458	Kokkonen H	Up-regulation of cytokines and chemokines predates the onset of rheumatoid arthritis.	Arthritis and rheumatism	2010	94
+immune+or+immune+system	20146084	3458	Ardon H	Integration of autologous dendritic cell-based immunotherapy in the primary treatment for patients with newly diagnosed glioblastoma multiforme: a pilot study.	Journal of neuro-oncology	2010	41
+immune+or+immune+system	20164424	3458	Denny MF	A distinct subset of proinflammatory neutrophils isolated from patients with systemic lupus erythematosus induces vascular damage and synthesizes type I IFNs.	Journal of immunology	2010	110
+immune+or+immune+system	20194818	3458	Wright RJ	Prenatal maternal stress and cord blood innate and adaptive cytokine responses in an inner-city cohort.	American journal of respiratory and critical care medicine	2010	58
+immune+or+immune+system	20200277	3458	Unsinger J	IL-7 promotes T cell viability, trafficking, and functionality and improves survival in sepsis.	Journal of immunology	2010	75
+immune+or+immune+system	20207200	3458	Chen K	Human umbilical cord mesenchymal stem cells hUC-MSCs exert immunosuppressive activities through a PGE2-dependent mechanism.	Clinical immunology	2010	45
+immune+or+immune+system	20222111	3458	Shamji MF	Proinflammatory cytokine expression profile in degenerated and herniated human intervertebral disc tissues.	Arthritis and rheumatism	2010	53
+immune+or+immune+system	20226890	3458	van Dissel JT	Ag85B-ESAT-6 adjuvanted with IC31 promotes strong and long-lived Mycobacterium tuberculosis specific T cell responses in naïve human volunteers.	Vaccine	2010	61
+immune+or+immune+system	20231693	3458	Wu X	Protein-DNA complex is the exclusive malaria parasite component that activates dendritic cells and triggers innate immune responses.	Journal of immunology	2010	50
+immune+or+immune+system	20339534	3458	Waddell SJ	Dissecting interferon-induced transcriptional programs in human peripheral blood cells.	PloS one	2010	58
+immune+or+immune+system	20368575	3458	Vermijlen D	Human cytomegalovirus elicits fetal gammadelta T cell responses in utero.	The Journal of experimental medicine	2010	50
+immune+or+immune+system	20368733	3458	Shi Y	Mesenchymal stem cells: a new strategy for immunosuppression and tissue repair.	Cell research	2010	112
+immune+or+immune+system	20376398	3458	Han Q	Multidimensional analysis of the frequencies and rates of cytokine secretion from single cells by quantitative microengraving.	Lab on a chip	2010	63
+immune+or+immune+system	20400682	3458	Maslak PG	Vaccination with synthetic analog peptides derived from WT1 oncoprotein induces T-cell responses in patients with complete remission from acute myeloid leukemia.	Blood	2010	43
+immune+or+immune+system	20404924	3458	Verma S	Quantification of parasite load in clinical samples of leishmaniasis patients: IL-10 level correlates with parasite load in visceral leishmaniasis.	PloS one	2010	41
+immune+or+immune+system	20437580	3458	Bar-Or A	Abnormal B-cell cytokine responses a trigger of T-cell-mediated disease in MS?	Annals of neurology	2010	85
+immune+or+immune+system	20491796	3458	Harris J	How tumour necrosis factor blockers interfere with tuberculosis immunity.	Clinical and experimental immunology	2010	52
+immune+or+immune+system	20511558	3458	Boniface K	Human Th17 cells comprise heterogeneous subsets including IFN-gamma-producing cells with distinct properties from the Th1 lineage.	Journal of immunology	2010	53
+immune+or+immune+system	20554959	3458	Oseroff C	Molecular determinants of T cell epitope recognition to the common Timothy grass allergen.	Journal of immunology	2010	60
+immune+or+immune+system	20558627	3458	Kagina BM	Specific T cell frequency and cytokine expression profile do not correlate with protection against tuberculosis after bacillus Calmette-Guérin vaccination of newborns.	American journal of respiratory and critical care medicine	2010	108
+immune+or+immune+system	20610802	3458	McCall MB	Interferon-γ--central mediator of protective immune responses against the pre-erythrocytic and blood stage of malaria.	Journal of leukocyte biology	2010	61
+immune+or+immune+system	20652105	3458	Hanley C	The Influences of Cell Type and ZnO Nanoparticle Size on Immune Cell Cytotoxicity and Cytokine Induction.	Nanoscale research letters	2009	46
+immune+or+immune+system	20677939	3458	Boulware DR	Paucity of initial cerebrospinal fluid inflammation in cryptococcal meningitis is associated with subsequent immune reconstitution inflammatory syndrome.	The Journal of infectious diseases	2010	59
+immune+or+immune+system	20725040	3458	Berry MP	An interferon-inducible neutrophil-driven blood transcriptional signature in human tuberculosis.	Nature	2010	449
+immune+or+immune+system	20824205	3458	Mehra S	Transcriptional reprogramming in nonhuman primate (rhesus macaque) tuberculosis granulomas.	PloS one	2010	41
+immune+or+immune+system	20881185	3458	Silverman JM	Leishmania exosomes modulate innate and adaptive immune responses through effects on monocytes and dendritic cells.	Journal of immunology	2010	56
+immune+or+immune+system	21085185	3458	Chiricozzi A	Integrative responses to IL-17 and TNF-α in human keratinocytes account for key inflammatory pathogenic circuits in psoriasis.	The Journal of investigative dermatology	2011	77
+immune+or+immune+system	21102458	3458	Wilhelm K	Graft-versus-host disease is enhanced by extracellular ATP activating P2X7R.	Nature medicine	2010	95
+immune+or+immune+system	21106641	3458	Brandau S	Myeloid-derived suppressor cells in the peripheral blood of cancer patients contain a subset of immature neutrophils with impaired migratory properties.	Journal of leukocyte biology	2011	65
+immune+or+immune+system	21169542	3458	Jagannathan-Bogdan M	Elevated proinflammatory cytokine production by a skewed T cell compartment requires monocytes and promotes inflammation in type 2 diabetes.	Journal of immunology	2011	70
+immune+or+immune+system	21187448	3458	Rajasagi NK	Controlling herpes simplex virus-induced ocular inflammatory lesions with the lipid-derived mediator resolvin E1.	Journal of immunology	2011	44
+immune+or+immune+system	21187913	3458	Peppa D	Blockade of immunosuppressive cytokines restores NK cell antiviral function in chronic hepatitis B virus infection.	PLoS pathogens	2010	64
+immune+or+immune+system	21281959	3458	Kim EH	Sublingual immunotherapy for peanut allergy: clinical and immunologic evidence of desensitization.	The Journal of allergy and clinical immunology	2011	63
+immune+or+immune+system	21288814	3458	Skowronski DM	Immuno-epidemiologic correlates of pandemic H1N1 surveillance observations: higher antibody and lower cell-mediated immune responses with advanced age.	The Journal of infectious diseases	2011	41
+immune+or+immune+system	21315435	3458	Dworski R	Eosinophil and neutrophil extracellular DNA traps in human allergic asthmatic airways.	The Journal of allergy and clinical immunology	2011	39
+immune+or+immune+system	21368230	3458	McClymont SA	Plasticity of human regulatory T cells in healthy subjects and patients with type 1 diabetes.	Journal of immunology	2011	98
+immune+or+immune+system	21375540	3458	Cosmi L	Th17 cells: new players in asthma pathogenesis.	Allergy	2011	60
+immune+or+immune+system	21377040	3458	Akdis M	Interleukins, from 1 to 37, and interferon-γ: receptors, functions, and roles in diseases.	The Journal of allergy and clinical immunology	2011	98
+immune+or+immune+system	21414808	3458	Saini D	Alloimmunity-induced autoimmunity as a potential mechanism in the pathogenesis of chronic rejection of human lung allografts.	The Journal of heart and lung transplantation 	2011	45
+immune+or+immune+system	21624938	3458	Zoller EE	Hemophagocytosis causes a consumptive anemia of inflammation.	The Journal of experimental medicine	2011	37
+immune+or+immune+system	21628665	3458	Wauquier N	The acute phase of Chikungunya virus infection in humans is associated with strong innate immunity and T CD8 cell activation.	The Journal of infectious diseases	2011	39
+immune+or+immune+system	21669030	3458	Mandalakas AM	Interferon-gamma release assays and childhood tuberculosis: systematic review and meta-analysis.	The international journal of tuberculosis and lung disease 	2011	42
+immune+or+immune+system	21706005	3458	Rossi RL	Distinct microRNA signatures in human lymphocyte subsets and enforcement of the naive state in CD4+ T cells by the microRNA miR-125b.	Nature immunology	2011	86
+immune+or+immune+system	21734244	3458	Rikihisa Y	Mechanisms of obligatory intracellular infection with Anaplasma phagocytophilum.	Clinical microbiology reviews	2011	44
+immune+or+immune+system	21775682	3458	Day CL	Functional capacity of Mycobacterium tuberculosis-specific T cell responses in humans is associated with mycobacterial load.	Journal of immunology	2011	84
+immune+or+immune+system	21810230	3458	Goines PE	Increased midgestational IFN-γ, IL-4 and IL-5 in women bearing a child with autism: A case-control study.	Molecular autism	2011	61
+immune+or+immune+system	21934657	3458	François M	Human MSC suppression correlates with cytokine induction of indoleamine 2,3-dioxygenase and bystander M2 macrophage differentiation.	Molecular therapy 	2012	87
+immune+or+immune+system	21965332	3458	Varadarajan N	A high-throughput single-cell analysis of human CD8⁺ T cell functions reveals discordance for cytokine secretion and cytolysis.	The Journal of clinical investigation	2011	50
+immune+or+immune+system	21998409	3458	Fabri M	Vitamin D is required for IFN-gamma-mediated antimicrobial activity of human macrophages.	Science translational medicine	2011	135
+immune+or+immune+system	22029655	3458	François M	Cryopreserved mesenchymal stromal cells display impaired immunosuppressive properties as a result of heat-shock response and impaired interferon-γ licensing.	Cytotherapy	2012	47
+immune+or+immune+system	22084432	3458	Cichocki F	Cutting edge: microRNA-181 promotes human NK cell development by regulating Notch signaling.	Journal of immunology	2011	44
+immune+or+immune+system	22084578	3458	Chen Y	Kynurenine pathway metabolites in humans: disease and healthy States.	International journal of tryptophan research 	2009	76
+immune+or+immune+system	22160692	3458	Han Q	Polyfunctional responses by human T cells result from sequential release of cytokines.	Proceedings of the National Academy of Sciences of the United States of America	2012	78
+immune+or+immune+system	22239614	3458	Elliott DE	Helminth-host immunological interactions: prevention and control of immune-mediated diseases.	Annals of the New York Academy of Sciences	2012	50
+immune+or+immune+system	22289511	3458	McElhaney JE	The unmet need in the elderly: how immunosenescence, CMV infection, co-morbidities and frailty are a challenge for the development of more effective influenza vaccines.	Vaccine	2012	48
+immune+or+immune+system	22297636	3458	Harris JE	A mouse model of vitiligo with focused epidermal depigmentation requires IFN-γ for autoreactive CD8⁺ T-cell accumulation in the skin.	The Journal of investigative dermatology	2012	31
+immune+or+immune+system	22323453	3458	Gleason MK	Tim-3 is an inducible human natural killer cell receptor that enhances interferon gamma production in response to galectin-9.	Blood	2012	58
+immune+or+immune+system	22349514	3458	Schmieder A	Differentiation and gene expression profile of tumor-associated macrophages.	Seminars in cancer biology	2012	41
+immune+or+immune+system	22370101	3458	Darmochwal-Kolarz D	The predominance of Th17 lymphocytes and decreased number and function of Treg cells in preeclampsia.	Journal of reproductive immunology	2012	31
+immune+or+immune+system	22378844	3458	Trotta R	miR-155 regulates IFN-γ production in natural killer cells.	Blood	2012	61
+immune+or+immune+system	22416258	3458	Jurado JO	IL-17 and IFN-γ expression in lymphocytes from patients with active tuberculosis correlates with the severity of the disease.	Journal of leukocyte biology	2012	42
+immune+or+immune+system	22466287	3458	Zielinski CE	Pathogen-induced human TH17 cells produce IFN-γ or IL-10 and are regulated by IL-1β.	Nature	2012	190
+immune+or+immune+system	22485125	3458	Zhang L	Increased frequencies of Th22 cells as well as Th17 cells in the peripheral blood of patients with ankylosing spondylitis and rheumatoid arthritis.	PloS one	2012	36
+immune+or+immune+system	22539471	3458	Singh OP	Reassessment of immune correlates in human visceral leishmaniasis as defined by cytokine release in whole blood.	Clinical and vaccine immunology 	2012	33
+immune+or+immune+system	22569268	3458	Kamat A	Monocyte activation markers in cerebrospinal fluid associated with impaired neurocognitive testing in advanced HIV infection.	Journal of acquired immune deficiency syndromes	2012	61
+immune+or+immune+system	22592608	3458	Klinger M	Immunopharmacologic response of patients with B-lineage acute lymphoblastic leukemia to continuous infusion of T cell-engaging CD19/CD3-bispecific BiTE antibody blinatumomab.	Blood	2012	74
+immune+or+immune+system	22658928	3458	Thakur A	Immune markers and correlates of protection for vaccine induced immune responses.	Vaccine	2012	35
+immune+or+immune+system	22662108	3458	Sokolove J	Autoantibody epitope spreading in the pre-clinical phase predicts progression to rheumatoid arthritis.	PloS one	2012	88
+immune+or+immune+system	22700860	3458	Meintjes G	Corticosteroid-modulated immune activation in the tuberculosis immune reconstitution inflammatory syndrome.	American journal of respiratory and critical care medicine	2012	30
+immune+or+immune+system	22761577	3458	Niedelman W	The rhoptry proteins ROP18 and ROP5 mediate Toxoplasma gondii evasion of the murine, but not the human, interferon-gamma response.	PLoS pathogens	2012	48
+immune+or+immune+system	22772450	3458	Smith KM	miR-29ab1 deficiency identifies a negative feedback loop controlling Th1 bias that is dysregulated in multiple sclerosis.	Journal of immunology	2012	45
+immune+or+immune+system	22983442	3458	Romee R	Cytokine activation induces human memory-like NK cells.	Blood	2012	82
+immune+or+immune+system	23144328	3458	Kartalija M	Patients with nontuberculous mycobacterial lung disease exhibit unique body and immune phenotypes.	American journal of respiratory and critical care medicine	2013	31
+immune+or+immune+system	23169501	3458	Icheva V	Adoptive transfer of epstein-barr virus (EBV) nuclear antigen 1-specific t cells as treatment for EBV reactivation and lymphoproliferative disorders after allogeneic stem-cell transplantation.	Journal of clinical oncology 	2013	47
+immune+or+immune+system	23223131	3458	Hijnen D	CD8(+) T cells in the lesional skin of atopic dermatitis and psoriasis patients are an important source of IFN-γ, IL-13, IL-17, and IL-22.	The Journal of investigative dermatology	2013	29
+immune+or+immune+system	23260195	3458	Sathaliyawala T	Distribution and compartmentalization of human circulating and tissue-resident memory T cell subsets.	Immunity	2013	127
+immune+or+immune+system	23271808	3458	Fu B	Natural killer cells promote immune tolerance by regulating inflammatory TH17 cells at the human maternal-fetal interface.	Proceedings of the National Academy of Sciences of the United States of America	2013	36
+immune+or+immune+system	23323860	3458	Padgett LE	The role of reactive oxygen species and proinflammatory cytokines in type 1 diabetes pathogenesis.	Annals of the New York Academy of Sciences	2013	54
+immune+or+immune+system	23331510	3458	Salahuddin N	Vitamin D accelerates clinical recovery from tuberculosis: results of the SUCCINCT Study Supplementary Cholecalciferol in recovery from tuberculosis. A randomized, placebo-controlled, clinical trial of vitamin D supplementation in patients with pulmonary tuberculosis'.	BMC infectious diseases	2013	36
+immune+or+immune+system	23414212	3458	Sellarés J	Molecular diagnosis of antibody-mediated rejection in human kidney transplants.	American journal of transplantation 	2013	30
+immune+or+immune+system	23468501	3458	Jegaskanda S	Antibody-dependent cellular cytotoxicity is associated with control of pandemic H1N1 influenza virus infection of macaques.	Journal of virology	2013	47
+immune+or+immune+system	23493728	3458	Jarvis JN	The phenotype of the Cryptococcus-specific CD4+ memory T-cell response is associated with disease severity and outcome in HIV-associated cryptococcal meningitis.	The Journal of infectious diseases	2013	29
+immune+or+immune+system	23768870	3458	Munkholm K	Cytokines in bipolar disorder vs. healthy control subjects: a systematic review and meta-analysis.	Journal of psychiatric research	2013	35
+immune+or+immune+system	23867552	3458	Carreno BM	IL-12p70-producing patient DC vaccine elicits Tc1-polarized immunity.	The Journal of clinical investigation	2013	37
+immune+or+immune+system	23915137	3458	Swindell WR	Dissecting the psoriasis transcriptome: inflammatory- and cytokine-driven gene expression in lesions from 163 patients.	BMC genomics	2013	34
+immune+or+immune+system	23999600	3458	Garg A	HIV type 1 gp120-induced expansion of myeloid derived suppressor cells is dependent on interleukin 6 and suppresses immunity.	The Journal of infectious diseases	2014	22
+immune+or+immune+system	24009159	3458	Cosmi L	T helper cells plasticity in inflammation.	Cytometry. Part A 	2014	28
+immune+or+immune+system	24012417	3458	Qiao Y	Synergistic activation of inflammatory cytokine genes by interferon-γ-induced chromatin remodeling and toll-like receptor signaling.	Immunity	2013	56
+immune+or+immune+system	24173214	3458	Taylor HE	The innate immune factor apolipoprotein L1 restricts HIV-1 infection.	Journal of virology	2014	22
+immune+or+immune+system	24219905	3458	Zimmermann JA	Pre-conditioning mesenchymal stromal cell spheroids for immunomodulatory paracrine factor secretion.	Cytotherapy	2014	26
+immune+or+immune+system	24434782	3458	Leong JW	Preactivation with IL-12, IL-15, and IL-18 induces CD25 and a functional high-affinity IL-2 receptor on human cytokine-induced memory-like natural killer cells.	Biology of blood and marrow transplantation 	2014	40
+immune+or+immune+system	24442432	3458	Della Chiesa M	Human cytomegalovirus infection promotes rapid maturation of NK cells expressing activating killer Ig-like receptor in patients transplanted with NKG2C-/- umbilical cord blood.	Journal of immunology	2014	31
+immune+or+immune+system	24488563	3458	Stringaris K	Leukemia-induced phenotypic and functional defects in natural killer cells predict failure to achieve remission in acute myeloid leukemia.	Haematologica	2014	25
+immune+or+immune+system	24518246	3458	Voraphani N	An airway epithelial iNOS-DUOX2-thyroid peroxidase metabolome drives Th1/Th2 nitrative stress in human severe asthma.	Mucosal immunology	2014	20
+immune+or+immune+system	24655295	3458	Lowes MA	Immunology of psoriasis.	Annual review of immunology	2014	88
+immune+or+immune+system	24704219	3458	Upthegrove R	Cytokine function in medication-naive first episode psychosis: a systematic review and meta-analysis.	Schizophrenia research	2014	36
+immune+or+immune+system	24821923	3458	Esmail H	The ongoing challenge of latent tuberculosis.	Philosophical transactions of the Royal Society of London. Series B, Biological sciences	2014	24
+immune+or+immune+system	24934179	3458	Masi A	Cytokine aberrations in autism spectrum disorder: a systematic review and meta-analysis.	Molecular psychiatry	2015	34
+immune+or+immune+system	24967632	3458	Jo J	Toll-like receptor 8 agonist and bacteria trigger potent activation of innate immune cells in human liver.	PLoS pathogens	2014	29
+immune+or+immune+system	25184558	3458	Dutta NK	Latent tuberculosis infection: myths, models, and molecular mechanisms.	Microbiology and molecular biology reviews 	2014	23
+immune+or+immune+system	25210141	3458	Jensen KJ	Heterologous immunological effects of early BCG vaccination in low-birth-weight infants in Guinea-Bissau: a randomized-controlled trial.	The Journal of infectious diseases	2015	19
+immune+or+immune+system	25211344	3458	Sedegah M	Sterile immunity to malaria after DNA prime/adenovirus boost immunization is associated with effector memory CD8+T cells targeting AMA1 class I epitopes.	PloS one	2014	25
+immune+or+immune+system	25244096	3458	Kirabo A	DC isoketal-modified proteins activate T cells and promote hypertension.	The Journal of clinical investigation	2014	60
+immune+or+immune+system	25329659	3458	Luetke-Eversloh M	Human cytomegalovirus drives epigenetic imprinting of the IFNG locus in NKG2Chi natural killer cells.	PLoS pathogens	2014	34
+immune+or+immune+system	25387892	3458	Chen S	Combination of 4-1BB agonist and PD-1 antagonist promotes antitumor effector/memory CD8 T cells in a poorly immunogenic tumor model.	Cancer immunology research	2015	17
+immune+or+immune+system	25416807	3458	Huss DJ	In vivo maintenance of human regulatory T cells during CD25 blockade.	Journal of immunology	2015	15
+immune+or+immune+system	25461470	3458	Antonelli A	Autoimmune thyroid disorders.	Autoimmunity reviews	2015	35
+immune+or+immune+system	25469528	3458	Villar-García J	Effect of probiotics (Saccharomyces boulardii) on microbial translocation and inflammation in HIV-treated patients: a double-blind, randomized, placebo-controlled trial.	Journal of acquired immune deficiency syndromes	2015	26
+immune+or+immune+system	25534940	3458	Cardoso TM	Protective and pathological functions of CD8+ T cells in Leishmania braziliensis infection.	Infection and immunity	2015	16
+immune+or+immune+system	25611466	3458	Gideon HP	Variability in tuberculosis granuloma T cell responses exists, but a balance of pro- and anti-inflammatory cytokines is associated with sterilization.	PLoS pathogens	2015	42
+immune+or+immune+system	25644696	3458	Jiang W	Dysbiosis gut microbiota associated with inflammation and impaired mucosal immune function in intestine of humans with non-alcoholic fatty liver disease.	Scientific reports	2015	23
+immune+or+immune+system	25647269	3458	Talaat RM	Th1/Th2/Th17/Treg cytokine imbalance in systemic lupus erythematosus (SLE) patients: Correlation with disease activity.	Cytokine	2015	23
+immune+or+immune+system	25703555	3458	Boisson-Dupuis S	Inherited and acquired immunodeficiencies underlying tuberculosis in childhood.	Immunological reviews	2015	21
+immune+or+immune+system	26084023	3458	Kolev M	Complement Regulates Nutrient Influx and Metabolic Reprogramming during Th1 Cell Responses.	Immunity	2015	23
+immune+or+immune+system	26350966	3458	Selleck EM	A Noncanonical Autophagy Pathway Restricts Toxoplasma gondii Growth in a Strain-Specific Manner in IFN-γ-Activated Human Cells.	mBio	2015	17
+immune+or+immune+system	26405286	3458	Getahun H	Management of latent Mycobacterium tuberculosis infection: WHO guidelines for low tuberculosis burden countries.	The European respiratory journal	2015	21
+immune+or+immune+system	26658771	3458	Minciullo PL	Inflammaging and Anti-Inflammaging: The Role of Cytokines in Extreme Longevity.	Archivum immunologiae et therapiae experimentalis	2016	20
+immune+or+immune+system	26949058	3458	Tomassen P	Inflammatory endotypes of chronic rhinosinusitis based on cluster analysis of biomarkers.	The Journal of allergy and clinical immunology	2016	18
+immune+or+immune+system	27068708	3458	Fletcher HA	T-cell activation is an immune correlate of risk in BCG vaccinated infants.	Nature communications	2016	16
+immune+or+immune+system	27111145	3458	Bal SM	IL-1β, IL-4 and IL-12 control the fate of group 2 innate lymphoid cells in human airway inflammation in the lungs.	Nature immunology	2016	14
+infectious+or+infection	1590992	3458	Sher A	Regulation of immunity to parasites by T cells and T cell-derived cytokines.	Annual review of immunology	1992	153
+infectious+or+infection	1925582	3458	Yamamura M	Defining protective responses to pathogens: cytokine profiles in leprosy lesions.	Science	1991	244
+infectious+or+infection	7475549	3458	Diepolder HM	Possible mechanism involving T-lymphocyte response to non-structural protein 3 in viral clearance in acute hepatitis C virus infection.	Lancet	1995	151
+infectious+or+infection	8757634	3458	Fuss IJ	Disparate CD4+ lamina propria (LP) lymphokine secretion profiles in inflammatory bowel disease. Crohn's disease LP cells manifest increased secretion of IFN-gamma, whereas ulcerative colitis LP cells manifest increased secretion of IL-5.	Journal of immunology	1996	241
+infectious+or+infection	8993017	3458	D'Elios MM	T helper 1 effector cells specific for Helicobacter pylori in the gastric antrum of patients with peptic ulcer disease.	Journal of immunology	1997	135
+infectious+or+infection	9145744	3458	Berman JD	Human leishmaniasis: clinical, diagnostic, and chemotherapeutic developments in the last 10 years.	Clinical infectious diseases 	1997	106
+infectious+or+infection	9176497	3458	Döcke WD	Monocyte deactivation in septic patients: restoration by IFN-gamma treatment.	Nature medicine	1997	203
+infectious+or+infection	9294140	3458	Lalvani A	Rapid effector function in CD8+ memory T cells.	The Journal of experimental medicine	1997	171
+infectious+or+infection	9603732	3458	Altare F	Impairment of mycobacterial immunity in human interleukin-12 receptor deficiency.	Science	1998	172
+infectious+or+infection	10201989	3458	Fehniger TA	Differential cytokine and chemokine gene expression by human NK cells following activation with IL-18 or IL-15 in combination with IL-12: implications for the innate immune response.	Journal of immunology	1999	129
+infectious+or+infection	10646872	3458	Jaiswal M	Inflammatory cytokines induce DNA damage and inhibit DNA repair in cholangiocarcinoma cells by a nitric oxide-dependent mechanism.	Cancer research	2000	104
+infectious+or+infection	10790425	3458	Lechner F	Analysis of successful immune responses in persons infected with hepatitis C virus.	The Journal of experimental medicine	2000	356
+infectious+or+infection	10792007	3458	Boussiotis VA	IL-10-producing T cells suppress immune responses in anergic tuberculosis patients.	The Journal of clinical investigation	2000	117
+infectious+or+infection	10880527	3458	Appay V	HIV-specific CD8(+) T cells produce antiviral cytokines but are impaired in cytolytic function.	The Journal of experimental medicine	2000	201
+infectious+or+infection	11170064	3458	To KF	Pathology of fatal human infection associated with avian influenza A H5N1 virus.	Journal of medical virology	2001	104
+infectious+or+infection	11673535	3458	Pathan AA	Direct ex vivo analysis of antigen-specific IFN-gamma-secreting CD4 T cells in Mycobacterium tuberculosis-infected individuals: associations with clinical disease state and effect of treatment.	Journal of immunology	2001	103
+infectious+or+infection	11900986	3458	Ikeda H	The roles of IFN gamma in protection against tumor development and cancer immunoediting.	Cytokine and growth factor reviews	2002	152
+infectious+or+infection	12001037	3458	Libraty DH	Differing influences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections.	The Journal of infectious diseases	2002	160
+infectious+or+infection	12218109	3458	Artavanis-Tsakonas K	Innate immune response to malaria: rapid induction of IFN-gamma from human NK cells by live Plasmodium falciparum-infected erythrocytes.	Journal of immunology	2002	84
+infectious+or+infection	12810858	3458	Alimonti JB	Mechanisms of CD4+ T lymphocyte cell death in human immunodeficiency virus infection and AIDS.	The Journal of general virology	2003	96
+infectious+or+infection	15100412	3458	Wieland S	Genomic analysis of the host response to hepatitis B virus infection.	Proceedings of the National Academy of Sciences of the United States of America	2004	143
+infectious+or+infection	15494483	3458	De Rosa SC	Vaccination in humans generates broad T cell cytokine responses.	Journal of immunology	2004	73
+infectious+or+infection	15537905	3458	Mannon PJ	Anti-interleukin-12 antibody for active Crohn's disease.	The New England journal of medicine	2004	154
+infectious+or+infection	15567126	3458	Pai M	Interferon-gamma assays in the immunodiagnosis of tuberculosis: a systematic review.	The Lancet. Infectious diseases	2004	193
+infectious+or+infection	15589309	3458	Dorman SE	Clinical features of dominant and recessive interferon gamma receptor 1 deficiencies.	Lancet	2004	89
+infectious+or+infection	15709009	3458	Lindesmith L	Cellular and humoral immunity following Snow Mountain virus challenge.	Journal of virology	2005	79
+infectious+or+infection	15941805	3458	Kang YA	Discrepancy between the tuberculin skin test and the whole-blood interferon gamma assay for the diagnosis of latent tuberculosis infection in an intermediate tuberculosis-burden country.	JAMA	2005	81
+infectious+or+infection	15987480	3458	Raza K	Early rheumatoid arthritis is characterized by a distinct and transient synovial fluid cytokine profile of T cell and stromal cell origin.	Arthritis research and therapy	2005	99
+infectious+or+infection	16299275	3458	Faria DR	Decreased in situ expression of interleukin-10 receptor is correlated with the exacerbated inflammatory and cytotoxic responses observed in mucosal leishmaniasis.	Infection and immunity	2005	79
+infectious+or+infection	16357824	3458	Mazurek GH	Guidelines for using the QuantiFERON-TB Gold test for detecting Mycobacterium tuberculosis infection, United States.	MMWR. Recommendations and reports 	2005	150
+infectious+or+infection	16374252	3458	Fuss IJ	Both IL-12p70 and IL-23 are synthesized during active Crohn's disease and are down-regulated by treatment with anti-IL-12 p40 monoclonal antibody.	Inflammatory bowel diseases	2006	68
+infectious+or+infection	16678181	3458	Hunt NH	Immunopathogenesis of cerebral malaria.	International journal for parasitology	2006	80
+infectious+or+infection	16785573	3458	Xu D	Circulating and liver resident CD4+CD25+ regulatory T cells actively influence the antiviral immune response and disease progression in patients with hepatitis B.	Journal of immunology	2006	101
+infectious+or+infection	16803570	3458	Feuchtinger T	Safe adoptive transfer of virus-specific T-cell immunity for the treatment of systemic adenovirus infection after allogeneic stem cell transplantation.	British journal of haematology	2006	65
+infectious+or+infection	16931093	3458	Leyten EM	Human T-cell responses to 25 novel antigens encoded by genes of the dormancy regulon of Mycobacterium tuberculosis.	Microbes and infection	2006	87
+infectious+or+infection	17170386	3458	Arend SM	Comparison of two interferon-gamma assays and tuberculin skin test for tracing tuberculosis contacts.	American journal of respiratory and critical care medicine	2007	63
+infectious+or+infection	17230481	3458	Correale J	Association between parasite infection and immune responses in multiple sclerosis.	Annals of neurology	2007	88
+infectious+or+infection	17336692	3458	Dinarello CA	Interleukin-18 and the pathogenesis of inflammatory diseases.	Seminars in nephrology	2007	61
+infectious+or+infection	17438063	3458	Aspord C	Breast cancer instructs dendritic cells to prime interleukin 13-secreting CD4+ T cells that facilitate tumor development.	The Journal of experimental medicine	2007	79
+infectious+or+infection	17463418	3458	Martineau AR	A single dose of vitamin D enhances immunity to mycobacteria.	American journal of respiratory and critical care medicine	2007	113
+infectious+or+infection	17507983	3458	Barton ES	Herpesvirus latency confers symbiotic protection from bacterial infection.	Nature	2007	194
+infectious+or+infection	17553885	3458	Kannanganat S	Multiple-cytokine-producing antiviral CD4 T cells are functionally superior to single-cytokine-producing cells.	Journal of virology	2007	114
+infectious+or+infection	17565023	3458	Lalvani A	Diagnosing tuberculosis infection in the 21st century: new tools to tackle an old enemy.	Chest	2007	77
+infectious+or+infection	17689290	3458	Nylén S	Interleukin-10 and the pathogenesis of human visceral leishmaniasis.	Trends in immunology	2007	102
+infectious+or+infection	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+infectious+or+infection	18005941	3458	Potvin S	Inflammatory cytokine alterations in schizophrenia: a systematic quantitative review.	Biological psychiatry	2008	171
+infectious+or+infection	18037347	3458	Martire B	Clinical features, long-term follow-up and outcome of a large cohort of patients with Chronic Granulomatous Disease: an Italian multicenter study.	Clinical immunology	2008	52
+infectious+or+infection	18183290	3458	Kubica M	A potential new pathway for Staphylococcus aureus dissemination: the silent survival of S. aureus phagocytosed by human monocyte-derived macrophages.	PloS one	2008	91
+infectious+or+infection	18209073	3458	Roti M	Healthy human subjects have CD4+ T cells directed against H5N1 influenza virus.	Journal of immunology	2008	57
+infectious+or+infection	18209095	3458	Scriba TJ	Distinct, specific IL-17- and IL-22-producing CD4+ T cell subsets contribute to the human anti-mycobacterial immune response.	Journal of immunology	2008	135
+infectious+or+infection	18256187	3458	Trumpfheller C	The microbial mimic poly IC induces durable and protective CD4+ T cell immunity together with a dendritic cell targeted vaccine.	Proceedings of the National Academy of Sciences of the United States of America	2008	114
+infectious+or+infection	18275276	3458	Pereyra F	Genetic and immunologic heterogeneity among persons who control HIV infection in the absence of therapy.	The Journal of infectious diseases	2008	244
+infectious+or+infection	18292584	3458	Soares AP	Bacillus Calmette-Guérin vaccination of human newborns induces T cells with complex cytokine and phenotypic profiles.	Journal of immunology	2008	81
+infectious+or+infection	18554755	3458	Elias D	Poor immunogenicity of BCG in helminth infected population is associated with increased in vitro TGF-beta production.	Vaccine	2008	59
+infectious+or+infection	18582195	3458	Hawkridge T	Safety and immunogenicity of a new tuberculosis vaccine, MVA85A, in healthy adults in South Africa.	The Journal of infectious diseases	2008	63
+infectious+or+infection	18684007	3458	Cranage M	Prevention of SIV rectal transmission and priming of T cell responses in macaques after local pre-exposure application of tenofovir gel.	PLoS medicine	2008	72
+infectious+or+infection	18722511	3458	Klehmet J	Stroke-induced immunodepression and post-stroke infections: lessons from the preventive antibacterial therapy in stroke trial.	Neuroscience	2009	51
+infectious+or+infection	18755923	3458	Meintjes G	Type 1 helper T cells and FoxP3-positive T cells in HIV-tuberculosis-associated immune reconstitution inflammatory syndrome.	American journal of respiratory and critical care medicine	2008	54
+infectious+or+infection	19017986	3458	Bertholet S	Identification of human T cell antigens for the development of vaccines against Mycobacterium tuberculosis.	Journal of immunology	2008	52
+infectious+or+infection	19055947	3458	Terabe M	The role of NKT cells in tumor immunity.	Advances in cancer research	2008	91
+infectious+or+infection	19105661	3458	Martinez FO	Alternative activation of macrophages: an immunologic functional perspective.	Annual review of immunology	2009	630
+infectious+or+infection	19287090	3458	Levy Y	Enhanced T cell recovery in HIV-1-infected adults through IL-7 treatment.	The Journal of clinical investigation	2009	114
+infectious+or+infection	19342414	3458	van Zyl-Smit RN	Within-subject variability and boosting of T-cell interferon-gamma responses after tuberculin skin testing.	American journal of respiratory and critical care medicine	2009	50
+infectious+or+infection	19387262	3458	Dheda K	T-cell interferon-gamma release assays for the rapid immunodiagnosis of tuberculosis: clinical utility in high-burden vs. low-burden settings.	Current opinion in pulmonary medicine	2009	64
+infectious+or+infection	19487422	3458	Strowig T	Priming of protective T cell responses against virus-induced tumors in mice with human immune system components.	The Journal of experimental medicine	2009	92
+infectious+or+infection	19613840	3458	Bicanic T	Independent association between rate of clearance of infection and clinical outcome of HIV-associated cryptococcal meningitis: analysis of a combined cohort of 262 patients.	Clinical infectious diseases 	2009	78
+infectious+or+infection	19636353	3458	Malhotra I	Can prenatal malaria exposure produce an immune tolerant phenotype? A prospective birth cohort study in Kenya.	PLoS medicine	2009	62
+infectious+or+infection	19747917	3458	Ahlenstiel G	Natural killer cells are polarized toward cytotoxicity in chronic hepatitis C in an interferon-alfa-dependent manner.	Gastroenterology	2010	91
+infectious+or+infection	19875682	3458	Mauad T	Lung pathology in fatal novel human influenza A (H1N1) infection.	American journal of respiratory and critical care medicine	2010	99
+infectious+or+infection	20003352	3458	Bermejo-Martin JF	Th1 and Th17 hypercytokinemia as early host response signature in severe pandemic influenza.	Critical care	2009	91
+infectious+or+infection	20019339	3458	Chen X	Reduced Th17 response in patients with tuberculosis correlates with IL-6R expression on CD4+ T Cells.	American journal of respiratory and critical care medicine	2010	48
+infectious+or+infection	20063313	3458	Wammes LJ	Regulatory T cells in human geohelminth infection suppress immune responses to BCG and Plasmodium falciparum.	European journal of immunology	2010	46
+infectious+or+infection	20200277	3458	Unsinger J	IL-7 promotes T cell viability, trafficking, and functionality and improves survival in sepsis.	Journal of immunology	2010	75
+infectious+or+infection	20226890	3458	van Dissel JT	Ag85B-ESAT-6 adjuvanted with IC31 promotes strong and long-lived Mycobacterium tuberculosis specific T cell responses in naïve human volunteers.	Vaccine	2010	61
+infectious+or+infection	20368575	3458	Vermijlen D	Human cytomegalovirus elicits fetal gammadelta T cell responses in utero.	The Journal of experimental medicine	2010	50
+infectious+or+infection	20470046	3458	Wyrick PB	Chlamydia trachomatis persistence in vitro: an overview.	The Journal of infectious diseases	2010	73
+infectious+or+infection	20558627	3458	Kagina BM	Specific T cell frequency and cytokine expression profile do not correlate with protection against tuberculosis after bacillus Calmette-Guérin vaccination of newborns.	American journal of respiratory and critical care medicine	2010	108
+infectious+or+infection	20610802	3458	McCall MB	Interferon-γ--central mediator of protective immune responses against the pre-erythrocytic and blood stage of malaria.	Journal of leukocyte biology	2010	61
+infectious+or+infection	20677939	3458	Boulware DR	Paucity of initial cerebrospinal fluid inflammation in cryptococcal meningitis is associated with subsequent immune reconstitution inflammatory syndrome.	The Journal of infectious diseases	2010	59
+infectious+or+infection	20725040	3458	Berry MP	An interferon-inducible neutrophil-driven blood transcriptional signature in human tuberculosis.	Nature	2010	449
+infectious+or+infection	20824205	3458	Mehra S	Transcriptional reprogramming in nonhuman primate (rhesus macaque) tuberculosis granulomas.	PloS one	2010	41
+infectious+or+infection	20881185	3458	Silverman JM	Leishmania exosomes modulate innate and adaptive immune responses through effects on monocytes and dendritic cells.	Journal of immunology	2010	56
+infectious+or+infection	21187448	3458	Rajasagi NK	Controlling herpes simplex virus-induced ocular inflammatory lesions with the lipid-derived mediator resolvin E1.	Journal of immunology	2011	44
+infectious+or+infection	21187913	3458	Peppa D	Blockade of immunosuppressive cytokines restores NK cell antiviral function in chronic hepatitis B virus infection.	PLoS pathogens	2010	64
+infectious+or+infection	21288814	3458	Skowronski DM	Immuno-epidemiologic correlates of pandemic H1N1 surveillance observations: higher antibody and lower cell-mediated immune responses with advanced age.	The Journal of infectious diseases	2011	41
+infectious+or+infection	21628665	3458	Wauquier N	The acute phase of Chikungunya virus infection in humans is associated with strong innate immunity and T CD8 cell activation.	The Journal of infectious diseases	2011	39
+infectious+or+infection	21669030	3458	Mandalakas AM	Interferon-gamma release assays and childhood tuberculosis: systematic review and meta-analysis.	The international journal of tuberculosis and lung disease 	2011	42
+infectious+or+infection	21734244	3458	Rikihisa Y	Mechanisms of obligatory intracellular infection with Anaplasma phagocytophilum.	Clinical microbiology reviews	2011	44
+infectious+or+infection	21775682	3458	Day CL	Functional capacity of Mycobacterium tuberculosis-specific T cell responses in humans is associated with mycobacterial load.	Journal of immunology	2011	84
+infectious+or+infection	21965332	3458	Varadarajan N	A high-throughput single-cell analysis of human CD8⁺ T cell functions reveals discordance for cytokine secretion and cytolysis.	The Journal of clinical investigation	2011	50
+infectious+or+infection	21998409	3458	Fabri M	Vitamin D is required for IFN-gamma-mediated antimicrobial activity of human macrophages.	Science translational medicine	2011	135
+infectious+or+infection	22289511	3458	McElhaney JE	The unmet need in the elderly: how immunosenescence, CMV infection, co-morbidities and frailty are a challenge for the development of more effective influenza vaccines.	Vaccine	2012	48
+infectious+or+infection	22323453	3458	Gleason MK	Tim-3 is an inducible human natural killer cell receptor that enhances interferon gamma production in response to galectin-9.	Blood	2012	58
+infectious+or+infection	22416258	3458	Jurado JO	IL-17 and IFN-γ expression in lymphocytes from patients with active tuberculosis correlates with the severity of the disease.	Journal of leukocyte biology	2012	42
+infectious+or+infection	22539471	3458	Singh OP	Reassessment of immune correlates in human visceral leishmaniasis as defined by cytokine release in whole blood.	Clinical and vaccine immunology 	2012	33
+infectious+or+infection	22569268	3458	Kamat A	Monocyte activation markers in cerebrospinal fluid associated with impaired neurocognitive testing in advanced HIV infection.	Journal of acquired immune deficiency syndromes	2012	61
+infectious+or+infection	22658928	3458	Thakur A	Immune markers and correlates of protection for vaccine induced immune responses.	Vaccine	2012	35
+infectious+or+infection	22700860	3458	Meintjes G	Corticosteroid-modulated immune activation in the tuberculosis immune reconstitution inflammatory syndrome.	American journal of respiratory and critical care medicine	2012	30
+infectious+or+infection	22761577	3458	Niedelman W	The rhoptry proteins ROP18 and ROP5 mediate Toxoplasma gondii evasion of the murine, but not the human, interferon-gamma response.	PLoS pathogens	2012	48
+infectious+or+infection	22772450	3458	Smith KM	miR-29ab1 deficiency identifies a negative feedback loop controlling Th1 bias that is dysregulated in multiple sclerosis.	Journal of immunology	2012	45
+infectious+or+infection	22983442	3458	Romee R	Cytokine activation induces human memory-like NK cells.	Blood	2012	82
+infectious+or+infection	23144328	3458	Kartalija M	Patients with nontuberculous mycobacterial lung disease exhibit unique body and immune phenotypes.	American journal of respiratory and critical care medicine	2013	31
+infectious+or+infection	23169501	3458	Icheva V	Adoptive transfer of epstein-barr virus (EBV) nuclear antigen 1-specific t cells as treatment for EBV reactivation and lymphoproliferative disorders after allogeneic stem-cell transplantation.	Journal of clinical oncology 	2013	47
+infectious+or+infection	23468501	3458	Jegaskanda S	Antibody-dependent cellular cytotoxicity is associated with control of pandemic H1N1 influenza virus infection of macaques.	Journal of virology	2013	47
+infectious+or+infection	23493728	3458	Jarvis JN	The phenotype of the Cryptococcus-specific CD4+ memory T-cell response is associated with disease severity and outcome in HIV-associated cryptococcal meningitis.	The Journal of infectious diseases	2013	29
+infectious+or+infection	23999600	3458	Garg A	HIV type 1 gp120-induced expansion of myeloid derived suppressor cells is dependent on interleukin 6 and suppresses immunity.	The Journal of infectious diseases	2014	22
+infectious+or+infection	24173214	3458	Taylor HE	The innate immune factor apolipoprotein L1 restricts HIV-1 infection.	Journal of virology	2014	22
+infectious+or+infection	24442432	3458	Della Chiesa M	Human cytomegalovirus infection promotes rapid maturation of NK cells expressing activating killer Ig-like receptor in patients transplanted with NKG2C-/- umbilical cord blood.	Journal of immunology	2014	31
+infectious+or+infection	24934179	3458	Masi A	Cytokine aberrations in autism spectrum disorder: a systematic review and meta-analysis.	Molecular psychiatry	2015	34
+infectious+or+infection	24967632	3458	Jo J	Toll-like receptor 8 agonist and bacteria trigger potent activation of innate immune cells in human liver.	PLoS pathogens	2014	29
+infectious+or+infection	25184558	3458	Dutta NK	Latent tuberculosis infection: myths, models, and molecular mechanisms.	Microbiology and molecular biology reviews 	2014	23
+infectious+or+infection	25211344	3458	Sedegah M	Sterile immunity to malaria after DNA prime/adenovirus boost immunization is associated with effector memory CD8+T cells targeting AMA1 class I epitopes.	PloS one	2014	25
+infectious+or+infection	25329659	3458	Luetke-Eversloh M	Human cytomegalovirus drives epigenetic imprinting of the IFNG locus in NKG2Chi natural killer cells.	PLoS pathogens	2014	34
+infectious+or+infection	25469528	3458	Villar-García J	Effect of probiotics (Saccharomyces boulardii) on microbial translocation and inflammation in HIV-treated patients: a double-blind, randomized, placebo-controlled trial.	Journal of acquired immune deficiency syndromes	2015	26
+infectious+or+infection	25534940	3458	Cardoso TM	Protective and pathological functions of CD8+ T cells in Leishmania braziliensis infection.	Infection and immunity	2015	16
+infectious+or+infection	25562578	3458	Andrews JR	The dynamics of QuantiFERON-TB gold in-tube conversion and reversion in a cohort of South African adolescents.	American journal of respiratory and critical care medicine	2015	17
+infectious+or+infection	25611466	3458	Gideon HP	Variability in tuberculosis granuloma T cell responses exists, but a balance of pro- and anti-inflammatory cytokines is associated with sterilization.	PLoS pathogens	2015	42
+infectious+or+infection	25703555	3458	Boisson-Dupuis S	Inherited and acquired immunodeficiencies underlying tuberculosis in childhood.	Immunological reviews	2015	21
+infectious+or+infection	26405286	3458	Getahun H	Management of latent Mycobacterium tuberculosis infection: WHO guidelines for low tuberculosis burden countries.	The European respiratory journal	2015	21
+infectious+or+infection	27068708	3458	Fletcher HA	T-cell activation is an immune correlate of risk in BCG vaccinated infants.	Nature communications	2016	16
+kidney+or+urine	10438971	3458	Heeger PS	Pretransplant frequency of donor-specific, IFN-gamma-producing lymphocytes is a manifestation of immunologic memory and correlates with the risk of posttransplant rejection episodes.	Journal of immunology	1999	111
+kidney+or+urine	10479160	3458	Day NP	The prognostic and pathophysiologic role of pro- and antiinflammatory cytokines in severe malaria.	The Journal of infectious diseases	1999	99
+kidney+or+urine	17255300	3458	Ochoa AC	Arginase, prostaglandins, and myeloid-derived suppressor cells in renal cell carcinoma.	Clinical cancer research 	2007	133
+kidney+or+urine	17379663	3458	Heidel JD	Administration in non-human primates of escalating intravenous doses of targeted nanoparticles containing ribonucleotide reductase subunit M2 siRNA.	Proceedings of the National Academy of Sciences of the United States of America	2007	87
+kidney+or+urine	18927310	3458	Finke JH	Sunitinib reverses type-1 immune suppression and decreases T-regulatory cells in renal cell carcinoma patients.	Clinical cancer research 	2008	113
+kidney+or+urine	19088044	3458	Kusmartsev S	Reversal of myeloid cell-mediated immunosuppression in patients with metastatic renal cell carcinoma.	Clinical cancer research 	2008	83
+kidney+or+urine	19276286	3458	Ko JS	Sunitinib mediates reversal of myeloid-derived suppressor cell accumulation in renal cell carcinoma patients.	Clinical cancer research 	2009	227
+kidney+or+urine	19487422	3458	Strowig T	Priming of protective T cell responses against virus-induced tumors in mice with human immune system components.	The Journal of experimental medicine	2009	92
+kidney+or+urine	19747917	3458	Ahlenstiel G	Natural killer cells are polarized toward cytotoxicity in chronic hepatitis C in an interferon-alfa-dependent manner.	Gastroenterology	2010	91
+kidney+or+urine	23414212	3458	Sellarés J	Molecular diagnosis of antibody-mediated rejection in human kidney transplants.	American journal of transplantation 	2013	30
+kidney+or+urine	25244096	3458	Kirabo A	DC isoketal-modified proteins activate T cells and promote hypertension.	The Journal of clinical investigation	2014	60
+kidney+or+urine	26405286	3458	Getahun H	Management of latent Mycobacterium tuberculosis infection: WHO guidelines for low tuberculosis burden countries.	The European respiratory journal	2015	21
+liver+or+hepatic	10438971	3458	Heeger PS	Pretransplant frequency of donor-specific, IFN-gamma-producing lymphocytes is a manifestation of immunologic memory and correlates with the risk of posttransplant rejection episodes.	Journal of immunology	1999	111
+liver+or+hepatic	10646872	3458	Jaiswal M	Inflammatory cytokines induce DNA damage and inhibit DNA repair in cholangiocarcinoma cells by a nitric oxide-dependent mechanism.	Cancer research	2000	104
+liver+or+hepatic	11170064	3458	To KF	Pathology of fatal human infection associated with avian influenza A H5N1 virus.	Journal of medical virology	2001	104
+liver+or+hepatic	12001037	3458	Libraty DH	Differing influences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections.	The Journal of infectious diseases	2002	160
+liver+or+hepatic	15100412	3458	Wieland S	Genomic analysis of the host response to hepatitis B virus infection.	Proceedings of the National Academy of Sciences of the United States of America	2004	143
+liver+or+hepatic	16547287	3458	Longhi MS	Functional study of CD4+CD25+ regulatory T cells in health and autoimmune hepatitis.	Journal of immunology	2006	64
+liver+or+hepatic	16785573	3458	Xu D	Circulating and liver resident CD4+CD25+ regulatory T cells actively influence the antiviral immune response and disease progression in patients with hepatitis B.	Journal of immunology	2006	101
+liver+or+hepatic	17379663	3458	Heidel JD	Administration in non-human primates of escalating intravenous doses of targeted nanoparticles containing ribonucleotide reductase subunit M2 siRNA.	Proceedings of the National Academy of Sciences of the United States of America	2007	87
+liver+or+hepatic	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+liver+or+hepatic	19542050	3458	Gao B	Liver natural killer and natural killer T cells: immunobiology and emerging roles in liver diseases.	Journal of leukocyte biology	2009	93
+liver+or+hepatic	19747917	3458	Ahlenstiel G	Natural killer cells are polarized toward cytotoxicity in chronic hepatitis C in an interferon-alfa-dependent manner.	Gastroenterology	2010	91
+liver+or+hepatic	20881185	3458	Silverman JM	Leishmania exosomes modulate innate and adaptive immune responses through effects on monocytes and dendritic cells.	Journal of immunology	2010	56
+liver+or+hepatic	21187913	3458	Peppa D	Blockade of immunosuppressive cytokines restores NK cell antiviral function in chronic hepatitis B virus infection.	PLoS pathogens	2010	64
+liver+or+hepatic	24967632	3458	Jo J	Toll-like receptor 8 agonist and bacteria trigger potent activation of innate immune cells in human liver.	PLoS pathogens	2014	29
+liver+or+hepatic	25387892	3458	Chen S	Combination of 4-1BB agonist and PD-1 antagonist promotes antitumor effector/memory CD8 T cells in a poorly immunogenic tumor model.	Cancer immunology research	2015	17
+liver+or+hepatic	25644696	3458	Jiang W	Dysbiosis gut microbiota associated with inflammation and impaired mucosal immune function in intestine of humans with non-alcoholic fatty liver disease.	Scientific reports	2015	23
+liver+or+hepatic	25647269	3458	Talaat RM	Th1/Th2/Th17/Treg cytokine imbalance in systemic lupus erythematosus (SLE) patients: Correlation with disease activity.	Cytokine	2015	23
+rat+or+mouse	1672545	3458	Chan SH	Induction of interferon gamma production by natural killer cell stimulatory factor: characterization of the responder cells and synergy with other inducers.	The Journal of experimental medicine	1991	182
+rat+or+mouse	8445253	3458	Jung T	Detection of intracellular cytokines by flow cytometry.	Journal of immunological methods	1993	149
+rat+or+mouse	9603732	3458	Altare F	Impairment of mycobacterial immunity in human interleukin-12 receptor deficiency.	Science	1998	172
+rat+or+mouse	10646872	3458	Jaiswal M	Inflammatory cytokines induce DNA damage and inhibit DNA repair in cholangiocarcinoma cells by a nitric oxide-dependent mechanism.	Cancer research	2000	104
+rat+or+mouse	11717429	3458	Bennett BL	SP600125, an anthrapyrazolone inhibitor of Jun N-terminal kinase.	Proceedings of the National Academy of Sciences of the United States of America	2001	591
+rat+or+mouse	11781358	3458	Kukreja A	Multiple immuno-regulatory defects in type-1 diabetes.	The Journal of clinical investigation	2002	156
+rat+or+mouse	12750172	3458	Dufour C	TNF-alpha and IFN-gamma are overexpressed in the bone marrow of Fanconi anemia patients and TNF-alpha suppresses erythropoiesis in vitro.	Blood	2003	82
+rat+or+mouse	12942579	3458	Sasada T	CD4+CD25+ regulatory T cells in patients with gastrointestinal malignancies: possible involvement of regulatory T cells in disease progression.	Cancer	2003	81
+rat+or+mouse	15546386	3458	Kovanen PE	Cytokines and immunodeficiency diseases: critical roles of the gamma(c)-dependent cytokines interleukins 2, 4, 7, 9, 15, and 21, and their signaling pathways.	Immunological reviews	2004	78
+rat+or+mouse	15764907	3458	Ngoc PL	Cytokines, allergy, and asthma.	Current opinion in allergy and clinical immunology	2005	70
+rat+or+mouse	16505141	3458	Trumpfheller C	Intensified and protective CD4+ T cell immunity in mice with anti-dendritic cell HIV gag fusion antibody vaccine.	The Journal of experimental medicine	2006	96
+rat+or+mouse	16678181	3458	Hunt NH	Immunopathogenesis of cerebral malaria.	International journal for parasitology	2006	80
+rat+or+mouse	17255300	3458	Ochoa AC	Arginase, prostaglandins, and myeloid-derived suppressor cells in renal cell carcinoma.	Clinical cancer research 	2007	133
+rat+or+mouse	17438063	3458	Aspord C	Breast cancer instructs dendritic cells to prime interleukin 13-secreting CD4+ T cells that facilitate tumor development.	The Journal of experimental medicine	2007	79
+rat+or+mouse	17507983	3458	Barton ES	Herpesvirus latency confers symbiotic protection from bacterial infection.	Nature	2007	194
+rat+or+mouse	17995965	3458	Reddy N	Immunomodulatory drugs stimulate natural killer-cell function, alter cytokine production by dendritic cells, and inhibit angiogenesis enhancing the anti-tumour activity of rituximab in vivo.	British journal of haematology	2008	62
+rat+or+mouse	18391061	3458	Luger D	Either a Th17 or a Th1 effector response can drive autoimmunity: conditions of disease induction affect dominant effector category.	The Journal of experimental medicine	2008	221
+rat+or+mouse	18420999	3458	Kintscher U	T-lymphocyte infiltration in visceral adipose tissue: a primary event in adipose tissue inflammation and the development of obesity-mediated insulin resistance.	Arteriosclerosis, thrombosis, and vascular biology	2008	181
+rat+or+mouse	19017986	3458	Bertholet S	Identification of human T cell antigens for the development of vaccines against Mycobacterium tuberculosis.	Journal of immunology	2008	52
+rat+or+mouse	19029905	3458	Cupedo T	Human fetal lymphoid tissue-inducer cells are interleukin 17-producing precursors to RORC+ CD127+ natural killer-like cells.	Nature immunology	2009	149
+rat+or+mouse	19055947	3458	Terabe M	The role of NKT cells in tumor immunity.	Advances in cancer research	2008	91
+rat+or+mouse	19105661	3458	Martinez FO	Alternative activation of macrophages: an immunologic functional perspective.	Annual review of immunology	2009	630
+rat+or+mouse	19330474	3458	Wolk K	IL-22 and IL-20 are key mediators of the epidermal alterations in psoriasis while IL-17 and IFN-gamma are not.	Journal of molecular medicine	2009	58
+rat+or+mouse	19458616	3458	Hadjur S	Cohesins form chromosomal cis-interactions at the developmentally regulated IFNG locus.	Nature	2009	211
+rat+or+mouse	19487422	3458	Strowig T	Priming of protective T cell responses against virus-induced tumors in mice with human immune system components.	The Journal of experimental medicine	2009	92
+rat+or+mouse	19497992	3458	Moodley Y	Human umbilical cord mesenchymal stem cells reduce fibrosis of bleomycin-induced lung injury.	The American journal of pathology	2009	77
+rat+or+mouse	19536809	3458	Xu Q	Antigen-specific T-cell response from dendritic cell vaccination using cancer stem-like cell-associated antigens.	Stem cells	2009	54
+rat+or+mouse	19542050	3458	Gao B	Liver natural killer and natural killer T cells: immunobiology and emerging roles in liver diseases.	Journal of leukocyte biology	2009	93
+rat+or+mouse	19585513	3458	Lynch L	Invariant NKT cells and CD1d(+) cells amass in human omentum and are depleted in patients with cancer and obesity.	European journal of immunology	2009	55
+rat+or+mouse	19818653	3458	Feuerer M	How punctual ablation of regulatory T cells unleashes an autoimmune lesion within the pancreatic islets.	Immunity	2009	83
+rat+or+mouse	19890056	3458	Jäger A	Th1, Th17, and Th9 effector cells induce experimental autoimmune encephalomyelitis with different pathological phenotypes.	Journal of immunology	2009	186
+rat+or+mouse	19923445	3458	Zhang Q	Mesenchymal stem cells derived from human gingiva are capable of immunomodulatory functions and ameliorate inflammation-related tissue destruction in experimental colitis.	Journal of immunology	2009	111
+rat+or+mouse	20050849	3458	Schafer PH	Apremilast, a cAMP phosphodiesterase-4 inhibitor, demonstrates anti-inflammatory activity in vitro and in a model of psoriasis.	British journal of pharmacology	2010	44
+rat+or+mouse	20200277	3458	Unsinger J	IL-7 promotes T cell viability, trafficking, and functionality and improves survival in sepsis.	Journal of immunology	2010	75
+rat+or+mouse	20231693	3458	Wu X	Protein-DNA complex is the exclusive malaria parasite component that activates dendritic cells and triggers innate immune responses.	Journal of immunology	2010	50
+rat+or+mouse	20368733	3458	Shi Y	Mesenchymal stem cells: a new strategy for immunosuppression and tissue repair.	Cell research	2010	112
+rat+or+mouse	20491796	3458	Harris J	How tumour necrosis factor blockers interfere with tuberculosis immunity.	Clinical and experimental immunology	2010	52
+rat+or+mouse	20881185	3458	Silverman JM	Leishmania exosomes modulate innate and adaptive immune responses through effects on monocytes and dendritic cells.	Journal of immunology	2010	56
+rat+or+mouse	21102458	3458	Wilhelm K	Graft-versus-host disease is enhanced by extracellular ATP activating P2X7R.	Nature medicine	2010	95
+rat+or+mouse	21106641	3458	Brandau S	Myeloid-derived suppressor cells in the peripheral blood of cancer patients contain a subset of immature neutrophils with impaired migratory properties.	Journal of leukocyte biology	2011	65
+rat+or+mouse	21169542	3458	Jagannathan-Bogdan M	Elevated proinflammatory cytokine production by a skewed T cell compartment requires monocytes and promotes inflammation in type 2 diabetes.	Journal of immunology	2011	70
+rat+or+mouse	21187448	3458	Rajasagi NK	Controlling herpes simplex virus-induced ocular inflammatory lesions with the lipid-derived mediator resolvin E1.	Journal of immunology	2011	44
+rat+or+mouse	21377040	3458	Akdis M	Interleukins, from 1 to 37, and interferon-γ: receptors, functions, and roles in diseases.	The Journal of allergy and clinical immunology	2011	98
+rat+or+mouse	21624938	3458	Zoller EE	Hemophagocytosis causes a consumptive anemia of inflammation.	The Journal of experimental medicine	2011	37
+rat+or+mouse	21706005	3458	Rossi RL	Distinct microRNA signatures in human lymphocyte subsets and enforcement of the naive state in CD4+ T cells by the microRNA miR-125b.	Nature immunology	2011	86
+rat+or+mouse	22297636	3458	Harris JE	A mouse model of vitiligo with focused epidermal depigmentation requires IFN-γ for autoreactive CD8⁺ T-cell accumulation in the skin.	The Journal of investigative dermatology	2012	31
+rat+or+mouse	22378844	3458	Trotta R	miR-155 regulates IFN-γ production in natural killer cells.	Blood	2012	61
+rat+or+mouse	22466287	3458	Zielinski CE	Pathogen-induced human TH17 cells produce IFN-γ or IL-10 and are regulated by IL-1β.	Nature	2012	190
+rat+or+mouse	22761577	3458	Niedelman W	The rhoptry proteins ROP18 and ROP5 mediate Toxoplasma gondii evasion of the murine, but not the human, interferon-gamma response.	PLoS pathogens	2012	48
+rat+or+mouse	22772450	3458	Smith KM	miR-29ab1 deficiency identifies a negative feedback loop controlling Th1 bias that is dysregulated in multiple sclerosis.	Journal of immunology	2012	45
+rat+or+mouse	22983442	3458	Romee R	Cytokine activation induces human memory-like NK cells.	Blood	2012	82
+rat+or+mouse	23271808	3458	Fu B	Natural killer cells promote immune tolerance by regulating inflammatory TH17 cells at the human maternal-fetal interface.	Proceedings of the National Academy of Sciences of the United States of America	2013	36
+rat+or+mouse	23323860	3458	Padgett LE	The role of reactive oxygen species and proinflammatory cytokines in type 1 diabetes pathogenesis.	Annals of the New York Academy of Sciences	2013	54
+rat+or+mouse	24434782	3458	Leong JW	Preactivation with IL-12, IL-15, and IL-18 induces CD25 and a functional high-affinity IL-2 receptor on human cytokine-induced memory-like natural killer cells.	Biology of blood and marrow transplantation 	2014	40
+rat+or+mouse	24563254	3458	Ohshima J	Role of mouse and human autophagy proteins in IFN-γ-induced cell-autonomous responses against Toxoplasma gondii.	Journal of immunology	2014	31
+rat+or+mouse	24655295	3458	Lowes MA	Immunology of psoriasis.	Annual review of immunology	2014	88
+rat+or+mouse	25244096	3458	Kirabo A	DC isoketal-modified proteins activate T cells and promote hypertension.	The Journal of clinical investigation	2014	60
+rat+or+mouse	26350966	3458	Selleck EM	A Noncanonical Autophagy Pathway Restricts Toxoplasma gondii Growth in a Strain-Specific Manner in IFN-γ-Activated Human Cells.	mBio	2015	17
+rat+or+mouse	27111145	3458	Bal SM	IL-1β, IL-4 and IL-12 control the fate of group 2 innate lymphoid cells in human airway inflammation in the lungs.	Nature immunology	2016	14
+pathology	10352304	3458	Pizarro TT	IL-18, a novel immunoregulatory cytokine, is up-regulated in Crohn's disease: expression and localization in intestinal mucosal cells.	Journal of immunology	1999	99
+pathology	10428293	3458	Frostegård J	Cytokine expression in advanced human atherosclerotic plaques: dominance of pro-inflammatory (Th1) and macrophage-stimulating cytokines.	Atherosclerosis	1999	141
+pathology	10479160	3458	Day NP	The prognostic and pathophysiologic role of pro- and antiinflammatory cytokines in severe malaria.	The Journal of infectious diseases	1999	99
+pathology	10955814	3458	Ueno T	Significance of macrophage chemoattractant protein-1 in macrophage recruitment, angiogenesis, and survival in human breast cancer.	Clinical cancer research 	2000	160
+pathology	11170064	3458	To KF	Pathology of fatal human infection associated with avian influenza A H5N1 virus.	Journal of medical virology	2001	104
+pathology	11406550	3458	Woo EY	Regulatory CD4(+)CD25(+) T cells in tumors from patients with early-stage non-small cell lung cancer and late-stage ovarian cancer.	Cancer research	2001	243
+pathology	11828007	3458	Gerosa F	Reciprocal activating interaction between natural killer cells and dendritic cells.	The Journal of experimental medicine	2002	218
+pathology	11900986	3458	Ikeda H	The roles of IFN gamma in protection against tumor development and cancer immunoediting.	Cytokine and growth factor reviews	2002	152
+pathology	12898444	3458	Wang SM	Pathogenesis of enterovirus 71 brainstem encephalitis in pediatric patients: roles of cytokines and cellular immune activation in patients with pulmonary edema.	The Journal of infectious diseases	2003	75
+pathology	14512316	3458	Nieda M	Therapeutic activation of Valpha24+Vbeta11+ NKT cells in human subjects results in highly coordinated secondary activation of acquired and innate immunity.	Blood	2004	86
+pathology	14555512	3458	Ichihara F	Increased populations of regulatory T cells in peripheral blood and tumor-infiltrating lymphocytes in patients with gastric and esophageal cancers.	Clinical cancer research 	2003	97
+pathology	15939793	3458	Ruprecht CR	Coexpression of CD25 and CD27 identifies FoxP3+ regulatory T cells in inflamed synovia.	The Journal of experimental medicine	2005	103
+pathology	16547287	3458	Longhi MS	Functional study of CD4+CD25+ regulatory T cells in health and autoimmune hepatitis.	Journal of immunology	2006	64
+pathology	16678181	3458	Hunt NH	Immunopathogenesis of cerebral malaria.	International journal for parasitology	2006	80
+pathology	16785573	3458	Xu D	Circulating and liver resident CD4+CD25+ regulatory T cells actively influence the antiviral immune response and disease progression in patients with hepatitis B.	Journal of immunology	2006	101
+pathology	16971810	3458	Palucka AK	Dendritic cells loaded with killed allogeneic melanoma cells can induce objective clinical responses and MART-1 specific CD8+ T-cell immunity.	Journal of immunotherapy	2006	71
+pathology	17185041	3458	Pillai V	Transient regulatory T-cells: a state attained by all activated human T-cells.	Clinical immunology	2007	89
+pathology	17507983	3458	Barton ES	Herpesvirus latency confers symbiotic protection from bacterial infection.	Nature	2007	194
+pathology	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+pathology	18039949	3458	Zaba LC	Amelioration of epidermal hyperplasia by TNF inhibition is associated with reduced Th17 responses.	The Journal of experimental medicine	2007	134
+pathology	18276911	3458	Doran AC	Role of smooth muscle cells in the initiation and early progression of atherosclerosis.	Arteriosclerosis, thrombosis, and vascular biology	2008	167
+pathology	18359186	3458	Witek-Janusek L	Effect of mindfulness based stress reduction on immune function, quality of life and coping in women newly diagnosed with early stage breast cancer.	Brain, behavior, and immunity	2008	75
+pathology	18391061	3458	Luger D	Either a Th17 or a Th1 effector response can drive autoimmunity: conditions of disease induction affect dominant effector category.	The Journal of experimental medicine	2008	221
+pathology	18430495	3458	Hirao LA	Combined effects of IL-12 and electroporation enhances the potency of DNA vaccination in macaques.	Vaccine	2008	68
+pathology	18497880	3458	Kamada N	Unique CD14 intestinal macrophages contribute to the pathogenesis of Crohn disease via IL-23/IFN-gamma axis.	The Journal of clinical investigation	2008	139
+pathology	18678243	3458	Reale M	Peripheral cytokines profile in Parkinson's disease.	Brain, behavior, and immunity	2009	75
+pathology	18684158	3458	Nograles KE	Th17 cytokines interleukin (IL)-17 and IL-22 modulate distinct inflammatory and keratinocyte-response pathways.	The British journal of dermatology	2008	139
+pathology	18802076	3458	Kryczek I	Induction of IL-17+ T cell trafficking and development by IFN-gamma: mechanism and pathological relevance in psoriasis.	Journal of immunology	2008	104
+pathology	19055947	3458	Terabe M	The role of NKT cells in tumor immunity.	Advances in cancer research	2008	91
+pathology	19105661	3458	Martinez FO	Alternative activation of macrophages: an immunologic functional perspective.	Annual review of immunology	2009	630
+pathology	19255340	3458	Eid RE	Interleukin-17 and interferon-gamma are produced concomitantly by human coronary artery-infiltrating T cells and act synergistically on vascular smooth muscle cells.	Circulation	2009	111
+pathology	19287090	3458	Levy Y	Enhanced T cell recovery in HIV-1-infected adults through IL-7 treatment.	The Journal of clinical investigation	2009	114
+pathology	19330474	3458	Wolk K	IL-22 and IL-20 are key mediators of the epidermal alterations in psoriasis while IL-17 and IFN-gamma are not.	Journal of molecular medicine	2009	58
+pathology	19470694	3458	Kryczek I	Phenotype, distribution, generation, and functional and clinical relevance of Th17 cells in the human tumor environments.	Blood	2009	202
+pathology	19497992	3458	Moodley Y	Human umbilical cord mesenchymal stem cells reduce fibrosis of bleomycin-induced lung injury.	The American journal of pathology	2009	77
+pathology	19536809	3458	Xu Q	Antigen-specific T-cell response from dendritic cell vaccination using cancer stem-like cell-associated antigens.	Stem cells	2009	54
+pathology	19538319	3458	Schulzke JD	Epithelial tight junctions in intestinal inflammation.	Annals of the New York Academy of Sciences	2009	70
+pathology	19542050	3458	Gao B	Liver natural killer and natural killer T cells: immunobiology and emerging roles in liver diseases.	Journal of leukocyte biology	2009	93
+pathology	19585513	3458	Lynch L	Invariant NKT cells and CD1d(+) cells amass in human omentum and are depleted in patients with cancer and obesity.	European journal of immunology	2009	55
+pathology	19818653	3458	Feuerer M	How punctual ablation of regulatory T cells unleashes an autoimmune lesion within the pancreatic islets.	Immunity	2009	83
+pathology	19875682	3458	Mauad T	Lung pathology in fatal novel human influenza A (H1N1) infection.	American journal of respiratory and critical care medicine	2010	99
+pathology	19890056	3458	Jäger A	Th1, Th17, and Th9 effector cells induce experimental autoimmune encephalomyelitis with different pathological phenotypes.	Journal of immunology	2009	186
+pathology	20003352	3458	Bermejo-Martin JF	Th1 and Th17 hypercytokinemia as early host response signature in severe pandemic influenza.	Critical care	2009	91
+pathology	20050849	3458	Schafer PH	Apremilast, a cAMP phosphodiesterase-4 inhibitor, demonstrates anti-inflammatory activity in vitro and in a model of psoriasis.	British journal of pharmacology	2010	44
+pathology	20164424	3458	Denny MF	A distinct subset of proinflammatory neutrophils isolated from patients with systemic lupus erythematosus induces vascular damage and synthesizes type I IFNs.	Journal of immunology	2010	110
+pathology	20222111	3458	Shamji MF	Proinflammatory cytokine expression profile in degenerated and herniated human intervertebral disc tissues.	Arthritis and rheumatism	2010	53
+pathology	20404924	3458	Verma S	Quantification of parasite load in clinical samples of leishmaniasis patients: IL-10 level correlates with parasite load in visceral leishmaniasis.	PloS one	2010	41
+pathology	20437580	3458	Bar-Or A	Abnormal B-cell cytokine responses a trigger of T-cell-mediated disease in MS?	Annals of neurology	2010	85
+pathology	20677939	3458	Boulware DR	Paucity of initial cerebrospinal fluid inflammation in cryptococcal meningitis is associated with subsequent immune reconstitution inflammatory syndrome.	The Journal of infectious diseases	2010	59
+pathology	21085185	3458	Chiricozzi A	Integrative responses to IL-17 and TNF-α in human keratinocytes account for key inflammatory pathogenic circuits in psoriasis.	The Journal of investigative dermatology	2011	77
+pathology	21106641	3458	Brandau S	Myeloid-derived suppressor cells in the peripheral blood of cancer patients contain a subset of immature neutrophils with impaired migratory properties.	Journal of leukocyte biology	2011	65
+pathology	21169542	3458	Jagannathan-Bogdan M	Elevated proinflammatory cytokine production by a skewed T cell compartment requires monocytes and promotes inflammation in type 2 diabetes.	Journal of immunology	2011	70
+pathology	21187448	3458	Rajasagi NK	Controlling herpes simplex virus-induced ocular inflammatory lesions with the lipid-derived mediator resolvin E1.	Journal of immunology	2011	44
+pathology	21368230	3458	McClymont SA	Plasticity of human regulatory T cells in healthy subjects and patients with type 1 diabetes.	Journal of immunology	2011	98
+pathology	21414808	3458	Saini D	Alloimmunity-induced autoimmunity as a potential mechanism in the pathogenesis of chronic rejection of human lung allografts.	The Journal of heart and lung transplantation 	2011	45
+pathology	21624938	3458	Zoller EE	Hemophagocytosis causes a consumptive anemia of inflammation.	The Journal of experimental medicine	2011	37
+pathology	21628665	3458	Wauquier N	The acute phase of Chikungunya virus infection in humans is associated with strong innate immunity and T CD8 cell activation.	The Journal of infectious diseases	2011	39
+pathology	22297636	3458	Harris JE	A mouse model of vitiligo with focused epidermal depigmentation requires IFN-γ for autoreactive CD8⁺ T-cell accumulation in the skin.	The Journal of investigative dermatology	2012	31
+pathology	22349514	3458	Schmieder A	Differentiation and gene expression profile of tumor-associated macrophages.	Seminars in cancer biology	2012	41
+pathology	22370101	3458	Darmochwal-Kolarz D	The predominance of Th17 lymphocytes and decreased number and function of Treg cells in preeclampsia.	Journal of reproductive immunology	2012	31
+pathology	22416258	3458	Jurado JO	IL-17 and IFN-γ expression in lymphocytes from patients with active tuberculosis correlates with the severity of the disease.	Journal of leukocyte biology	2012	42
+pathology	22485125	3458	Zhang L	Increased frequencies of Th22 cells as well as Th17 cells in the peripheral blood of patients with ankylosing spondylitis and rheumatoid arthritis.	PloS one	2012	36
+pathology	23017648	3458	Devos D	Colonic inflammation in Parkinson's disease.	Neurobiology of disease	2013	29
+pathology	23223131	3458	Hijnen D	CD8(+) T cells in the lesional skin of atopic dermatitis and psoriasis patients are an important source of IFN-γ, IL-13, IL-17, and IL-22.	The Journal of investigative dermatology	2013	29
+pathology	23271808	3458	Fu B	Natural killer cells promote immune tolerance by regulating inflammatory TH17 cells at the human maternal-fetal interface.	Proceedings of the National Academy of Sciences of the United States of America	2013	36
+pathology	23323860	3458	Padgett LE	The role of reactive oxygen species and proinflammatory cytokines in type 1 diabetes pathogenesis.	Annals of the New York Academy of Sciences	2013	54
+pathology	23915137	3458	Swindell WR	Dissecting the psoriasis transcriptome: inflammatory- and cytokine-driven gene expression in lesions from 163 patients.	BMC genomics	2013	34
+pathology	24009159	3458	Cosmi L	T helper cells plasticity in inflammation.	Cytometry. Part A 	2014	28
+pathology	24655295	3458	Lowes MA	Immunology of psoriasis.	Annual review of immunology	2014	88
+pathology	24967632	3458	Jo J	Toll-like receptor 8 agonist and bacteria trigger potent activation of innate immune cells in human liver.	PLoS pathogens	2014	29
+pathology	25211344	3458	Sedegah M	Sterile immunity to malaria after DNA prime/adenovirus boost immunization is associated with effector memory CD8+T cells targeting AMA1 class I epitopes.	PloS one	2014	25
+pathology	25244096	3458	Kirabo A	DC isoketal-modified proteins activate T cells and promote hypertension.	The Journal of clinical investigation	2014	60
+pathology	25534940	3458	Cardoso TM	Protective and pathological functions of CD8+ T cells in Leishmania braziliensis infection.	Infection and immunity	2015	16
+pathology	25611466	3458	Gideon HP	Variability in tuberculosis granuloma T cell responses exists, but a balance of pro- and anti-inflammatory cytokines is associated with sterilization.	PLoS pathogens	2015	42
+pathology	25644696	3458	Jiang W	Dysbiosis gut microbiota associated with inflammation and impaired mucosal immune function in intestine of humans with non-alcoholic fatty liver disease.	Scientific reports	2015	23
+pathology	26350966	3458	Selleck EM	A Noncanonical Autophagy Pathway Restricts Toxoplasma gondii Growth in a Strain-Specific Manner in IFN-γ-Activated Human Cells.	mBio	2015	17
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	9176497	3458	Döcke WD	Monocyte deactivation in septic patients: restoration by IFN-gamma treatment.	Nature medicine	1997	203
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	9923875	3458	Prescott SL	Development of allergen-specific T-cell memory in atopic and normal children.	Lancet	1999	100
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	10226067	3458	Baldini M	A Polymorphism* in the 5' flanking region of the CD14 gene is associated with circulating soluble CD14 levels and with total serum immunoglobulin E.	American journal of respiratory cell and molecular biology	1999	125
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	10905243	3458	Gereda JE	Relation between house-dust endotoxin exposure, type 1 T-cell development, and allergen sensitisation in infants at high risk of asthma.	Lancet	2000	90
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	11170064	3458	To KF	Pathology of fatal human infection associated with avian influenza A H5N1 virus.	Journal of medical virology	2001	104
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	11781358	3458	Kukreja A	Multiple immuno-regulatory defects in type-1 diabetes.	The Journal of clinical investigation	2002	156
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	12001037	3458	Libraty DH	Differing influences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections.	The Journal of infectious diseases	2002	160
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	12239255	3458	Braun-Fahrländer C	Environmental exposure to endotoxin and its relation to asthma in school-age children.	The New England journal of medicine	2002	250
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	12750172	3458	Dufour C	TNF-alpha and IFN-gamma are overexpressed in the bone marrow of Fanconi anemia patients and TNF-alpha suppresses erythropoiesis in vitro.	Blood	2003	82
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	12898444	3458	Wang SM	Pathogenesis of enterovirus 71 brainstem encephalitis in pediatric patients: roles of cytokines and cellular immune activation in patients with pulmonary edema.	The Journal of infectious diseases	2003	75
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	15383574	3458	Moseman EA	Human plasmacytoid dendritic cells activated by CpG oligodeoxynucleotides induce the generation of CD4+CD25+ regulatory T cells.	Journal of immunology	2004	139
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	15941805	3458	Kang YA	Discrepancy between the tuberculin skin test and the whole-blood interferon gamma assay for the diagnosis of latent tuberculosis infection in an intermediate tuberculosis-burden country.	JAMA	2005	81
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16258194	3458	Arican O	Serum levels of TNF-alpha, IFN-gamma, IL-6, IL-8, IL-12, IL-17, and IL-18 in patients with active psoriasis and correlation with disease severity.	Mediators of inflammation	2005	91
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16360218	3458	Molloy CA	Elevated cytokine levels in children with autism spectrum disorder.	Journal of neuroimmunology	2006	68
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16374252	3458	Fuss IJ	Both IL-12p70 and IL-23 are synthesized during active Crohn's disease and are down-regulated by treatment with anti-IL-12 p40 monoclonal antibody.	Inflammatory bowel diseases	2006	68
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16547287	3458	Longhi MS	Functional study of CD4+CD25+ regulatory T cells in health and autoimmune hepatitis.	Journal of immunology	2006	64
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16803570	3458	Feuchtinger T	Safe adoptive transfer of virus-specific T-cell immunity for the treatment of systemic adenovirus infection after allogeneic stem cell transplantation.	British journal of haematology	2006	65
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	16931093	3458	Leyten EM	Human T-cell responses to 25 novel antigens encoded by genes of the dormancy regulon of Mycobacterium tuberculosis.	Microbes and infection	2006	87
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	17255300	3458	Ochoa AC	Arginase, prostaglandins, and myeloid-derived suppressor cells in renal cell carcinoma.	Clinical cancer research 	2007	133
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	17641064	3458	Admyre C	Exosomes with immune modulatory features are present in human breast milk.	Journal of immunology	2007	168
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	17948267	3458	Beveridge NE	Immunisation with BCG and recombinant MVA85A induces long-lasting, polyfunctional Mycobacterium tuberculosis-specific CD4+ memory T lymphocyte populations.	European journal of immunology	2007	102
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18037347	3458	Martire B	Clinical features, long-term follow-up and outcome of a large cohort of patients with Chronic Granulomatous Disease: an Italian multicenter study.	Clinical immunology	2008	52
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18292584	3458	Soares AP	Bacillus Calmette-Guérin vaccination of human newborns induces T cells with complex cytokine and phenotypic profiles.	Journal of immunology	2008	81
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18448618	3458	Forrest BD	Correlation of cellular immune responses with protection against culture-confirmed influenza virus in young children.	Clinical and vaccine immunology 	2008	62
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18554755	3458	Elias D	Poor immunogenicity of BCG in helminth infected population is associated with increased in vitro TGF-beta production.	Vaccine	2008	59
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18582195	3458	Hawkridge T	Safety and immunogenicity of a new tuberculosis vaccine, MVA85A, in healthy adults in South Africa.	The Journal of infectious diseases	2008	63
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	18624725	3458	Wang M	The immunomodulatory activity of human umbilical cord blood-derived mesenchymal stem cells in vitro.	Immunology	2009	57
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19105884	3458	Pai M	T-cell assay conversions and reversions among household contacts of tuberculosis patients in rural India.	The international journal of tuberculosis and lung disease 	2009	45
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19336372	3458	Ambalavanan N	Cytokines associated with bronchopulmonary dysplasia or death in extremely low birth weight infants.	Pediatrics	2009	69
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19342414	3458	van Zyl-Smit RN	Within-subject variability and boosting of T-cell interferon-gamma responses after tuberculin skin testing.	American journal of respiratory and critical care medicine	2009	50
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19577283	3458	Jones SM	Clinical efficacy and immune regulation with peanut oral immunotherapy.	The Journal of allergy and clinical immunology	2009	135
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19608159	3458	Yoo KH	Comparison of immunomodulatory properties of mesenchymal stem cells derived from adult human tissues.	Cellular immunology	2009	80
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19636353	3458	Malhotra I	Can prenatal malaria exposure produce an immune tolerant phenotype? A prospective birth cohort study in Kenya.	PLoS medicine	2009	62
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19740775	3458	Rovedatti L	Differential regulation of interleukin 17 and interferon gamma production in inflammatory bowel disease.	Gut	2009	67
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19822900	3458	Gutman JA	Single-unit dominance after double-unit umbilical cord blood transplantation coincides with a specific CD8+ T-cell response against the nonengrafted unit.	Blood	2010	44
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	19875682	3458	Mauad T	Lung pathology in fatal novel human influenza A (H1N1) infection.	American journal of respiratory and critical care medicine	2010	99
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20063313	3458	Wammes LJ	Regulatory T cells in human geohelminth infection suppress immune responses to BCG and Plasmodium falciparum.	European journal of immunology	2010	46
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20146084	3458	Ardon H	Integration of autologous dendritic cell-based immunotherapy in the primary treatment for patients with newly diagnosed glioblastoma multiforme: a pilot study.	Journal of neuro-oncology	2010	41
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20194818	3458	Wright RJ	Prenatal maternal stress and cord blood innate and adaptive cytokine responses in an inner-city cohort.	American journal of respiratory and critical care medicine	2010	58
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20226890	3458	van Dissel JT	Ag85B-ESAT-6 adjuvanted with IC31 promotes strong and long-lived Mycobacterium tuberculosis specific T cell responses in naïve human volunteers.	Vaccine	2010	61
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20368575	3458	Vermijlen D	Human cytomegalovirus elicits fetal gammadelta T cell responses in utero.	The Journal of experimental medicine	2010	50
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	20558627	3458	Kagina BM	Specific T cell frequency and cytokine expression profile do not correlate with protection against tuberculosis after bacillus Calmette-Guérin vaccination of newborns.	American journal of respiratory and critical care medicine	2010	108
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21281959	3458	Kim EH	Sublingual immunotherapy for peanut allergy: clinical and immunologic evidence of desensitization.	The Journal of allergy and clinical immunology	2011	63
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21288814	3458	Skowronski DM	Immuno-epidemiologic correlates of pandemic H1N1 surveillance observations: higher antibody and lower cell-mediated immune responses with advanced age.	The Journal of infectious diseases	2011	41
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21368230	3458	McClymont SA	Plasticity of human regulatory T cells in healthy subjects and patients with type 1 diabetes.	Journal of immunology	2011	98
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21624938	3458	Zoller EE	Hemophagocytosis causes a consumptive anemia of inflammation.	The Journal of experimental medicine	2011	37
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21669030	3458	Mandalakas AM	Interferon-gamma release assays and childhood tuberculosis: systematic review and meta-analysis.	The international journal of tuberculosis and lung disease 	2011	42
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21775682	3458	Day CL	Functional capacity of Mycobacterium tuberculosis-specific T cell responses in humans is associated with mycobacterial load.	Journal of immunology	2011	84
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	21810230	3458	Goines PE	Increased midgestational IFN-γ, IL-4 and IL-5 in women bearing a child with autism: A case-control study.	Molecular autism	2011	61
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	22539471	3458	Singh OP	Reassessment of immune correlates in human visceral leishmaniasis as defined by cytokine release in whole blood.	Clinical and vaccine immunology 	2012	33
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23169501	3458	Icheva V	Adoptive transfer of epstein-barr virus (EBV) nuclear antigen 1-specific t cells as treatment for EBV reactivation and lymphoproliferative disorders after allogeneic stem-cell transplantation.	Journal of clinical oncology 	2013	47
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23260195	3458	Sathaliyawala T	Distribution and compartmentalization of human circulating and tissue-resident memory T cell subsets.	Immunity	2013	127
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23331510	3458	Salahuddin N	Vitamin D accelerates clinical recovery from tuberculosis: results of the SUCCINCT Study Supplementary Cholecalciferol in recovery from tuberculosis. A randomized, placebo-controlled, clinical trial of vitamin D supplementation in patients with pulmonary tuberculosis'.	BMC infectious diseases	2013	36
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23414212	3458	Sellarés J	Molecular diagnosis of antibody-mediated rejection in human kidney transplants.	American journal of transplantation 	2013	30
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	23999600	3458	Garg A	HIV type 1 gp120-induced expansion of myeloid derived suppressor cells is dependent on interleukin 6 and suppresses immunity.	The Journal of infectious diseases	2014	22
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24434782	3458	Leong JW	Preactivation with IL-12, IL-15, and IL-18 induces CD25 and a functional high-affinity IL-2 receptor on human cytokine-induced memory-like natural killer cells.	Biology of blood and marrow transplantation 	2014	40
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24442432	3458	Della Chiesa M	Human cytomegalovirus infection promotes rapid maturation of NK cells expressing activating killer Ig-like receptor in patients transplanted with NKG2C-/- umbilical cord blood.	Journal of immunology	2014	31
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	24518246	3458	Voraphani N	An airway epithelial iNOS-DUOX2-thyroid peroxidase metabolome drives Th1/Th2 nitrative stress in human severe asthma.	Mucosal immunology	2014	20
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25210141	3458	Jensen KJ	Heterologous immunological effects of early BCG vaccination in low-birth-weight infants in Guinea-Bissau: a randomized-controlled trial.	The Journal of infectious diseases	2015	19
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25562578	3458	Andrews JR	The dynamics of QuantiFERON-TB gold in-tube conversion and reversion in a cohort of South African adolescents.	American journal of respiratory and critical care medicine	2015	17
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25611466	3458	Gideon HP	Variability in tuberculosis granuloma T cell responses exists, but a balance of pro- and anti-inflammatory cytokines is associated with sterilization.	PLoS pathogens	2015	42
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25647269	3458	Talaat RM	Th1/Th2/Th17/Treg cytokine imbalance in systemic lupus erythematosus (SLE) patients: Correlation with disease activity.	Cytokine	2015	23
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	25703555	3458	Boisson-Dupuis S	Inherited and acquired immunodeficiencies underlying tuberculosis in childhood.	Immunological reviews	2015	21
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	26405286	3458	Getahun H	Management of latent Mycobacterium tuberculosis infection: WHO guidelines for low tuberculosis burden countries.	The European respiratory journal	2015	21
+pediatric+or+newborn+or+infant+or+toddler+or+child+or+adolescent	27068708	3458	Fletcher HA	T-cell activation is an immune correlate of risk in BCG vaccinated infants.	Nature communications	2016	16
+plasma+or+serum	9428763	3458	Wilson SB	Extreme Th1 bias of invariant Valpha24JalphaQ T cells in type 1 diabetes.	Nature	1998	126
+plasma+or+serum	9464798	3458	Jonuleit H	Pro-inflammatory cytokines and prostaglandins induce maturation of potent immunostimulatory dendritic cells under fetal calf serum-free conditions.	European journal of immunology	1997	226
+plasma+or+serum	10226067	3458	Baldini M	A Polymorphism* in the 5' flanking region of the CD14 gene is associated with circulating soluble CD14 levels and with total serum immunoglobulin E.	American journal of respiratory cell and molecular biology	1999	125
+plasma+or+serum	10479160	3458	Day NP	The prognostic and pathophysiologic role of pro- and antiinflammatory cytokines in severe malaria.	The Journal of infectious diseases	1999	99
+plasma+or+serum	12001037	3458	Libraty DH	Differing influences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections.	The Journal of infectious diseases	2002	160
+plasma+or+serum	12147537	3458	Adrie C	Successful cardiopulmonary resuscitation after cardiac arrest as a "sepsis-like" syndrome.	Circulation	2002	113
+plasma+or+serum	12750172	3458	Dufour C	TNF-alpha and IFN-gamma are overexpressed in the bone marrow of Fanconi anemia patients and TNF-alpha suppresses erythropoiesis in vitro.	Blood	2003	82
+plasma+or+serum	12898444	3458	Wang SM	Pathogenesis of enterovirus 71 brainstem encephalitis in pediatric patients: roles of cytokines and cellular immune activation in patients with pulmonary edema.	The Journal of infectious diseases	2003	75
+plasma+or+serum	14512316	3458	Nieda M	Therapeutic activation of Valpha24+Vbeta11+ NKT cells in human subjects results in highly coordinated secondary activation of acquired and innate immunity.	Blood	2004	86
+plasma+or+serum	15709009	3458	Lindesmith L	Cellular and humoral immunity following Snow Mountain virus challenge.	Journal of virology	2005	79
+plasma+or+serum	16258194	3458	Arican O	Serum levels of TNF-alpha, IFN-gamma, IL-6, IL-8, IL-12, IL-17, and IL-18 in patients with active psoriasis and correlation with disease severity.	Mediators of inflammation	2005	91
+plasma+or+serum	16785573	3458	Xu D	Circulating and liver resident CD4+CD25+ regulatory T cells actively influence the antiviral immune response and disease progression in patients with hepatitis B.	Journal of immunology	2006	101
+plasma+or+serum	17255300	3458	Ochoa AC	Arginase, prostaglandins, and myeloid-derived suppressor cells in renal cell carcinoma.	Clinical cancer research 	2007	133
+plasma+or+serum	17671215	3458	Dieli F	Targeting human {gamma}delta} T cells with zoledronate and interleukin-2 for immunotherapy of hormone-refractory prostate cancer.	Cancer research	2007	115
+plasma+or+serum	17689290	3458	Nylén S	Interleukin-10 and the pathogenesis of human visceral leishmaniasis.	Trends in immunology	2007	102
+plasma+or+serum	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+plasma+or+serum	18005941	3458	Potvin S	Inflammatory cytokine alterations in schizophrenia: a systematic quantitative review.	Biological psychiatry	2008	171
+plasma+or+serum	18275276	3458	Pereyra F	Genetic and immunologic heterogeneity among persons who control HIV infection in the absence of therapy.	The Journal of infectious diseases	2008	244
+plasma+or+serum	18359186	3458	Witek-Janusek L	Effect of mindfulness based stress reduction on immune function, quality of life and coping in women newly diagnosed with early stage breast cancer.	Brain, behavior, and immunity	2008	75
+plasma+or+serum	18448618	3458	Forrest BD	Correlation of cellular immune responses with protection against culture-confirmed influenza virus in young children.	Clinical and vaccine immunology 	2008	62
+plasma+or+serum	18684007	3458	Cranage M	Prevention of SIV rectal transmission and priming of T cell responses in macaques after local pre-exposure application of tenofovir gel.	PLoS medicine	2008	72
+plasma+or+serum	18722511	3458	Klehmet J	Stroke-induced immunodepression and post-stroke infections: lessons from the preventive antibacterial therapy in stroke trial.	Neuroscience	2009	51
+plasma+or+serum	19064561	3458	Wong HL	Reproducibility and correlations of multiplex cytokine levels in asymptomatic persons.	Cancer epidemiology, biomarkers and prevention 	2008	54
+plasma+or+serum	19251324	3458	Brietzke E	Comparison of cytokine levels in depressed, manic and euthymic patients with bipolar disorder.	Journal of affective disorders	2009	46
+plasma+or+serum	19255340	3458	Eid RE	Interleukin-17 and interferon-gamma are produced concomitantly by human coronary artery-infiltrating T cells and act synergistically on vascular smooth muscle cells.	Circulation	2009	111
+plasma+or+serum	19287090	3458	Levy Y	Enhanced T cell recovery in HIV-1-infected adults through IL-7 treatment.	The Journal of clinical investigation	2009	114
+plasma+or+serum	19577283	3458	Jones SM	Clinical efficacy and immune regulation with peanut oral immunotherapy.	The Journal of allergy and clinical immunology	2009	135
+plasma+or+serum	19675671	3458	Smolders J	Vitamin D status is positively correlated with regulatory T cell function in patients with multiple sclerosis.	PloS one	2009	53
+plasma+or+serum	19909538	3458	Fletcher MA	Plasma cytokines in women with chronic fatigue syndrome.	Journal of translational medicine	2009	55
+plasma+or+serum	20003352	3458	Bermejo-Martin JF	Th1 and Th17 hypercytokinemia as early host response signature in severe pandemic influenza.	Critical care	2009	91
+plasma+or+serum	20019339	3458	Chen X	Reduced Th17 response in patients with tuberculosis correlates with IL-6R expression on CD4+ T Cells.	American journal of respiratory and critical care medicine	2010	48
+plasma+or+serum	20112361	3458	Kokkonen H	Up-regulation of cytokines and chemokines predates the onset of rheumatoid arthritis.	Arthritis and rheumatism	2010	94
+plasma+or+serum	20713898	3458	Soon E	Elevated levels of inflammatory cytokines predict survival in idiopathic and familial pulmonary arterial hypertension.	Circulation	2010	98
+plasma+or+serum	20725040	3458	Berry MP	An interferon-inducible neutrophil-driven blood transcriptional signature in human tuberculosis.	Nature	2010	449
+plasma+or+serum	21628665	3458	Wauquier N	The acute phase of Chikungunya virus infection in humans is associated with strong innate immunity and T CD8 cell activation.	The Journal of infectious diseases	2011	39
+plasma+or+serum	21998409	3458	Fabri M	Vitamin D is required for IFN-gamma-mediated antimicrobial activity of human macrophages.	Science translational medicine	2011	135
+plasma+or+serum	22084578	3458	Chen Y	Kynurenine pathway metabolites in humans: disease and healthy States.	International journal of tryptophan research 	2009	76
+plasma+or+serum	22289511	3458	McElhaney JE	The unmet need in the elderly: how immunosenescence, CMV infection, co-morbidities and frailty are a challenge for the development of more effective influenza vaccines.	Vaccine	2012	48
+plasma+or+serum	22485125	3458	Zhang L	Increased frequencies of Th22 cells as well as Th17 cells in the peripheral blood of patients with ankylosing spondylitis and rheumatoid arthritis.	PloS one	2012	36
+plasma+or+serum	22569268	3458	Kamat A	Monocyte activation markers in cerebrospinal fluid associated with impaired neurocognitive testing in advanced HIV infection.	Journal of acquired immune deficiency syndromes	2012	61
+plasma+or+serum	22592608	3458	Klinger M	Immunopharmacologic response of patients with B-lineage acute lymphoblastic leukemia to continuous infusion of T cell-engaging CD19/CD3-bispecific BiTE antibody blinatumomab.	Blood	2012	74
+plasma+or+serum	22662108	3458	Sokolove J	Autoantibody epitope spreading in the pre-clinical phase predicts progression to rheumatoid arthritis.	PloS one	2012	88
+plasma+or+serum	22700860	3458	Meintjes G	Corticosteroid-modulated immune activation in the tuberculosis immune reconstitution inflammatory syndrome.	American journal of respiratory and critical care medicine	2012	30
+plasma+or+serum	23144328	3458	Kartalija M	Patients with nontuberculous mycobacterial lung disease exhibit unique body and immune phenotypes.	American journal of respiratory and critical care medicine	2013	31
+plasma+or+serum	23331510	3458	Salahuddin N	Vitamin D accelerates clinical recovery from tuberculosis: results of the SUCCINCT Study Supplementary Cholecalciferol in recovery from tuberculosis. A randomized, placebo-controlled, clinical trial of vitamin D supplementation in patients with pulmonary tuberculosis'.	BMC infectious diseases	2013	36
+plasma+or+serum	24219905	3458	Zimmermann JA	Pre-conditioning mesenchymal stromal cell spheroids for immunomodulatory paracrine factor secretion.	Cytotherapy	2014	26
+plasma+or+serum	24655295	3458	Lowes MA	Immunology of psoriasis.	Annual review of immunology	2014	88
+plasma+or+serum	24704219	3458	Upthegrove R	Cytokine function in medication-naive first episode psychosis: a systematic review and meta-analysis.	Schizophrenia research	2014	36
+plasma+or+serum	24934179	3458	Masi A	Cytokine aberrations in autism spectrum disorder: a systematic review and meta-analysis.	Molecular psychiatry	2015	34
+plasma+or+serum	25210141	3458	Jensen KJ	Heterologous immunological effects of early BCG vaccination in low-birth-weight infants in Guinea-Bissau: a randomized-controlled trial.	The Journal of infectious diseases	2015	19
+plasma+or+serum	25244096	3458	Kirabo A	DC isoketal-modified proteins activate T cells and promote hypertension.	The Journal of clinical investigation	2014	60
+plasma+or+serum	25416807	3458	Huss DJ	In vivo maintenance of human regulatory T cells during CD25 blockade.	Journal of immunology	2015	15
+plasma+or+serum	25647269	3458	Talaat RM	Th1/Th2/Th17/Treg cytokine imbalance in systemic lupus erythematosus (SLE) patients: Correlation with disease activity.	Cytokine	2015	23
+stem+cells	12750172	3458	Dufour C	TNF-alpha and IFN-gamma are overexpressed in the bone marrow of Fanconi anemia patients and TNF-alpha suppresses erythropoiesis in vitro.	Blood	2003	82
+stem+cells	12898444	3458	Wang SM	Pathogenesis of enterovirus 71 brainstem encephalitis in pediatric patients: roles of cytokines and cellular immune activation in patients with pulmonary edema.	The Journal of infectious diseases	2003	75
+stem+cells	15864738	3458	Klyushnenkova E	T cell responses to allogeneic human mesenchymal stem cells: immunogenicity, tolerance, and suppression.	Journal of biomedical science	2005	97
+stem+cells	16123384	3458	Krampera M	Role for interferon-gamma in the immunomodulatory activity of human bone marrow mesenchymal stem cells.	Stem cells	2006	252
+stem+cells	16803570	3458	Feuchtinger T	Safe adoptive transfer of virus-specific T-cell immunity for the treatment of systemic adenovirus infection after allogeneic stem cell transplantation.	British journal of haematology	2006	65
+stem+cells	17386024	3458	Rasmusson I	Mesenchymal stem cells stimulate antibody secretion in human B cells.	Scandinavian journal of immunology	2007	56
+stem+cells	17438063	3458	Aspord C	Breast cancer instructs dendritic cells to prime interleukin 13-secreting CD4+ T cells that facilitate tumor development.	The Journal of experimental medicine	2007	79
+stem+cells	17641026	3458	Haniffa MA	Adult human fibroblasts are potent immunoregulatory cells and functionally equivalent to mesenchymal stem cells.	Journal of immunology	2007	88
+stem+cells	17709496	3458	Jones S	The antiproliferative effect of mesenchymal stem cells is a fundamental property shared by all stromal cells.	Journal of immunology	2007	63
+stem+cells	18179856	3458	Trivedi P	Derivation and immunological characterization of mesenchymal stromal cells from human embryonic stem cells.	Experimental hematology	2008	67
+stem+cells	18624725	3458	Wang M	The immunomodulatory activity of human umbilical cord blood-derived mesenchymal stem cells in vitro.	Immunology	2009	57
+stem+cells	19029905	3458	Cupedo T	Human fetal lymphoid tissue-inducer cells are interleukin 17-producing precursors to RORC+ CD127+ natural killer-like cells.	Nature immunology	2009	149
+stem+cells	19160415	3458	Wada N	Immunomodulatory properties of human periodontal ligament stem cells.	Journal of cellular physiology	2009	60
+stem+cells	19231921	3458	DelaRosa O	Requirement of IFN-gamma-mediated indoleamine 2,3-dioxygenase expression in the modulation of lymphocyte proliferation by human adipose-derived stem cells.	Tissue engineering. Part A	2009	59
+stem+cells	19497992	3458	Moodley Y	Human umbilical cord mesenchymal stem cells reduce fibrosis of bleomycin-induced lung injury.	The American journal of pathology	2009	77
+stem+cells	19536809	3458	Xu Q	Antigen-specific T-cell response from dendritic cell vaccination using cancer stem-like cell-associated antigens.	Stem cells	2009	54
+stem+cells	19608159	3458	Yoo KH	Comparison of immunomodulatory properties of mesenchymal stem cells derived from adult human tissues.	Cellular immunology	2009	80
+stem+cells	19822900	3458	Gutman JA	Single-unit dominance after double-unit umbilical cord blood transplantation coincides with a specific CD8+ T-cell response against the nonengrafted unit.	Blood	2010	44
+stem+cells	19923445	3458	Zhang Q	Mesenchymal stem cells derived from human gingiva are capable of immunomodulatory functions and ameliorate inflammation-related tissue destruction in experimental colitis.	Journal of immunology	2009	111
+stem+cells	20103780	3458	Moosmann A	Effective and long-term control of EBV PTLD after transfer of peptide-selected T cells.	Blood	2010	47
+stem+cells	20164424	3458	Denny MF	A distinct subset of proinflammatory neutrophils isolated from patients with systemic lupus erythematosus induces vascular damage and synthesizes type I IFNs.	Journal of immunology	2010	110
+stem+cells	20207200	3458	Chen K	Human umbilical cord mesenchymal stem cells hUC-MSCs exert immunosuppressive activities through a PGE2-dependent mechanism.	Clinical immunology	2010	45
+stem+cells	20368733	3458	Shi Y	Mesenchymal stem cells: a new strategy for immunosuppression and tissue repair.	Cell research	2010	112
+stem+cells	21106641	3458	Brandau S	Myeloid-derived suppressor cells in the peripheral blood of cancer patients contain a subset of immature neutrophils with impaired migratory properties.	Journal of leukocyte biology	2011	65
+stem+cells	21934657	3458	François M	Human MSC suppression correlates with cytokine induction of indoleamine 2,3-dioxygenase and bystander M2 macrophage differentiation.	Molecular therapy 	2012	87
+stem+cells	22029655	3458	François M	Cryopreserved mesenchymal stromal cells display impaired immunosuppressive properties as a result of heat-shock response and impaired interferon-γ licensing.	Cytotherapy	2012	47
+stem+cells	22323453	3458	Gleason MK	Tim-3 is an inducible human natural killer cell receptor that enhances interferon gamma production in response to galectin-9.	Blood	2012	58
+stem+cells	23169501	3458	Icheva V	Adoptive transfer of epstein-barr virus (EBV) nuclear antigen 1-specific t cells as treatment for EBV reactivation and lymphoproliferative disorders after allogeneic stem-cell transplantation.	Journal of clinical oncology 	2013	47
+stem+cells	24219905	3458	Zimmermann JA	Pre-conditioning mesenchymal stromal cell spheroids for immunomodulatory paracrine factor secretion.	Cytotherapy	2014	26
+stem+cells	24442432	3458	Della Chiesa M	Human cytomegalovirus infection promotes rapid maturation of NK cells expressing activating killer Ig-like receptor in patients transplanted with NKG2C-/- umbilical cord blood.	Journal of immunology	2014	31
+stem+cells	25414703	3458	Blazquez R	Immunomodulatory Potential of Human Adipose Mesenchymal Stem Cells Derived Exosomes on in vitro Stimulated T Cells.	Frontiers in immunology	2014	34
+toxicology+or+toxic+or+toxin	3926894	3458	Shalaby MR	Activation of human polymorphonuclear neutrophil functions by interferon-gamma and tumor necrosis factors.	Journal of immunology	1985	172
+toxicology+or+toxic+or+toxin	9176497	3458	Döcke WD	Monocyte deactivation in septic patients: restoration by IFN-gamma treatment.	Nature medicine	1997	203
+toxicology+or+toxic+or+toxin	10725715	3458	Hwu P	Indoleamine 2,3-dioxygenase production by human dendritic cells results in the inhibition of T cell proliferation.	Journal of immunology	2000	131
+toxicology+or+toxic+or+toxin	10905243	3458	Gereda JE	Relation between house-dust endotoxin exposure, type 1 T-cell development, and allergen sensitisation in infants at high risk of asthma.	Lancet	2000	90
+toxicology+or+toxic+or+toxin	11828007	3458	Gerosa F	Reciprocal activating interaction between natural killer cells and dendritic cells.	The Journal of experimental medicine	2002	218
+toxicology+or+toxic+or+toxin	12147537	3458	Adrie C	Successful cardiopulmonary resuscitation after cardiac arrest as a "sepsis-like" syndrome.	Circulation	2002	113
+toxicology+or+toxic+or+toxin	12239255	3458	Braun-Fahrländer C	Environmental exposure to endotoxin and its relation to asthma in school-age children.	The New England journal of medicine	2002	250
+toxicology+or+toxic+or+toxin	17916356	3458	Dolganiuc A	Viral and host factors induce macrophage activation and loss of toll-like receptor tolerance in chronic HCV infection.	Gastroenterology	2007	65
+toxicology+or+toxic+or+toxin	18183290	3458	Kubica M	A potential new pathway for Staphylococcus aureus dissemination: the silent survival of S. aureus phagocytosed by human monocyte-derived macrophages.	PloS one	2008	91
+toxicology+or+toxic+or+toxin	19818653	3458	Feuerer M	How punctual ablation of regulatory T cells unleashes an autoimmune lesion within the pancreatic islets.	Immunity	2009	83
+toxicology+or+toxic+or+toxin	20015486	3458	Dowlati Y	A meta-analysis of cytokines in major depression.	Biological psychiatry	2010	516
+toxicology+or+toxic+or+toxin	20050849	3458	Schafer PH	Apremilast, a cAMP phosphodiesterase-4 inhibitor, demonstrates anti-inflammatory activity in vitro and in a model of psoriasis.	British journal of pharmacology	2010	44
+toxicology+or+toxic+or+toxin	25644696	3458	Jiang W	Dysbiosis gut microbiota associated with inflammation and impaired mucosal immune function in intestine of humans with non-alcoholic fatty liver disease.	Scientific reports	2015	23
+toxicology+or+toxic+or+toxin	26949058	3458	Tomassen P	Inflammatory endotypes of chronic rhinosinusitis based on cluster analysis of biomarkers.	The Journal of allergy and clinical immunology	2016	18

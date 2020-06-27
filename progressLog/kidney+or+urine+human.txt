@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17224248
+Calculating PPS [query=kidney+or+urine+human]..count_Big_T=996699....[total citaion]=1030955...Finished!---> Execucution:10 seconds
+Extracting PMIDs [query=kidney+or+urine+human]..PMID#=992..Finished!---> Execucution:2 seconds

@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17228187
+Calculating PPS [query=botulism+food+poisoning+human]..count_Big_T=2638....[total citaion]=882...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=botulism+food+poisoning+human]..PMID#=2.Finished!---> Execucution:0 seconds

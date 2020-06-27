@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17820895
+Calculating PPS [query=type+ii+diabetes+human]..count_Big_T=124616....[total citaion]=344250...Finished!---> Execucution:5 seconds
+Extracting PMIDs [query=type+ii+diabetes+human]..PMID#=796.Finished!---> Execucution:0 seconds

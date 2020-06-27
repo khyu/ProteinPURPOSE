@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17238601
+Calculating PPS [query=breast+engorgement+in+newborn+human]..count_Big_T=4091....[total citaion]=2967...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=breast+engorgement+in+newborn+human]..PMID#=0Finished!---> Execucution:0 seconds

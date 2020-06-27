@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=nervous+system+human]..count_Big_T=1034075....[total citaion]=1509506...Finished!---> Execucution:8 seconds
+Extracting PMIDs [query=nervous+system+human]..PMID#=1797...Finished!---> Execucution:2 seconds

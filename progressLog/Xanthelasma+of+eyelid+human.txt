@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17220899
+Calculating PPS [query=xanthelasma+of+eyelid+human]..count_Big_T=294....[total citaion]=36...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=xanthelasma+of+eyelid+human]..PMID#=0Finished!---> Execucution:0 seconds

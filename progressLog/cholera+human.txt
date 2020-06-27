@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17228187
+Calculating PPS [query=cholera+human]..count_Big_T=12551....[total citaion]=14928...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=cholera+human]..PMID#=17.Finished!---> Execucution:0 seconds

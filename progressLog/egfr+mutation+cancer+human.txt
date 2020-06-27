@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17254929
+Calculating PPS [query=egfr+mutation+cancer+human]..count_Big_T=8021....[total citaion]=108530...Finished!---> Execucution:3 seconds
+Extracting PMIDs [query=egfr+mutation+cancer+human]..PMID#=598.Finished!---> Execucution:1 seconds

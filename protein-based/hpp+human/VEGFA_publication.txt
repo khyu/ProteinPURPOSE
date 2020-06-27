@@ -1,0 +1,611 @@
+brain	11005565	7422	Rubenstein JL	Anti-VEGF antibody treatment of glioblastoma prolongs survival but results in increased vascular cooption.	Neoplasia	2000	137
+brain	15351965	7422	Storkebaum E	VEGF: once regarded as a specific angiogenic factor, now implicated in neuroprotection.	BioEssays 	2004	93
+brain	16912155	7422	Bao S	Stem cell-like glioma cells promote tumor angiogenesis through vascular endothelial growth factor.	Cancer research	2006	351
+brain	17167137	7422	Sandler A	Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer.	The New England journal of medicine	2006	1175
+brain	17236958	7422	Gonzalez J	Effect of bevacizumab on radiation necrosis of the brain.	International journal of radiation oncology, biology, physics	2007	64
+brain	17533168	7422	Rigau V	Angiogenesis is associated with blood-brain barrier permeability in temporal lobe epilepsy.	Brain 	2007	69
+brain	17947719	7422	Vredenburgh JJ	Bevacizumab plus irinotecan in recurrent glioblastoma multiforme.	Journal of clinical oncology 	2007	325
+brain	18316689	7422	Norden AD	Bevacizumab for recurrent malignant gliomas: efficacy, toxicity, and patterns of recurrence.	Neurology	2008	230
+brain	19167838	7422	Gutin PH	Safety and efficacy of bevacizumab with hypofractionated stereotactic irradiation for recurrent malignant gliomas.	International journal of radiation oncology, biology, physics	2009	73
+brain	19332770	7422	Quant EC	Role of a second chemotherapy in recurrent malignant glioma patients who progress on bevacizumab.	Neuro-oncology	2009	48
+brain	19333229	7422	Gerstner ER	VEGF inhibitors in the treatment of cerebral edema in patients with brain cancer.	Nature reviews. Clinical oncology	2009	47
+brain	19349600	7422	Nghiemphu PL	Bevacizumab and chemotherapy for recurrent glioblastoma: a single-institution experience.	Neurology	2009	66
+brain	19357959	7422	Jensen RL	Brain tumor hypoxia: tumorigenesis, angiogenesis, imaging, pseudoprogression, and as a therapeutic target.	Journal of neuro-oncology	2009	74
+brain	19549889	7422	Sorensen AG	A "vascular normalization index" as potential mechanistic biomarker to predict survival after a single dose of cediranib in recurrent glioblastoma patients.	Cancer research	2009	108
+brain	19581909	7422	Chen HX	Adverse effects of anticancer agents that target the VEGF pathway.	Nature reviews. Clinical oncology	2009	90
+brain	20406897	7422	Gerstner ER	Infiltrative patterns of glioblastoma spread detected via diffusion MRI after treatment with cediranib.	Neuro-oncology	2010	44
+brain	21167939	7422	Fidler IJ	The role of the organ microenvironment in brain metastasis.	Seminars in cancer biology	2011	63
+brain	21732485	7422	Horie N	Transplanted stem cell-secreted vascular endothelial growth factor effects poststroke recovery, inflammation, and vascular repair.	Stem cells	2011	61
+brain	22035272	7422	Narayana A	A clinical trial of bevacizumab, temozolomide, and radiation for newly diagnosed glioblastoma.	Journal of neurosurgery	2012	39
+brain	22212972	7422	Stewart MW	The expanding role of vascular endothelial growth factor inhibitors in ophthalmology.	Mayo Clinic proceedings	2012	33
+brain	22495829	7422	Oki K	Human-induced pluripotent stem cells form functional neurons and improve recovery after grafting in stroke-damaged brain.	Stem cells	2012	56
+brain	23143192	7422	Plate KH	Tumor angiogenesis and anti-angiogenic therapy in malignant gliomas revisited.	Acta neuropathologica	2012	35
+brain	23512266	7422	Soda Y	Mechanisms of neovascularization and resistance to anti-angiogenic therapies in glioblastoma multiforme.	Journal of molecular medicine	2013	35
+brain	23940216	7422	Batchelor TT	Phase III randomized trial comparing the efficacy of cediranib as monotherapy, and in combination with lomustine, versus lomustine alone in patients with recurrent glioblastoma.	Journal of clinical oncology 	2013	80
+brain	24552317	7422	Gilbert MR	A randomized trial of bevacizumab for newly diagnosed glioblastoma.	The New England journal of medicine	2014	316
+brain	25117977	7422	Baker GJ	Mechanisms of glioma formation: iterative perivascular glioma growth and invasion leads to tumor progression, VEGF-independent vascularization, and resistance to antiangiogenic therapy.	Neoplasia	2014	26
+brain	25713439	7422	Lu-Emerson C	Lessons from anti-vascular endothelial growth factor and anti-vascular endothelial growth factor receptor trials in patients with glioblastoma.	Journal of clinical oncology 	2015	25
+cancer	7683111	7422	Kim KJ	Inhibition of vascular endothelial growth factor-induced angiogenesis suppresses tumour growth in vivo.	Nature	1993	547
+cancer	8837607	7422	Gabrilovich DI	Production of vascular endothelial growth factor by human tumors inhibits the functional maturation of dendritic cells.	Nature medicine	1996	271
+cancer	9012841	7422	Möhle R	Constitutive production and thrombin-induced release of vascular endothelial growth factor by human megakaryocytes and platelets.	Proceedings of the National Academy of Sciences of the United States of America	1997	110
+cancer	9377574	7422	Presta LG	Humanization of an anti-vascular endothelial growth factor monoclonal antibody for the therapy of solid tumors and other disorders.	Cancer research	1997	287
+cancer	9707121	7422	Flore O	Transformation of primary human endothelial cells by Kaposi's sarcoma-associated herpesvirus.	Nature	1998	109
+cancer	9916127	7422	Benjamin LE	Selective ablation of immature blood vessels in established human tumors follows vascular endothelial growth factor withdrawal.	The Journal of clinical investigation	1999	225
+cancer	10662790	7422	Yang TY	Transgenic expression of the chemokine receptor encoded by human herpesvirus 8 induces an angioproliferative disease resembling Kaposi's sarcoma.	The Journal of experimental medicine	2000	94
+cancer	10688871	7422	Kerbel RS	Tumor angiogenesis: past, present and the near future.	Carcinogenesis	2000	118
+cancer	11005565	7422	Rubenstein JL	Anti-VEGF antibody treatment of glioblastoma prolongs survival but results in increased vascular cooption.	Neoplasia	2000	137
+cancer	11549582	7422	Skobe M	Concurrent induction of lymphangiogenesis, angiogenesis, and macrophage recruitment by vascular endothelial growth factor-C in melanoma.	The American journal of pathology	2001	99
+cancer	12177445	7422	Holash J	VEGF-Trap: a VEGF blocker with potent antitumor effects.	Proceedings of the National Academy of Sciences of the United States of America	2002	331
+cancer	12516033	7422	Ferrara N	Role of vascular endothelial growth factor in physiologic and pathologic angiogenesis: therapeutic implications.	Seminars in oncology	2002	108
+cancer	14517187	7422	Morgan B	Dynamic contrast-enhanced magnetic resonance imaging as a biomarker for the pharmacological response of PTK787/ZK 222584, an inhibitor of the vascular endothelial growth factor receptor tyrosine kinases, in patients with advanced colorectal cancer and liver metastases: results from two phase I studies.	Journal of clinical oncology 	2003	102
+cancer	14745444	7422	Willett CG	Direct evidence that the VEGF-specific antibody bevacizumab has antivascular effects in human rectal cancer.	Nature medicine	2004	378
+cancer	15166496	7422	Kusumanto YH	Platelets and granulocytes, in particular the neutrophils, form important compartments for circulating vascular endothelial growth factor.	Angiogenesis	2003	85
+cancer	15175435	7422	Hurwitz H	Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer.	The New England journal of medicine	2004	1840
+cancer	15585754	7422	Hicklin DJ	Role of the vascular endothelial growth factor pathway in tumor growth and angiogenesis.	Journal of clinical oncology 	2005	526
+cancer	15611513	7422	Kim WY	Role of VHL gene mutation in human cancer.	Journal of clinical oncology 	2004	209
+cancer	15681523	7422	Miller KD	Randomized phase III trial of capecitabine compared with bevacizumab plus capecitabine in patients with previously treated metastatic breast cancer.	Journal of clinical oncology 	2005	212
+cancer	15867200	7422	Kabbinavar FF	Combined analysis of efficacy: the addition of bevacizumab to fluorouracil/leucovorin improves survival for patients with metastatic colorectal cancer.	Journal of clinical oncology 	2005	102
+cancer	15908660	7422	Hurwitz HI	Bevacizumab in combination with fluorouracil and leucovorin: an active regimen for first-line metastatic colorectal cancer.	Journal of clinical oncology 	2005	115
+cancer	16193288	7422	Perrin RM	Diabetic retinopathy is associated with a switch in splicing from anti- to pro-angiogenic isoforms of vascular endothelial growth factor.	Diabetologia	2005	70
+cancer	16258101	7422	Kindler HL	Phase II trial of bevacizumab plus gemcitabine in patients with advanced pancreatic cancer.	Journal of clinical oncology 	2005	105
+cancer	16301830	7422	Carmeliet P	VEGF as a key mediator of angiogenesis in cancer.	Oncology	2005	181
+cancer	16301831	7422	Ferrara N	VEGF as a therapeutic target in cancer.	Oncology	2005	109
+cancer	16322226	7422	Mironchik Y	Twist overexpression induces in vivo angiogenesis and correlates with chromosomal instability in breast cancer.	Cancer research	2005	84
+cancer	16330672	7422	Motzer RJ	Activity of SU11248, a multitargeted inhibitor of vascular endothelial growth factor receptor and platelet-derived growth factor receptor, in patients with metastatic renal cell carcinoma.	Journal of clinical oncology 	2006	245
+cancer	16364190	7422	Byrne AM	Angiogenic and cell survival functions of vascular endothelial growth factor (VEGF).	Journal of cellular and molecular medicine	2005	141
+cancer	16376330	7422	Folkman J	Antiangiogenesis in cancer therapy--endostatin and its mechanisms of action.	Experimental cell research	2006	116
+cancer	16407877	7422	Jain RK	Lessons from phase III clinical trials on anti-VEGF therapy for cancer.	Nature clinical practice. Oncology	2006	256
+cancer	16622265	7422	Zhu AX	Phase II study of gemcitabine and oxaliplatin in combination with bevacizumab in patients with advanced hepatocellular carcinoma.	Journal of clinical oncology 	2006	73
+cancer	16880208	7422	Coppé JP	Secretion of vascular endothelial growth factor by primary human fibroblasts at senescence.	The Journal of biological chemistry	2006	104
+cancer	16912155	7422	Bao S	Stem cell-like glioma cells promote tumor angiogenesis through vascular endothelial growth factor.	Cancer research	2006	351
+cancer	17158546	7422	Motzer RJ	Targeted therapy for metastatic renal cell carcinoma.	Journal of clinical oncology 	2006	64
+cancer	17167137	7422	Sandler A	Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer.	The New England journal of medicine	2006	1175
+cancer	17212999	7422	Shih T	Bevacizumab: an angiogenesis inhibitor for the treatment of solid malignancies.	Clinical therapeutics	2006	82
+cancer	17236958	7422	Gonzalez J	Effect of bevacizumab on radiation necrosis of the brain.	International journal of radiation oncology, biology, physics	2007	64
+cancer	17261421	7422	Zhu X	Risks of proteinuria and hypertension with bevacizumab, an antibody against vascular endothelial growth factor: systematic review and meta-analysis.	American journal of kidney diseases 	2007	124
+cancer	17559806	7422	Liang Z	CXCR4/CXCL12 axis promotes VEGF-mediated tumor angiogenesis through Akt signaling pathway.	Biochemical and biophysical research communications	2007	69
+cancer	17631557	7422	Nagengast WB	In vivo VEGF imaging with radiolabeled bevacizumab in a human ovarian tumor xenograft.	Journal of nuclear medicine 	2007	63
+cancer	17634482	7422	Drevs J	Phase I clinical study of AZD2171, an oral vascular endothelial growth factor signaling inhibitor, in patients with advanced solid tumors.	Journal of clinical oncology 	2007	79
+cancer	17686822	7422	Scappaticci FA	Arterial thromboembolic events in patients with metastatic carcinoma treated with chemotherapy and bevacizumab.	Journal of the National Cancer Institute	2007	130
+cancer	17699863	7422	Fricke I	Vascular endothelial growth factor-trap overcomes defects in dendritic cell differentiation but does not improve antigen-specific immune responses.	Clinical cancer research 	2007	63
+cancer	17908997	7422	Rich JN	Cancer stem cells in radiation resistance.	Cancer research	2007	113
+cancer	17909199	7422	Herbst RS	Phase II study of efficacy and safety of bevacizumab in combination with chemotherapy or erlotinib compared with chemotherapy alone for treatment of recurrent or refractory non small-cell lung cancer.	Journal of clinical oncology 	2007	90
+cancer	17947719	7422	Vredenburgh JJ	Bevacizumab plus irinotecan in recurrent glioblastoma multiforme.	Journal of clinical oncology 	2007	325
+cancer	18000042	7422	Rudge JS	VEGF Trap complex formation measures production rates of VEGF, providing a biomarker for predicting efficacious angiogenic blockade.	Proceedings of the National Academy of Sciences of the United States of America	2007	66
+cancer	18006827	7422	Xia C	Reactive oxygen species regulate angiogenesis and tumor growth through vascular endothelial growth factor.	Cancer research	2007	118
+cancer	18024863	7422	Burger RA	Phase II trial of bevacizumab in persistent or recurrent epithelial ovarian cancer or primary peritoneal cancer: a Gynecologic Oncology Group Study.	Journal of clinical oncology 	2007	185
+cancer	18156031	7422	Escudier B	Bevacizumab plus interferon alfa-2a for treatment of metastatic renal cell carcinoma: a randomised, double-blind phase III trial.	Lancet	2007	433
+cancer	18160686	7422	Miller K	Paclitaxel plus bevacizumab versus paclitaxel alone for metastatic breast cancer.	The New England journal of medicine	2007	637
+cancer	18202416	7422	Glade Bender JL	Phase I trial and pharmacokinetic study of bevacizumab in pediatric patients with refractory solid tumors: a Children's Oncology Group Study.	Journal of clinical oncology 	2008	58
+cancer	18235126	7422	Socinski MA	Multicenter, phase II trial of sunitinib in previously treated, advanced non-small-cell lung cancer.	Journal of clinical oncology 	2008	81
+cancer	18263769	7422	Ramalingam S	Systemic chemotherapy for advanced non-small cell lung cancer: recent advances and future directions.	The oncologist	2008	73
+cancer	18316689	7422	Norden AD	Bevacizumab for recurrent malignant gliomas: efficacy, toxicity, and patterns of recurrence.	Neurology	2008	230
+cancer	18349829	7422	Varey AH	VEGF 165 b, an antiangiogenic VEGF-A isoform, binds and inhibits bevacizumab treatment in experimental colorectal carcinoma: balance of pro- and antiangiogenic VEGF-A isoforms has implications for therapy.	British journal of cancer	2008	74
+cancer	18349830	7422	Maeda S	CD133 expression is correlated with lymph node metastasis and vascular endothelial growth factor-C expression in pancreatic cancer.	British journal of cancer	2008	54
+cancer	18452647	7422	Shibuya M	Vascular endothelial growth factor-dependent and -independent regulation of angiogenesis.	BMB reports	2008	52
+cancer	18467655	7422	Pollard JW	Macrophages define the invasive microenvironment in breast cancer.	Journal of leukocyte biology	2008	128
+cancer	18565886	7422	Siegel AB	Phase II trial evaluating the clinical and biologic effects of bevacizumab in unresectable hepatocellular carcinoma.	Journal of clinical oncology 	2008	98
+cancer	18596824	7422	Ellis LM	VEGF-targeted therapy: mechanisms of anti-tumour activity.	Nature reviews. Cancer	2008	353
+cancer	18665180	7422	Beckermann BM	VEGF expression by mesenchymal stem cells contributes to angiogenesis in pancreatic carcinoma.	British journal of cancer	2008	85
+cancer	18824714	7422	Schneider BP	Association of vascular endothelial growth factor and vascular endothelial growth factor receptor-2 genetic polymorphisms with outcome in a trial of paclitaxel compared with paclitaxel plus bevacizumab in advanced breast cancer: ECOG 2100.	Journal of clinical oncology 	2008	165
+cancer	18842611	7422	Scartozzi M	Arterial hypertension correlates with clinical outcome in colorectal cancer patients treated with first-line bevacizumab.	Annals of oncology 	2009	75
+cancer	18854571	7422	Grothey A	Bevacizumab beyond first progression is associated with prolonged overall survival in metastatic colorectal cancer: results from a large observational cohort study (BRiTE).	Journal of clinical oncology 	2008	150
+cancer	18927275	7422	Ellis LM	Pathways mediating resistance to vascular endothelial growth factor-targeted therapy.	Clinical cancer research 	2008	79
+cancer	19017914	7422	Nalluri SR	Risk of venous thromboembolism with the angiogenesis inhibitor bevacizumab in cancer patients: a meta-analysis.	JAMA	2008	145
+cancer	19074844	7422	Ma J	Combination of antiangiogenesis with chemotherapy for more effective cancer treatment.	Molecular cancer therapeutics	2008	79
+cancer	19150949	7422	Izzedine H	Management of hypertension in angiogenesis inhibitor-treated patients.	Annals of oncology 	2009	57
+cancer	19167838	7422	Gutin PH	Safety and efficacy of bevacizumab with hypofractionated stereotactic irradiation for recurrent malignant gliomas.	International journal of radiation oncology, biology, physics	2009	73
+cancer	19188680	7422	Reck M	Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil.	Journal of clinical oncology 	2009	300
+cancer	19224847	7422	Feldman DR	Phase I trial of bevacizumab plus escalated doses of sunitinib in patients with metastatic renal cell carcinoma.	Journal of clinical oncology 	2009	70
+cancer	19234476	7422	Augustin HG	Control of vascular morphogenesis and homeostasis through the angiopoietin-Tie system.	Nature reviews. Molecular cell biology	2009	292
+cancer	19305413	7422	Reynolds AR	Stimulation of tumor growth and angiogenesis by low concentrations of RGD-mimetic integrin inhibitors.	Nature medicine	2009	111
+cancer	19332770	7422	Quant EC	Role of a second chemotherapy in recurrent malignant glioma patients who progress on bevacizumab.	Neuro-oncology	2009	48
+cancer	19333229	7422	Gerstner ER	VEGF inhibitors in the treatment of cerebral edema in patients with brain cancer.	Nature reviews. Clinical oncology	2009	47
+cancer	19349600	7422	Nghiemphu PL	Bevacizumab and chemotherapy for recurrent glioblastoma: a single-institution experience.	Neurology	2009	66
+cancer	19357959	7422	Jensen RL	Brain tumor hypoxia: tumorigenesis, angiogenesis, imaging, pseudoprogression, and as a therapeutic target.	Journal of neuro-oncology	2009	74
+cancer	19451442	7422	Escudier B	Sorafenib for treatment of renal cell carcinoma: Final efficacy and safety results of the phase III treatment approaches in renal cancer global evaluation trial.	Journal of clinical oncology 	2009	216
+cancer	19482548	7422	Hapani S	Risk of gastrointestinal perforation in patients with cancer treated with bevacizumab: a meta-analysis.	The Lancet. Oncology	2009	55
+cancer	19549711	7422	Linderholm BK	Significantly higher levels of vascular endothelial growth factor (VEGF) and shorter survival times for patients with primary operable triple-negative breast cancer.	Annals of oncology 	2009	48
+cancer	19549889	7422	Sorensen AG	A "vascular normalization index" as potential mechanistic biomarker to predict survival after a single dose of cediranib in recurrent glioblastoma patients.	Cancer research	2009	108
+cancer	19581909	7422	Chen HX	Adverse effects of anticancer agents that target the VEGF pathway.	Nature reviews. Clinical oncology	2009	90
+cancer	19636328	7422	Grothey A	Targeting angiogenesis: progress with anti-VEGF treatment with large molecules.	Nature reviews. Clinical oncology	2009	101
+cancer	19671869	7422	Ebos JM	Tumor and host-mediated pathways of resistance and disease progression in response to antiangiogenic therapy.	Clinical cancer research 	2009	69
+cancer	19901561	7422	Bayet-Robert M	Phase I dose escalation trial of docetaxel plus curcumin in patients with advanced and metastatic breast cancer.	Cancer biology and therapy	2010	46
+cancer	19949018	7422	Lockhart AC	Phase I study of intravenous vascular endothelial growth factor trap, aflibercept, in patients with advanced solid tumors.	Journal of clinical oncology 	2010	69
+cancer	20005148	7422	Ferrara N	Pathways mediating VEGF-independent tumor angiogenesis.	Cytokine and growth factor reviews	2010	64
+cancer	20010945	7422	Murukesh N	Biomarkers of angiogenesis and their role in the development of VEGF inhibitors.	British journal of cancer	2010	55
+cancer	20150572	7422	Reck M	Overall survival with cisplatin-gemcitabine and bevacizumab or placebo as first-line therapy for nonsquamous non-small-cell lung cancer: results from a randomised phase III trial (AVAiL).	Annals of oncology 	2010	129
+cancer	20156114	7422	Ranpura V	Risk of cardiac ischemia and arterial thromboembolic events with the angiogenesis inhibitor bevacizumab in cancer patients: a meta-analysis of randomized controlled trials.	Acta oncologica	2010	43
+cancer	20351338	7422	Maitland ML	Initial assessment, surveillance, and management of blood pressure in patients receiving vascular endothelial growth factor signaling pathway inhibitors.	Journal of the National Cancer Institute	2010	53
+cancer	20406897	7422	Gerstner ER	Infiltrative patterns of glioblastoma spread detected via diffusion MRI after treatment with cediranib.	Neuro-oncology	2010	44
+cancer	20501804	7422	Hammers HJ	Reversible epithelial to mesenchymal transition and acquired resistance to sunitinib in patients with renal cell carcinoma: evidence from a xenograft study.	Molecular cancer therapeutics	2010	49
+cancer	21074201	7422	Choueiri TK	The impact of cytoreductive nephrectomy on survival of patients with metastatic renal cell carcinoma receiving vascular endothelial growth factor targeted therapy.	The Journal of urology	2011	48
+cancer	21126687	7422	Jubb AM	Biomarkers to predict the clinical efficacy of bevacizumab in cancer.	The Lancet. Oncology	2010	85
+cancer	21167939	7422	Fidler IJ	The role of the organ microenvironment in brain metastasis.	Seminars in cancer biology	2011	63
+cancer	21364524	7422	Ebos JM	Antiangiogenic therapy: impact on invasion, disease progression, and metastasis.	Nature reviews. Clinical oncology	2011	164
+cancer	21386818	7422	Zhu AX	HCC and angiogenesis: possible targets and future directions.	Nature reviews. Clinical oncology	2011	85
+cancer	21527770	7422	Rini BI	Hypertension as a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib.	Journal of the National Cancer Institute	2011	115
+cancer	21537039	7422	Aghajanian C	Phase II trial of bevacizumab in recurrent or persistent endometrial cancer: a Gynecologic Oncology Group study.	Journal of clinical oncology 	2011	44
+cancer	21565214	7422	Tugues S	Vascular endothelial growth factors and receptors: anti-angiogenic therapy in the treatment of cancer.	Molecular aspects of medicine	2011	49
+cancer	21593862	7422	Carmeliet P	Molecular mechanisms and clinical applications of angiogenesis.	Nature	2011	810
+cancer	21680800	7422	Battinelli EM	Release of angiogenesis regulatory proteins from platelet alpha granules: modulation of physiologic and pathologic angiogenesis.	Blood	2011	57
+cancer	21711246	7422	Koch S	Signal transduction by vascular endothelial growth factor receptors.	The Biochemical journal	2011	189
+cancer	22035272	7422	Narayana A	A clinical trial of bevacizumab, temozolomide, and radiation for newly diagnosed glioblastoma.	Journal of neurosurgery	2012	39
+cancer	22056247	7422	Rini BI	Comparative effectiveness of axitinib versus sorafenib in advanced renal cell carcinoma (AXIS): a randomised phase 3 trial.	Lancet	2011	303
+cancer	22084445	7422	Hirschhaeuser F	Lactate: a metabolic key player in cancer.	Cancer research	2011	125
+cancer	22204724	7422	Burger RA	Incorporation of bevacizumab in the primary treatment of ovarian cancer.	The New England journal of medicine	2011	312
+cancer	22204725	7422	Perren TJ	A phase 3 trial of bevacizumab in ovarian cancer.	The New England journal of medicine	2011	299
+cancer	22222630	7422	Pastuskovas CV	Effects of anti-VEGF on pharmacokinetics, biodistribution, and tumor penetration of trastuzumab in a preclinical breast cancer model.	Molecular cancer therapeutics	2012	33
+cancer	22229128	7422	Zhang Y	Positron Emission Tomography and Near-Infrared Fluorescence Imaging of Vascular Endothelial Growth Factor with Dual-Labeled Bevacizumab.	American journal of nuclear medicine and molecular imaging	2012	39
+cancer	22264790	7422	Van der Veldt AA	Rapid decrease in delivery of chemotherapy to tumors after anti-VEGF therapy: implications for scheduling of anti-angiogenic drugs.	Cancer cell	2012	87
+cancer	22330688	7422	Jayson GC	Antiangiogenic therapy--evolving view based on clinical trial results.	Nature reviews. Clinical oncology	2012	45
+cancer	22498007	7422	McIntyre A	Carbonic anhydrase IX promotes tumor growth and necrosis in vivo and inhibition enhances anti-VEGF therapy.	Clinical cancer research 	2012	44
+cancer	22525710	7422	Rapisarda A	Overcoming disappointing results with antiangiogenic therapy by targeting hypoxia.	Nature reviews. Clinical oncology	2012	44
+cancer	22588059	7422	Rapisarda A	Role of the VEGF/VEGFR axis in cancer biology and therapy.	Advances in cancer research	2012	37
+cancer	22608783	7422	Lambrechts D	VEGF pathway genetic variants as biomarkers of treatment outcome with bevacizumab: an analysis of data from the AViTA and AVOREN randomised trials.	The Lancet. Oncology	2012	44
+cancer	22645052	7422	Nathan P	Phase I trial of combretastatin A4 phosphate (CA4P) in combination with bevacizumab in patients with advanced cancer.	Clinical cancer research 	2012	41
+cancer	22665541	7422	Kindler HL	Multicenter, double-blind, placebo-controlled, randomized phase II trial of gemcitabine/cisplatin plus bevacizumab or placebo in patients with malignant mesothelioma.	Journal of clinical oncology 	2012	35
+cancer	22767667	7422	Rosen LS	A phase I first-in-human study of TRC105 (Anti-Endoglin Antibody) in patients with advanced cancer.	Clinical cancer research 	2012	57
+cancer	22778320	7422	Chan JA	Prospective study of bevacizumab plus temozolomide in patients with advanced neuroendocrine tumors.	Journal of clinical oncology 	2012	33
+cancer	22909788	7422	Pal S	Alternative transcription and alternative splicing in cancer.	Pharmacology and therapeutics	2012	36
+cancer	22910841	7422	Agulnik M	An open-label, multicenter, phase II study of bevacizumab for the treatment of angiosarcoma and epithelioid hemangioendotheliomas.	Annals of oncology 	2013	49
+cancer	22963562	7422	Moccia F	Store-dependent Ca(2+) entry in endothelial progenitor cells as a perspective tool to enhance cell-based therapy and adverse tumour vascularization.	Current medicinal chemistry	2012	30
+cancer	22965961	7422	Schmoll HJ	Cediranib with mFOLFOX6 versus bevacizumab with mFOLFOX6 as first-line treatment for patients with advanced colorectal cancer: a double-blind, randomized phase III study (HORIZON III).	Journal of clinical oncology 	2012	46
+cancer	22965962	7422	Ramlau R	Aflibercept and Docetaxel versus Docetaxel alone after platinum failure in patients with advanced or metastatic non-small-cell lung cancer: a randomized, controlled phase III trial.	Journal of clinical oncology 	2012	33
+cancer	22965965	7422	Hoff PM	Cediranib plus FOLFOX/CAPOX versus placebo plus FOLFOX/CAPOX in patients with previously untreated metastatic colorectal cancer: a randomized, double-blind, phase III study (HORIZON II).	Journal of clinical oncology 	2012	35
+cancer	23108136	7422	Terme M	VEGFA-VEGFR pathway blockade inhibits tumor-induced regulatory T-cell proliferation in colorectal cancer.	Cancer research	2013	61
+cancer	23143192	7422	Plate KH	Tumor angiogenesis and anti-angiogenic therapy in malignant gliomas revisited.	Acta neuropathologica	2012	35
+cancer	23169435	7422	Hegde PS	Predictive impact of circulating vascular endothelial growth factor in four phase III trials evaluating bevacizumab.	Clinical cancer research 	2013	42
+cancer	23177514	7422	Grothey A	Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled, phase 3 trial.	Lancet	2013	340
+cancer	23312463	7422	Heng DY	External validation and comparison with other models of the International Metastatic Renal-Cell Carcinoma Database Consortium prognostic model: a population-based study.	The Lancet. Oncology	2013	71
+cancer	23358650	7422	Tabernero J	First-in-humans trial of an RNA interference therapeutic targeting VEGF and KSP in cancer patients with liver involvement.	Cancer discovery	2013	116
+cancer	23401453	7422	Lambrechts D	Markers of response for the antiangiogenic agent bevacizumab.	Journal of clinical oncology 	2013	80
+cancer	23512266	7422	Soda Y	Mechanisms of neovascularization and resistance to anti-angiogenic therapies in glioblastoma multiforme.	Journal of molecular medicine	2013	35
+cancer	23670728	7422	Finley SD	Effect of tumor microenvironment on tumor VEGF during anti-VEGF treatment: systems biology predictions.	Journal of the National Cancer Institute	2013	27
+cancer	23846483	7422	Prorok-Hamon M	Colonic mucosa-associated diffusely adherent afaC+ Escherichia coli expressing lpfA and pks are increased in inflammatory bowel disease and colon cancer.	Gut	2014	33
+cancer	23908119	7422	Welti J	Recent molecular discoveries in angiogenesis and antiangiogenic therapies in cancer.	The Journal of clinical investigation	2013	102
+cancer	23940216	7422	Batchelor TT	Phase III randomized trial comparing the efficacy of cediranib as monotherapy, and in combination with lomustine, versus lomustine alone in patients with recurrent glioblastoma.	Journal of clinical oncology 	2013	80
+cancer	23980090	7422	Llovet JM	Brivanib in patients with advanced hepatocellular carcinoma who were intolerant to sorafenib or for whom sorafenib failed: results from the randomized phase III BRISK-PS study.	Journal of clinical oncology 	2013	93
+cancer	24030704	7422	Smith NR	Tumor stromal architecture can define the intrinsic tumor response to VEGF-targeted therapy.	Clinical cancer research 	2013	27
+cancer	24097868	7422	Kienast Y	Ang-2-VEGF-A CrossMab, a novel bispecific human IgG1 antibody blocking VEGF-A and Ang-2 functions simultaneously, mediates potent antitumor, antiangiogenic, and antimetastatic efficacy.	Clinical cancer research 	2013	34
+cancer	24135488	7422	Buczek M	Resistance to tyrosine kinase inhibitors in clear cell renal cell carcinoma: from the patient's bed to molecular mechanisms.	Biochimica et biophysica acta	2014	24
+cancer	24347168	7422	Pereira ER	Endoplasmic reticulum (ER) stress and hypoxia response pathways interact to potentiate hypoxia-inducible factor 1 (HIF-1) transcriptional activity on targets like vascular endothelial growth factor (VEGF).	The Journal of biological chemistry	2014	30
+cancer	24552317	7422	Gilbert MR	A randomized trial of bevacizumab for newly diagnosed glioblastoma.	The New England journal of medicine	2014	316
+cancer	24552320	7422	Tewari KS	Improved survival with bevacizumab in advanced cervical cancer.	The New England journal of medicine	2014	139
+cancer	24841777	7422	Albiges L	A systematic review of sequencing and combinations of systemic therapy in metastatic renal cancer.	European urology	2015	22
+cancer	24949972	7422	Eswarappa SM	Programmed translational readthrough generates antiangiogenic VEGF-Ax.	Cell	2014	40
+cancer	24996197	7422	Kudo M	Brivanib as adjuvant therapy to transarterial chemoembolization in patients with hepatocellular carcinoma: A randomized phase III trial.	Hepatology	2014	28
+cancer	25117977	7422	Baker GJ	Mechanisms of glioma formation: iterative perivascular glioma growth and invasion leads to tumor progression, VEGF-independent vascularization, and resistance to antiangiogenic therapy.	Neoplasia	2014	26
+cancer	25220133	7422	Moja L	Systemic safety of bevacizumab versus ranibizumab for neovascular age-related macular degeneration.	The Cochrane database of systematic reviews	2014	27
+cancer	25337750	7422	Loupakis F	Initial therapy with FOLFOXIRI and bevacizumab for metastatic colorectal cancer.	The New England journal of medicine	2014	83
+cancer	25402324	7422	Hiroshima Y	Efficacy of tumor-targeting Salmonella typhimurium A1-R in combination with anti-angiogenesis therapy on a pancreatic cancer patient-derived orthotopic xenograft (PDOX) and cell line mouse models.	Oncotarget	2014	41
+cancer	25452452	7422	Motzer RJ	Nivolumab for Metastatic Renal Cell Carcinoma: Results of a Randomized Phase II Trial.	Journal of clinical oncology 	2015	120
+cancer	25700172	7422	McIntyre A	Metabolic and hypoxic adaptation to anti-angiogenic therapy: a target for induced essentiality.	EMBO molecular medicine	2015	25
+cancer	25713439	7422	Lu-Emerson C	Lessons from anti-vascular endothelial growth factor and anti-vascular endothelial growth factor receptor trials in patients with glioblastoma.	Journal of clinical oncology 	2015	25
+cancer	26095784	7422	Zhu AX	Ramucirumab versus placebo as second-line treatment in patients with advanced hepatocellular carcinoma following first-line therapy with sorafenib (REACH): a randomised, double-blind, multicentre, phase 3 trial.	The Lancet. Oncology	2015	42
+cancer	26167629	7422	Sampaziotis F	Cholangiocytes derived from human induced pluripotent stem cells for disease modeling and drug validation.	Nature biotechnology	2015	24
+cancer	26179201	7422	Valle JW	Cediranib or placebo in combination with cisplatin and gemcitabine chemotherapy for patients with advanced biliary tract cancer (ABC-03): a randomised phase 2 trial.	The Lancet. Oncology	2015	20
+cancer	26321262	7422	Chua MLK	Nasopharyngeal carcinoma.	Lancet	2016	42
+cancer	26853587	7422	Jayson GC	Antiangiogenic therapy in oncology: current status and future directions.	Lancet	2016	38
+cardiovascular	1791831	7422	Houck KA	The vascular endothelial growth factor family: identification of a fourth molecular species and characterization of alternative splicing of RNA.	Molecular endocrinology	1991	199
+cardiovascular	2479987	7422	Keck PJ	Vascular permeability factor, an endothelial cell mitogen related to PDGF.	Science	1989	279
+cardiovascular	7526212	7422	Aiello LP	Vascular endothelial growth factor in ocular fluid of patients with diabetic retinopathy and other retinal disorders.	The New England journal of medicine	1994	569
+cardiovascular	7673356	7422	Roberts WG	Increased microvascular permeability and endothelial fenestration induced by vascular endothelial growth factor.	Journal of cell science	1995	170
+cardiovascular	8167412	7422	Park JE	The vascular endothelial growth factor (VEGF) isoforms: differential deposition into the subepithelial extracellular matrix and bioactivity of extracellular matrix-bound VEGF.	Molecular biology of the cell	1993	181
+cardiovascular	8837607	7422	Gabrilovich DI	Production of vascular endothelial growth factor by human tumors inhibits the functional maturation of dendritic cells.	Nature medicine	1996	271
+cardiovascular	9012841	7422	Möhle R	Constitutive production and thrombin-induced release of vascular endothelial growth factor by human megakaryocytes and platelets.	Proceedings of the National Academy of Sciences of the United States of America	1997	110
+cardiovascular	9377574	7422	Presta LG	Humanization of an anti-vascular endothelial growth factor monoclonal antibody for the therapy of solid tumors and other disorders.	Cancer research	1997	287
+cardiovascular	9529250	7422	Soker S	Neuropilin-1 is expressed by endothelial and tumor cells as an isoform-specific receptor for vascular endothelial growth factor.	Cell	1998	486
+cardiovascular	9707121	7422	Flore O	Transformation of primary human endothelial cells by Kaposi's sarcoma-associated herpesvirus.	Nature	1998	109
+cardiovascular	9916127	7422	Benjamin LE	Selective ablation of immature blood vessels in established human tumors follows vascular endothelial growth factor withdrawal.	The Journal of clinical investigation	1999	225
+cardiovascular	10406801	7422	Asahara T	VEGF contributes to postnatal neovascularization by mobilizing bone marrow-derived endothelial progenitor cells.	The EMBO journal	1999	299
+cardiovascular	10662790	7422	Yang TY	Transgenic expression of the chemokine receptor encoded by human herpesvirus 8 induces an angioproliferative disease resembling Kaposi's sarcoma.	The Journal of experimental medicine	2000	94
+cardiovascular	12124351	7422	Bates DO	VEGF165b, an inhibitory splice variant of vascular endothelial growth factor, is down-regulated in renal cell carcinoma.	Cancer research	2002	143
+cardiovascular	12177445	7422	Holash J	VEGF-Trap: a VEGF blocker with potent antitumor effects.	Proceedings of the National Academy of Sciences of the United States of America	2002	331
+cardiovascular	12642354	7422	Henry TD	The VIVA trial: Vascular endothelial growth factor in Ischemia for Vascular Angiogenesis.	Circulation	2003	161
+cardiovascular	14557356	7422	Britten MB	Infarct remodeling after intracoronary progenitor cell treatment in patients with acute myocardial infarction (TOPCARE-AMI): mechanistic insights from serial contrast-enhanced magnetic resonance imaging.	Circulation	2003	84
+cardiovascular	14993122	7422	Rehman J	Secretion of angiogenic and antiapoptotic factors by human adipose stromal cells.	Circulation	2004	362
+cardiovascular	16172288	7422	Khurana R	Role of angiogenesis in cardiovascular disease: a critical appraisal.	Circulation	2005	79
+cardiovascular	16490250	7422	Leach JK	Coating of VEGF-releasing scaffolds with bioactive glass for angiogenesis and bone regeneration.	Biomaterials	2006	67
+cardiovascular	16828580	7422	Borzychowski AM	Inflammation and pre-eclampsia.	Seminars in fetal and neonatal medicine	2006	89
+cardiovascular	17475821	7422	Lindenmeyer MT	Interstitial vascular rarefaction and reduced VEGF-A expression in human diabetic nephropathy.	Journal of the American Society of Nephrology 	2007	69
+cardiovascular	17533168	7422	Rigau V	Angiogenesis is associated with blood-brain barrier permeability in temporal lobe epilepsy.	Brain 	2007	69
+cardiovascular	17591953	7422	Nishijima K	Vascular endothelial growth factor-A is a survival factor for retinal neurons and a critical neuroprotectant during the adaptive response to ischemic injury.	The American journal of pathology	2007	170
+cardiovascular	17636120	7422	Sayed N	Desensitization of soluble guanylyl cyclase, the NO receptor, by S-nitrosylation.	Proceedings of the National Academy of Sciences of the United States of America	2007	68
+cardiovascular	19150949	7422	Izzedine H	Management of hypertension in angiogenesis inhibitor-treated patients.	Annals of oncology 	2009	57
+cardiovascular	19234476	7422	Augustin HG	Control of vascular morphogenesis and homeostasis through the angiopoietin-Tie system.	Nature reviews. Molecular cell biology	2009	292
+cardiovascular	19581909	7422	Chen HX	Adverse effects of anticancer agents that target the VEGF pathway.	Nature reviews. Clinical oncology	2009	90
+cardiovascular	20156114	7422	Ranpura V	Risk of cardiac ischemia and arterial thromboembolic events with the angiogenesis inhibitor bevacizumab in cancer patients: a meta-analysis of randomized controlled trials.	Acta oncologica	2010	43
+cardiovascular	20351338	7422	Maitland ML	Initial assessment, surveillance, and management of blood pressure in patients receiving vascular endothelial growth factor signaling pathway inhibitors.	Journal of the National Cancer Institute	2010	53
+cardiovascular	20501804	7422	Hammers HJ	Reversible epithelial to mesenchymal transition and acquired resistance to sunitinib in patients with renal cell carcinoma: evidence from a xenograft study.	Molecular cancer therapeutics	2010	49
+cardiovascular	21092406	7422	Crespo-Diaz R	Platelet lysate consisting of a natural repair proteome supports human mesenchymal stem cell proliferation and chromosomal stability.	Cell transplantation	2011	44
+cardiovascular	21167939	7422	Fidler IJ	The role of the organ microenvironment in brain metastasis.	Seminars in cancer biology	2011	63
+cardiovascular	21239704	7422	Stratman AN	VEGF and FGF prime vascular tube morphogenesis and sprouting directed by hematopoietic stem cell cytokines.	Blood	2011	38
+cardiovascular	21323540	7422	Mintz-Hittner HA	Efficacy of intravitreal bevacizumab for stage 3+ retinopathy of prematurity.	The New England journal of medicine	2011	124
+cardiovascular	21441136	7422	Li J	Orai1 and CRAC channel dependence of VEGF-activated Ca2+ entry and endothelial tube formation.	Circulation research	2011	51
+cardiovascular	21527770	7422	Rini BI	Hypertension as a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib.	Journal of the National Cancer Institute	2011	115
+cardiovascular	21593862	7422	Carmeliet P	Molecular mechanisms and clinical applications of angiogenesis.	Nature	2011	810
+cardiovascular	21732485	7422	Horie N	Transplanted stem cell-secreted vascular endothelial growth factor effects poststroke recovery, inflammation, and vascular repair.	Stem cells	2011	61
+cardiovascular	22212972	7422	Stewart MW	The expanding role of vascular endothelial growth factor inhibitors in ophthalmology.	Mayo Clinic proceedings	2012	33
+cardiovascular	22399811	7422	dela Paz NG	Role of shear-stress-induced VEGF expression in endothelial cell survival.	Journal of cell science	2012	37
+cardiovascular	23108136	7422	Terme M	VEGFA-VEGFR pathway blockade inhibits tumor-induced regulatory T-cell proliferation in colorectal cancer.	Cancer research	2013	61
+cardiovascular	23856679	7422	Taimeh Z	Vascular endothelial growth factor in heart failure.	Nature reviews. Cardiology	2013	29
+cardiovascular	24013197	7422	Zangi L	Modified mRNA directs the fate of heart progenitor cells and induces vascular regeneration after myocardial infarction.	Nature biotechnology	2013	70
+cardiovascular	24949972	7422	Eswarappa SM	Programmed translational readthrough generates antiangiogenic VEGF-Ax.	Cell	2014	40
+cardiovascular	25220133	7422	Moja L	Systemic safety of bevacizumab versus ranibizumab for neovascular age-related macular degeneration.	The Cochrane database of systematic reviews	2014	27
+cardiovascular	25342124	7422	Virgili G	Anti-vascular endothelial growth factor for diabetic macular oedema.	The Cochrane database of systematic reviews	2014	30
+cardiovascular	25896459	7422	Ishibazawa A	Optical Coherence Tomography Angiography in Diabetic Retinopathy: A Prospective Pilot Study.	American journal of ophthalmology	2015	50
+cardiovascular	26113213	7422	Nazari H	Stem cell based therapies for age-related macular degeneration: The promises and the challenges.	Progress in retinal and eye research	2015	19
+cardiovascular	26137590	7422	Premer C	Allogeneic Mesenchymal Stem Cells Restore Endothelial Function in Heart Failure by Stimulating Endothelial Progenitor Cells.	EBioMedicine	2015	20
+diabetes	7759509	7422	Frank S	Regulation of vascular endothelial growth factor expression in cultured keratinocytes. Implications for normal and impaired wound healing.	The Journal of biological chemistry	1995	119
+diabetes	11978667	7422	Awata T	A common polymorphism in the 5'-untranslated region of the VEGF gene is associated with diabetic retinopathy in type 2 diabetes.	Diabetes	2002	84
+diabetes	12941734	7422	Ciulla TA	Diabetic retinopathy and diabetic macular edema: pathophysiology, screening, and novel therapies.	Diabetes care	2003	94
+diabetes	15149314	7422	Schrijvers BF	The role of vascular endothelial growth factor (VEGF) in renal pathophysiology.	Kidney international	2004	90
+diabetes	15161630	7422	Galiano RD	Topical vascular endothelial growth factor accelerates diabetic wound healing through increased angiogenesis and by mobilizing and recruiting bone marrow-derived cells.	The American journal of pathology	2004	136
+diabetes	16154196	7422	Cunningham ET Jr	A phase II randomized double-masked trial of pegaptanib, an anti-vascular endothelial growth factor aptamer, for diabetic macular edema.	Ophthalmology	2005	106
+diabetes	16193288	7422	Perrin RM	Diabetic retinopathy is associated with a switch in splicing from anti- to pro-angiogenic isoforms of vascular endothelial growth factor.	Diabetologia	2005	70
+diabetes	16364190	7422	Byrne AM	Angiogenic and cell survival functions of vascular endothelial growth factor (VEGF).	Journal of cellular and molecular medicine	2005	141
+diabetes	16518379	7422	Ng EW	Pegaptanib, a targeted anti-VEGF aptamer for ocular vascular disease.	Nature reviews. Drug discovery	2006	206
+diabetes	16828580	7422	Borzychowski AM	Inflammation and pre-eclampsia.	Seminars in fetal and neonatal medicine	2006	89
+diabetes	17046701	7422	Nguyen QD	Vascular endothelial growth factor is a critical stimulus for diabetic macular edema.	American journal of ophthalmology	2006	69
+diabetes	17475821	7422	Lindenmeyer MT	Interstitial vascular rarefaction and reduced VEGF-A expression in human diabetic nephropathy.	Journal of the American Society of Nephrology 	2007	69
+diabetes	17674014	7422	Wu L	Twelve-month safety of intravitreal injections of bevacizumab (Avastin): results of the Pan-American Collaborative Retina Study Group (PACORES).	Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie	2008	72
+diabetes	18163003	7422	Andreoli CM	Anti-vascular endothelial growth factor therapy for ocular neovascular disease.	Current opinion in ophthalmology	2007	59
+diabetes	18653375	7422	Penn JS	Vascular endothelial growth factor in eye disease.	Progress in retinal and eye research	2008	132
+diabetes	19027922	7422	Bao P	The role of vascular endothelial growth factor in wound healing.	The Journal of surgical research	2009	110
+diabetes	19666581	7422	Thangarajah H	The molecular basis for impaired hypoxia-induced VEGF expression in diabetic tissues.	Proceedings of the National Academy of Sciences of the United States of America	2009	73
+diabetes	20980427	7422	Massin P	Safety and efficacy of ranibizumab in diabetic macular edema (RESOLVE Study): a 12-month, randomized, controlled, double-masked, multicenter phase II study.	Diabetes care	2010	114
+diabetes	21529957	7422	Sultan MB	A phase 2/3, multicenter, randomized, double-masked, 2-year trial of pegaptanib sodium for the treatment of diabetic macular edema.	Ophthalmology	2011	38
+diabetes	21546089	7422	Do DV	The DA VINCI Study: phase 2 primary results of VEGF Trap-Eye in patients with diabetic macular edema.	Ophthalmology	2011	55
+diabetes	21752957	7422	Woroniecka KI	Transcriptome analysis of human diabetic kidney disease.	Diabetes	2011	93
+diabetes	22330964	7422	Nguyen QD	Ranibizumab for diabetic macular edema: results from 2 phase III randomized trials: RISE and RIDE.	Ophthalmology	2012	171
+diabetes	22537617	7422	Do DV	One-year outcomes of the da Vinci Study of VEGF Trap-Eye in eyes with diabetic macular edema.	Ophthalmology	2012	64
+diabetes	23385630	7422	Zehetner C	Plasma levels of vascular endothelial growth factor before and after intravitreal injection of bevacizumab, ranibizumab and pegaptanib in patients with age-related macular degeneration, and in patients with diabetic macular oedema.	The British journal of ophthalmology	2013	26
+diabetes	23706949	7422	Brown DM	Long-term outcomes of ranibizumab therapy for diabetic macular edema: the 36-month results from two phase III trials: RISE and RIDE.	Ophthalmology	2013	85
+diabetes	24525867	7422	Osaadon P	A review of anti-VEGF agents for proliferative diabetic retinopathy.	Eye	2014	23
+diabetes	24673341	7422	Abcouwer SF	Diabetic retinopathy: loss of neuroretinal adaptation to the diabetic metabolic environment.	Annals of the New York Academy of Sciences	2014	24
+diabetes	25012934	7422	Korobelnik JF	Intravitreal aflibercept for diabetic macular edema.	Ophthalmology	2014	56
+diabetes	25204977	7422	Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications (EDIC) Research Group.	Effect of intensive diabetes therapy on the progression of diabetic retinopathy in patients with type 1 diabetes: 18 years of follow-up in the DCCT/EDIC.	Diabetes	2015	28
+diabetes	25342124	7422	Virgili G	Anti-vascular endothelial growth factor for diabetic macular oedema.	The Cochrane database of systematic reviews	2014	30
+diabetes	25896459	7422	Ishibazawa A	Optical Coherence Tomography Angiography in Diabetic Retinopathy: A Prospective Pilot Study.	American journal of ophthalmology	2015	50
+diabetes	25935789	7422	Das A	Diabetic Macular Edema: Pathophysiology and Novel Therapeutic Targets.	Ophthalmology	2015	25
+diabetes	26935357	7422	Wells JA	Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.	Ophthalmology	2016	26
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	14745444	7422	Willett CG	Direct evidence that the VEGF-specific antibody bevacizumab has antivascular effects in human rectal cancer.	Nature medicine	2004	378
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	16407877	7422	Jain RK	Lessons from phase III clinical trials on anti-VEGF therapy for cancer.	Nature clinical practice. Oncology	2006	256
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	17236958	7422	Gonzalez J	Effect of bevacizumab on radiation necrosis of the brain.	International journal of radiation oncology, biology, physics	2007	64
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	17908997	7422	Rich JN	Cancer stem cells in radiation resistance.	Cancer research	2007	113
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	19167838	7422	Gutin PH	Safety and efficacy of bevacizumab with hypofractionated stereotactic irradiation for recurrent malignant gliomas.	International journal of radiation oncology, biology, physics	2009	73
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	19357959	7422	Jensen RL	Brain tumor hypoxia: tumorigenesis, angiogenesis, imaging, pseudoprogression, and as a therapeutic target.	Journal of neuro-oncology	2009	74
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	21537039	7422	Aghajanian C	Phase II trial of bevacizumab in recurrent or persistent endometrial cancer: a Gynecologic Oncology Group study.	Journal of clinical oncology 	2011	44
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22035272	7422	Narayana A	A clinical trial of bevacizumab, temozolomide, and radiation for newly diagnosed glioblastoma.	Journal of neurosurgery	2012	39
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22084445	7422	Hirschhaeuser F	Lactate: a metabolic key player in cancer.	Cancer research	2011	125
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22910841	7422	Agulnik M	An open-label, multicenter, phase II study of bevacizumab for the treatment of angiosarcoma and epithelioid hemangioendotheliomas.	Annals of oncology 	2013	49
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	23940216	7422	Batchelor TT	Phase III randomized trial comparing the efficacy of cediranib as monotherapy, and in combination with lomustine, versus lomustine alone in patients with recurrent glioblastoma.	Journal of clinical oncology 	2013	80
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	24532337	7422	Dispenzieri A	POEMS syndrome: 2014 update on diagnosis, risk-stratification, and management.	American journal of hematology	2014	26
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	24552320	7422	Tewari KS	Improved survival with bevacizumab in advanced cervical cancer.	The New England journal of medicine	2014	139
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	25517747	7422	Jain RK	Antiangiogenesis strategies revisited: from starving tumors to alleviating hypoxia.	Cancer cell	2014	134
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	26167629	7422	Sampaziotis F	Cholangiocytes derived from human induced pluripotent stem cells for disease modeling and drug validation.	Nature biotechnology	2015	24
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	26321262	7422	Chua MLK	Nasopharyngeal carcinoma.	Lancet	2016	42
+eye+or+ocular	7526212	7422	Aiello LP	Vascular endothelial growth factor in ocular fluid of patients with diabetic retinopathy and other retinal disorders.	The New England journal of medicine	1994	569
+eye+or+ocular	10406801	7422	Asahara T	VEGF contributes to postnatal neovascularization by mobilizing bone marrow-derived endothelial progenitor cells.	The EMBO journal	1999	299
+eye+or+ocular	12941734	7422	Ciulla TA	Diabetic retinopathy and diabetic macular edema: pathophysiology, screening, and novel therapies.	Diabetes care	2003	94
+eye+or+ocular	15625332	7422	Gragoudas ES	Pegaptanib for neovascular age-related macular degeneration.	The New England journal of medicine	2004	368
+eye+or+ocular	16154196	7422	Cunningham ET Jr	A phase II randomized double-masked trial of pegaptanib, an anti-vascular endothelial growth factor aptamer, for diabetic macular edema.	Ophthalmology	2005	106
+eye+or+ocular	16193288	7422	Perrin RM	Diabetic retinopathy is associated with a switch in splicing from anti- to pro-angiogenic isoforms of vascular endothelial growth factor.	Diabetologia	2005	70
+eye+or+ocular	16518379	7422	Ng EW	Pegaptanib, a targeted anti-VEGF aptamer for ocular vascular disease.	Nature reviews. Drug discovery	2006	206
+eye+or+ocular	17046701	7422	Nguyen QD	Vascular endothelial growth factor is a critical stimulus for diabetic macular edema.	American journal of ophthalmology	2006	69
+eye+or+ocular	17591953	7422	Nishijima K	Vascular endothelial growth factor-A is a survival factor for retinal neurons and a critical neuroprotectant during the adaptive response to ischemic injury.	The American journal of pathology	2007	170
+eye+or+ocular	17674014	7422	Wu L	Twelve-month safety of intravitreal injections of bevacizumab (Avastin): results of the Pan-American Collaborative Retina Study Group (PACORES).	Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie	2008	72
+eye+or+ocular	18163003	7422	Andreoli CM	Anti-vascular endothelial growth factor therapy for ocular neovascular disease.	Current opinion in ophthalmology	2007	59
+eye+or+ocular	18293182	7422	Rehak J	Branch retinal vein occlusion: pathogenesis, visual prognosis, and treatment modalities.	Current eye research	2008	58
+eye+or+ocular	18362932	7422	Campochiaro PA	Ranibizumab for macular edema due to retinal vein occlusions: implication of VEGF as a critical stimulator.	Molecular therapy 	2008	61
+eye+or+ocular	18653375	7422	Penn JS	Vascular endothelial growth factor in eye disease.	Progress in retinal and eye research	2008	132
+eye+or+ocular	19854291	7422	Laude A	Polypoidal choroidal vasculopathy and neovascular age-related macular degeneration: same or different disease?	Progress in retinal and eye research	2010	46
+eye+or+ocular	20811159	7422	Bird AC	Therapeutic targets in age-related macular disease.	The Journal of clinical investigation	2010	58
+eye+or+ocular	21264342	7422	Rymo SF	A two-way communication between microglial cells and angiogenic sprouts regulates angiogenesis in aortic ring cultures.	PloS one	2011	39
+eye+or+ocular	21323540	7422	Mintz-Hittner HA	Efficacy of intravitreal bevacizumab for stage 3+ retinopathy of prematurity.	The New England journal of medicine	2011	124
+eye+or+ocular	21527770	7422	Rini BI	Hypertension as a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib.	Journal of the National Cancer Institute	2011	115
+eye+or+ocular	21529957	7422	Sultan MB	A phase 2/3, multicenter, randomized, double-masked, 2-year trial of pegaptanib sodium for the treatment of diabetic macular edema.	Ophthalmology	2011	38
+eye+or+ocular	21546089	7422	Do DV	The DA VINCI Study: phase 2 primary results of VEGF Trap-Eye in patients with diabetic macular edema.	Ophthalmology	2011	55
+eye+or+ocular	21593862	7422	Carmeliet P	Molecular mechanisms and clinical applications of angiogenesis.	Nature	2011	810
+eye+or+ocular	21708378	7422	Manjunath V	Analysis of choroidal thickness in age-related macular degeneration using spectral-domain optical coherence tomography.	American journal of ophthalmology	2011	36
+eye+or+ocular	21930258	7422	Sato T	Serum concentrations of bevacizumab (avastin) and vascular endothelial growth factor in infants with retinopathy of prematurity.	American journal of ophthalmology	2012	42
+eye+or+ocular	22212972	7422	Stewart MW	The expanding role of vascular endothelial growth factor inhibitors in ophthalmology.	Mayo Clinic proceedings	2012	33
+eye+or+ocular	22264944	7422	Bloch SB	Incidence of legal blindness from age-related macular degeneration in denmark: year 2000 to 2010.	American journal of ophthalmology	2012	35
+eye+or+ocular	22301066	7422	Heier JS	Ranibizumab for macular edema due to retinal vein occlusions: long-term follow-up in the HORIZON trial.	Ophthalmology	2012	55
+eye+or+ocular	22330964	7422	Nguyen QD	Ranibizumab for diabetic macular edema: results from 2 phase III randomized trials: RISE and RIDE.	Ophthalmology	2012	171
+eye+or+ocular	22374154	7422	Stewart MW	Pharmacokinetic rationale for dosing every 2 weeks versus 4 weeks with intravitreal ranibizumab, bevacizumab, and aflibercept (vascular endothelial growth factor Trap-eye).	Retina	2012	41
+eye+or+ocular	22399811	7422	dela Paz NG	Role of shear-stress-induced VEGF expression in endothelial cell survival.	Journal of cell science	2012	37
+eye+or+ocular	22537617	7422	Do DV	One-year outcomes of the da Vinci Study of VEGF Trap-Eye in eyes with diabetic macular edema.	Ophthalmology	2012	64
+eye+or+ocular	22555112	7422	Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group.	Ranibizumab and bevacizumab for treatment of neovascular age-related macular degeneration: two-year results.	Ophthalmology	2012	294
+eye+or+ocular	22578446	7422	IVAN Study Investigators.	Ranibizumab versus bevacizumab to treat neovascular age-related macular degeneration: one-year findings from the IVAN randomized trial.	Ophthalmology	2012	144
+eye+or+ocular	23084240	7422	Heier JS	Intravitreal aflibercept (VEGF trap-eye) in wet age-related macular degeneration.	Ophthalmology	2012	192
+eye+or+ocular	23218699	7422	Brown DM	Intravitreal aflibercept injection for macular edema secondary to central retinal vein occlusion: 1-year results from the phase 3 COPERNICUS study.	American journal of ophthalmology	2013	36
+eye+or+ocular	23438028	7422	Durand ML	Endophthalmitis.	Clinical microbiology and infection 	2013	40
+eye+or+ocular	23549101	7422	Kumar N	Visual and anatomical outcomes of intravitreal aflibercept in eyes with persistent subfoveal fluid despite previous treatments with ranibizumab in patients with neovascular age-related macular degeneration.	Retina	2013	35
+eye+or+ocular	23585288	7422	Maruotti J	A simple and scalable process for the differentiation of retinal pigment epithelium from human pluripotent stem cells.	Stem cells translational medicine	2013	26
+eye+or+ocular	23642377	7422	Jaffe GJ	Macular morphology and visual acuity in the comparison of age-related macular degeneration treatments trials.	Ophthalmology	2013	26
+eye+or+ocular	23642784	7422	Haller JA	Current anti-vascular endothelial growth factor dosing regimens: benefits and burden.	Ophthalmology	2013	27
+eye+or+ocular	23642856	7422	Rofagha S	Seven-year outcomes in ranibizumab-treated patients in ANCHOR, MARINA, and HORIZON: a multicenter cohort study (SEVEN-UP).	Ophthalmology	2013	111
+eye+or+ocular	23664153	7422	Ho VY	Short-term outcomes of aflibercept for neovascular age-related macular degeneration in eyes previously treated with other vascular endothelial growth factor inhibitors.	American journal of ophthalmology	2013	35
+eye+or+ocular	23706949	7422	Brown DM	Long-term outcomes of ranibizumab therapy for diabetic macular edema: the 36-month results from two phase III trials: RISE and RIDE.	Ophthalmology	2013	85
+eye+or+ocular	23908119	7422	Welti J	Recent molecular discoveries in angiogenesis and antiangiogenic therapies in cancer.	The Journal of clinical investigation	2013	102
+eye+or+ocular	24335072	7422	Bowes Rickman C	Dry age-related macular degeneration: mechanisms, therapeutic targets, and imaging.	Investigative ophthalmology and visual science	2013	37
+eye+or+ocular	24525867	7422	Osaadon P	A review of anti-VEGF agents for proliferative diabetic retinopathy.	Eye	2014	23
+eye+or+ocular	24673341	7422	Abcouwer SF	Diabetic retinopathy: loss of neuroretinal adaptation to the diabetic metabolic environment.	Annals of the New York Academy of Sciences	2014	24
+eye+or+ocular	25001321	7422	Avery RL	Systemic pharmacokinetics following intravitreal injections of ranibizumab, bevacizumab or aflibercept in patients with neovascular AMD.	The British journal of ophthalmology	2014	24
+eye+or+ocular	25012934	7422	Korobelnik JF	Intravitreal aflibercept for diabetic macular edema.	Ophthalmology	2014	56
+eye+or+ocular	25136079	7422	Schmidt-Erfurth U	Guidelines for the management of neovascular age-related macular degeneration by the European Society of Retina Specialists (EURETINA).	The British journal of ophthalmology	2014	26
+eye+or+ocular	25170575	7422	Solomon SD	Anti-vascular endothelial growth factor for neovascular age-related macular degeneration.	The Cochrane database of systematic reviews	2014	39
+eye+or+ocular	25193672	7422	Holz FG	Multi-country real-life experience of anti-vascular endothelial growth factor therapy for wet age-related macular degeneration.	The British journal of ophthalmology	2015	22
+eye+or+ocular	25342124	7422	Virgili G	Anti-vascular endothelial growth factor for diabetic macular oedema.	The Cochrane database of systematic reviews	2014	30
+eye+or+ocular	25444347	7422	Hartnett ME	Pathophysiology and mechanisms of severe retinopathy of prematurity.	Ophthalmology	2015	25
+eye+or+ocular	25542520	7422	Grunwald JE	Growth of geographic atrophy in the comparison of age-related macular degeneration treatments trials.	Ophthalmology	2015	31
+eye+or+ocular	25887628	7422	Spaide RF	Optical Coherence Tomography Angiography Signs of Vascular Abnormalization With Antiangiogenic Therapy for Choroidal Neovascularization.	American journal of ophthalmology	2015	20
+eye+or+ocular	25896459	7422	Ishibazawa A	Optical Coherence Tomography Angiography in Diabetic Retinopathy: A Prospective Pilot Study.	American journal of ophthalmology	2015	50
+eye+or+ocular	26113213	7422	Nazari H	Stem cell based therapies for age-related macular degeneration: The promises and the challenges.	Progress in retinal and eye research	2015	19
+eye+or+ocular	26164826	7422	Kuehlewein L	Optical Coherence Tomography Angiography of Type 1 Neovascularization in Age-Related Macular Degeneration.	American journal of ophthalmology	2015	26
+eye+or+ocular	26431823	7422	Rakoczy EP	Gene therapy with recombinant adeno-associated vectors for neovascular age-related macular degeneration: 1 year follow-up of a phase 1 randomised clinical trial.	Lancet	2015	19
+eye+or+ocular	26935357	7422	Wells JA	Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.	Ophthalmology	2016	26
+eye+or+ocular	27156698	7422	Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group.	Five-Year Outcomes with Anti-Vascular Endothelial Growth Factor Treatment of Neovascular Age-Related Macular Degeneration: The Comparison of Age-Related Macular Degeneration Treatments Trials.	Ophthalmology	2016	16
+food+or+nutrition+or+nutrients	15149314	7422	Schrijvers BF	The role of vascular endothelial growth factor (VEGF) in renal pathophysiology.	Kidney international	2004	90
+food+or+nutrition+or+nutrients	16301830	7422	Carmeliet P	VEGF as a key mediator of angiogenesis in cancer.	Oncology	2005	181
+food+or+nutrition+or+nutrients	16301831	7422	Ferrara N	VEGF as a therapeutic target in cancer.	Oncology	2005	109
+food+or+nutrition+or+nutrients	17158546	7422	Motzer RJ	Targeted therapy for metastatic renal cell carcinoma.	Journal of clinical oncology 	2006	64
+food+or+nutrition+or+nutrients	17212999	7422	Shih T	Bevacizumab: an angiogenesis inhibitor for the treatment of solid malignancies.	Clinical therapeutics	2006	82
+food+or+nutrition+or+nutrients	18452647	7422	Shibuya M	Vascular endothelial growth factor-dependent and -independent regulation of angiogenesis.	BMB reports	2008	52
+food+or+nutrition+or+nutrients	18596824	7422	Ellis LM	VEGF-targeted therapy: mechanisms of anti-tumour activity.	Nature reviews. Cancer	2008	353
+food+or+nutrition+or+nutrients	19482548	7422	Hapani S	Risk of gastrointestinal perforation in patients with cancer treated with bevacizumab: a meta-analysis.	The Lancet. Oncology	2009	55
+food+or+nutrition+or+nutrients	21593862	7422	Carmeliet P	Molecular mechanisms and clinical applications of angiogenesis.	Nature	2011	810
+food+or+nutrition+or+nutrients	22212972	7422	Stewart MW	The expanding role of vascular endothelial growth factor inhibitors in ophthalmology.	Mayo Clinic proceedings	2012	33
+food+or+nutrition+or+nutrients	22525710	7422	Rapisarda A	Overcoming disappointing results with antiangiogenic therapy by targeting hypoxia.	Nature reviews. Clinical oncology	2012	44
+kidney+or+urine	1791831	7422	Houck KA	The vascular endothelial growth factor family: identification of a fourth molecular species and characterization of alternative splicing of RNA.	Molecular endocrinology	1991	199
+kidney+or+urine	8167412	7422	Park JE	The vascular endothelial growth factor (VEGF) isoforms: differential deposition into the subepithelial extracellular matrix and bioactivity of extracellular matrix-bound VEGF.	Molecular biology of the cell	1993	181
+kidney+or+urine	12124351	7422	Bates DO	VEGF165b, an inhibitory splice variant of vascular endothelial growth factor, is down-regulated in renal cell carcinoma.	Cancer research	2002	143
+kidney+or+urine	12890841	7422	Yang JC	A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer.	The New England journal of medicine	2003	446
+kidney+or+urine	15149314	7422	Schrijvers BF	The role of vascular endothelial growth factor (VEGF) in renal pathophysiology.	Kidney international	2004	90
+kidney+or+urine	15611513	7422	Kim WY	Role of VHL gene mutation in human cancer.	Journal of clinical oncology 	2004	209
+kidney+or+urine	16330672	7422	Motzer RJ	Activity of SU11248, a multitargeted inhibitor of vascular endothelial growth factor receptor and platelet-derived growth factor receptor, in patients with metastatic renal cell carcinoma.	Journal of clinical oncology 	2006	245
+kidney+or+urine	17158546	7422	Motzer RJ	Targeted therapy for metastatic renal cell carcinoma.	Journal of clinical oncology 	2006	64
+kidney+or+urine	17261421	7422	Zhu X	Risks of proteinuria and hypertension with bevacizumab, an antibody against vascular endothelial growth factor: systematic review and meta-analysis.	American journal of kidney diseases 	2007	124
+kidney+or+urine	17475821	7422	Lindenmeyer MT	Interstitial vascular rarefaction and reduced VEGF-A expression in human diabetic nephropathy.	Journal of the American Society of Nephrology 	2007	69
+kidney+or+urine	18156031	7422	Escudier B	Bevacizumab plus interferon alfa-2a for treatment of metastatic renal cell carcinoma: a randomised, double-blind phase III trial.	Lancet	2007	433
+kidney+or+urine	19129259	7422	Satchell SC	Glomerular endothelial cell fenestrations: an integral component of the glomerular filtration barrier.	American journal of physiology. Renal physiology	2009	51
+kidney+or+urine	19224847	7422	Feldman DR	Phase I trial of bevacizumab plus escalated doses of sunitinib in patients with metastatic renal cell carcinoma.	Journal of clinical oncology 	2009	70
+kidney+or+urine	19451442	7422	Escudier B	Sorafenib for treatment of renal cell carcinoma: Final efficacy and safety results of the phase III treatment approaches in renal cancer global evaluation trial.	Journal of clinical oncology 	2009	216
+kidney+or+urine	19581909	7422	Chen HX	Adverse effects of anticancer agents that target the VEGF pathway.	Nature reviews. Clinical oncology	2009	90
+kidney+or+urine	20156114	7422	Ranpura V	Risk of cardiac ischemia and arterial thromboembolic events with the angiogenesis inhibitor bevacizumab in cancer patients: a meta-analysis of randomized controlled trials.	Acta oncologica	2010	43
+kidney+or+urine	20501804	7422	Hammers HJ	Reversible epithelial to mesenchymal transition and acquired resistance to sunitinib in patients with renal cell carcinoma: evidence from a xenograft study.	Molecular cancer therapeutics	2010	49
+kidney+or+urine	21074201	7422	Choueiri TK	The impact of cytoreductive nephrectomy on survival of patients with metastatic renal cell carcinoma receiving vascular endothelial growth factor targeted therapy.	The Journal of urology	2011	48
+kidney+or+urine	21527770	7422	Rini BI	Hypertension as a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib.	Journal of the National Cancer Institute	2011	115
+kidney+or+urine	21752957	7422	Woroniecka KI	Transcriptome analysis of human diabetic kidney disease.	Diabetes	2011	93
+kidney+or+urine	22056247	7422	Rini BI	Comparative effectiveness of axitinib versus sorafenib in advanced renal cell carcinoma (AXIS): a randomised phase 3 trial.	Lancet	2011	303
+kidney+or+urine	22608783	7422	Lambrechts D	VEGF pathway genetic variants as biomarkers of treatment outcome with bevacizumab: an analysis of data from the AViTA and AVOREN randomised trials.	The Lancet. Oncology	2012	44
+kidney+or+urine	23312463	7422	Heng DY	External validation and comparison with other models of the International Metastatic Renal-Cell Carcinoma Database Consortium prognostic model: a population-based study.	The Lancet. Oncology	2013	71
+kidney+or+urine	24135488	7422	Buczek M	Resistance to tyrosine kinase inhibitors in clear cell renal cell carcinoma: from the patient's bed to molecular mechanisms.	Biochimica et biophysica acta	2014	24
+kidney+or+urine	24841777	7422	Albiges L	A systematic review of sequencing and combinations of systemic therapy in metastatic renal cancer.	European urology	2015	22
+kidney+or+urine	25452452	7422	Motzer RJ	Nivolumab for Metastatic Renal Cell Carcinoma: Results of a Randomized Phase II Trial.	Journal of clinical oncology 	2015	120
+rat+or+mouse	7673356	7422	Roberts WG	Increased microvascular permeability and endothelial fenestration induced by vascular endothelial growth factor.	Journal of cell science	1995	170
+rat+or+mouse	7683111	7422	Kim KJ	Inhibition of vascular endothelial growth factor-induced angiogenesis suppresses tumour growth in vivo.	Nature	1993	547
+rat+or+mouse	7759509	7422	Frank S	Regulation of vascular endothelial growth factor expression in cultured keratinocytes. Implications for normal and impaired wound healing.	The Journal of biological chemistry	1995	119
+rat+or+mouse	9377574	7422	Presta LG	Humanization of an anti-vascular endothelial growth factor monoclonal antibody for the therapy of solid tumors and other disorders.	Cancer research	1997	287
+rat+or+mouse	9916127	7422	Benjamin LE	Selective ablation of immature blood vessels in established human tumors follows vascular endothelial growth factor withdrawal.	The Journal of clinical investigation	1999	225
+rat+or+mouse	10406801	7422	Asahara T	VEGF contributes to postnatal neovascularization by mobilizing bone marrow-derived endothelial progenitor cells.	The EMBO journal	1999	299
+rat+or+mouse	10655109	7422	Zhang M	Maspin is an angiogenesis inhibitor.	Nature medicine	2000	95
+rat+or+mouse	10662790	7422	Yang TY	Transgenic expression of the chemokine receptor encoded by human herpesvirus 8 induces an angioproliferative disease resembling Kaposi's sarcoma.	The Journal of experimental medicine	2000	94
+rat+or+mouse	11005565	7422	Rubenstein JL	Anti-VEGF antibody treatment of glioblastoma prolongs survival but results in increased vascular cooption.	Neoplasia	2000	137
+rat+or+mouse	11549582	7422	Skobe M	Concurrent induction of lymphangiogenesis, angiogenesis, and macrophage recruitment by vascular endothelial growth factor-C in melanoma.	The American journal of pathology	2001	99
+rat+or+mouse	12177445	7422	Holash J	VEGF-Trap: a VEGF blocker with potent antitumor effects.	Proceedings of the National Academy of Sciences of the United States of America	2002	331
+rat+or+mouse	12600822	7422	Tuder RM	Oxidative stress and apoptosis interact and cause emphysema due to vascular endothelial growth factor receptor blockade.	American journal of respiratory cell and molecular biology	2003	106
+rat+or+mouse	14993122	7422	Rehman J	Secretion of angiogenic and antiapoptotic factors by human adipose stromal cells.	Circulation	2004	362
+rat+or+mouse	15161630	7422	Galiano RD	Topical vascular endothelial growth factor accelerates diabetic wound healing through increased angiogenesis and by mobilizing and recruiting bone marrow-derived cells.	The American journal of pathology	2004	136
+rat+or+mouse	15351965	7422	Storkebaum E	VEGF: once regarded as a specific angiogenic factor, now implicated in neuroprotection.	BioEssays 	2004	93
+rat+or+mouse	16172288	7422	Khurana R	Role of angiogenesis in cardiovascular disease: a critical appraisal.	Circulation	2005	79
+rat+or+mouse	16322226	7422	Mironchik Y	Twist overexpression induces in vivo angiogenesis and correlates with chromosomal instability in breast cancer.	Cancer research	2005	84
+rat+or+mouse	16397235	7422	LaMontagne K	Antagonism of sphingosine-1-phosphate receptors by FTY720 inhibits angiogenesis and tumor vascularization.	Cancer research	2006	74
+rat+or+mouse	16490250	7422	Leach JK	Coating of VEGF-releasing scaffolds with bioactive glass for angiogenesis and bone regeneration.	Biomaterials	2006	67
+rat+or+mouse	16571143	7422	Demedts IK	Role of apoptosis in the pathogenesis of COPD and pulmonary emphysema.	Respiratory research	2006	101
+rat+or+mouse	16880208	7422	Coppé JP	Secretion of vascular endothelial growth factor by primary human fibroblasts at senescence.	The Journal of biological chemistry	2006	104
+rat+or+mouse	16912155	7422	Bao S	Stem cell-like glioma cells promote tumor angiogenesis through vascular endothelial growth factor.	Cancer research	2006	351
+rat+or+mouse	17533168	7422	Rigau V	Angiogenesis is associated with blood-brain barrier permeability in temporal lobe epilepsy.	Brain 	2007	69
+rat+or+mouse	17591953	7422	Nishijima K	Vascular endothelial growth factor-A is a survival factor for retinal neurons and a critical neuroprotectant during the adaptive response to ischemic injury.	The American journal of pathology	2007	170
+rat+or+mouse	17631557	7422	Nagengast WB	In vivo VEGF imaging with radiolabeled bevacizumab in a human ovarian tumor xenograft.	Journal of nuclear medicine 	2007	63
+rat+or+mouse	17636120	7422	Sayed N	Desensitization of soluble guanylyl cyclase, the NO receptor, by S-nitrosylation.	Proceedings of the National Academy of Sciences of the United States of America	2007	68
+rat+or+mouse	18000042	7422	Rudge JS	VEGF Trap complex formation measures production rates of VEGF, providing a biomarker for predicting efficacious angiogenic blockade.	Proceedings of the National Academy of Sciences of the United States of America	2007	66
+rat+or+mouse	18349829	7422	Varey AH	VEGF 165 b, an antiangiogenic VEGF-A isoform, binds and inhibits bevacizumab treatment in experimental colorectal carcinoma: balance of pro- and antiangiogenic VEGF-A isoforms has implications for therapy.	British journal of cancer	2008	74
+rat+or+mouse	18608994	7422	Mac Gabhann F	Systems biology of vascular endothelial growth factors.	Microcirculation	2008	52
+rat+or+mouse	19305413	7422	Reynolds AR	Stimulation of tumor growth and angiogenesis by low concentrations of RGD-mimetic integrin inhibitors.	Nature medicine	2009	111
+rat+or+mouse	19666581	7422	Thangarajah H	The molecular basis for impaired hypoxia-induced VEGF expression in diabetic tissues.	Proceedings of the National Academy of Sciences of the United States of America	2009	73
+rat+or+mouse	19805054	7422	Yang F	Genetic engineering of human stem cells for enhanced angiogenesis using biodegradable polymeric nanoparticles.	Proceedings of the National Academy of Sciences of the United States of America	2010	68
+rat+or+mouse	20501804	7422	Hammers HJ	Reversible epithelial to mesenchymal transition and acquired resistance to sunitinib in patients with renal cell carcinoma: evidence from a xenograft study.	Molecular cancer therapeutics	2010	49
+rat+or+mouse	20811159	7422	Bird AC	Therapeutic targets in age-related macular disease.	The Journal of clinical investigation	2010	58
+rat+or+mouse	21732485	7422	Horie N	Transplanted stem cell-secreted vascular endothelial growth factor effects poststroke recovery, inflammation, and vascular repair.	Stem cells	2011	61
+rat+or+mouse	22222630	7422	Pastuskovas CV	Effects of anti-VEGF on pharmacokinetics, biodistribution, and tumor penetration of trastuzumab in a preclinical breast cancer model.	Molecular cancer therapeutics	2012	33
+rat+or+mouse	22229128	7422	Zhang Y	Positron Emission Tomography and Near-Infrared Fluorescence Imaging of Vascular Endothelial Growth Factor with Dual-Labeled Bevacizumab.	American journal of nuclear medicine and molecular imaging	2012	39
+rat+or+mouse	22399811	7422	dela Paz NG	Role of shear-stress-induced VEGF expression in endothelial cell survival.	Journal of cell science	2012	37
+rat+or+mouse	22495829	7422	Oki K	Human-induced pluripotent stem cells form functional neurons and improve recovery after grafting in stroke-damaged brain.	Stem cells	2012	56
+rat+or+mouse	22498007	7422	McIntyre A	Carbonic anhydrase IX promotes tumor growth and necrosis in vivo and inhibition enhances anti-VEGF therapy.	Clinical cancer research 	2012	44
+rat+or+mouse	23108136	7422	Terme M	VEGFA-VEGFR pathway blockade inhibits tumor-induced regulatory T-cell proliferation in colorectal cancer.	Cancer research	2013	61
+rat+or+mouse	23283490	7422	Shin L	Human mesenchymal stem cell grafts enhance normal and impaired wound healing by recruiting existing endogenous tissue stem/progenitor cells.	Stem cells translational medicine	2013	26
+rat+or+mouse	23358650	7422	Tabernero J	First-in-humans trial of an RNA interference therapeutic targeting VEGF and KSP in cancer patients with liver involvement.	Cancer discovery	2013	116
+rat+or+mouse	23512266	7422	Soda Y	Mechanisms of neovascularization and resistance to anti-angiogenic therapies in glioblastoma multiforme.	Journal of molecular medicine	2013	35
+rat+or+mouse	23585288	7422	Maruotti J	A simple and scalable process for the differentiation of retinal pigment epithelium from human pluripotent stem cells.	Stem cells translational medicine	2013	26
+rat+or+mouse	24013197	7422	Zangi L	Modified mRNA directs the fate of heart progenitor cells and induces vascular regeneration after myocardial infarction.	Nature biotechnology	2013	70
+rat+or+mouse	24097868	7422	Kienast Y	Ang-2-VEGF-A CrossMab, a novel bispecific human IgG1 antibody blocking VEGF-A and Ang-2 functions simultaneously, mediates potent antitumor, antiangiogenic, and antimetastatic efficacy.	Clinical cancer research 	2013	34
+rat+or+mouse	24949972	7422	Eswarappa SM	Programmed translational readthrough generates antiangiogenic VEGF-Ax.	Cell	2014	40
+rat+or+mouse	25117977	7422	Baker GJ	Mechanisms of glioma formation: iterative perivascular glioma growth and invasion leads to tumor progression, VEGF-independent vascularization, and resistance to antiangiogenic therapy.	Neoplasia	2014	26
+rat+or+mouse	25402324	7422	Hiroshima Y	Efficacy of tumor-targeting Salmonella typhimurium A1-R in combination with anti-angiogenesis therapy on a pancreatic cancer patient-derived orthotopic xenograft (PDOX) and cell line mouse models.	Oncotarget	2014	41
+muscle+or+bone+or+musculoskeletal	1711045	7422	Tischer E	The human gene for vascular endothelial growth factor. Multiple protein forms are encoded through alternative exon splicing.	The Journal of biological chemistry	1991	285
+muscle+or+bone+or+musculoskeletal	7673356	7422	Roberts WG	Increased microvascular permeability and endothelial fenestration induced by vascular endothelial growth factor.	Journal of cell science	1995	170
+muscle+or+bone+or+musculoskeletal	9012841	7422	Möhle R	Constitutive production and thrombin-induced release of vascular endothelial growth factor by human megakaryocytes and platelets.	Proceedings of the National Academy of Sciences of the United States of America	1997	110
+muscle+or+bone+or+musculoskeletal	10406801	7422	Asahara T	VEGF contributes to postnatal neovascularization by mobilizing bone marrow-derived endothelial progenitor cells.	The EMBO journal	1999	299
+muscle+or+bone+or+musculoskeletal	12177445	7422	Holash J	VEGF-Trap: a VEGF blocker with potent antitumor effects.	Proceedings of the National Academy of Sciences of the United States of America	2002	331
+muscle+or+bone+or+musculoskeletal	14557356	7422	Britten MB	Infarct remodeling after intracoronary progenitor cell treatment in patients with acute myocardial infarction (TOPCARE-AMI): mechanistic insights from serial contrast-enhanced magnetic resonance imaging.	Circulation	2003	84
+muscle+or+bone+or+musculoskeletal	15161630	7422	Galiano RD	Topical vascular endothelial growth factor accelerates diabetic wound healing through increased angiogenesis and by mobilizing and recruiting bone marrow-derived cells.	The American journal of pathology	2004	136
+muscle+or+bone+or+musculoskeletal	15585754	7422	Hicklin DJ	Role of the vascular endothelial growth factor pathway in tumor growth and angiogenesis.	Journal of clinical oncology 	2005	526
+muscle+or+bone+or+musculoskeletal	16490250	7422	Leach JK	Coating of VEGF-releasing scaffolds with bioactive glass for angiogenesis and bone regeneration.	Biomaterials	2006	67
+muscle+or+bone+or+musculoskeletal	17636120	7422	Sayed N	Desensitization of soluble guanylyl cyclase, the NO receptor, by S-nitrosylation.	Proceedings of the National Academy of Sciences of the United States of America	2007	68
+muscle+or+bone+or+musculoskeletal	19651823	7422	Alsousou J	The biology of platelet-rich plasma and its application in trauma and orthopaedic surgery: a review of the literature.	The Journal of bone and joint surgery. British volume	2009	77
+muscle+or+bone+or+musculoskeletal	19805054	7422	Yang F	Genetic engineering of human stem cells for enhanced angiogenesis using biodegradable polymeric nanoparticles.	Proceedings of the National Academy of Sciences of the United States of America	2010	68
+muscle+or+bone+or+musculoskeletal	21092406	7422	Crespo-Diaz R	Platelet lysate consisting of a natural repair proteome supports human mesenchymal stem cell proliferation and chromosomal stability.	Cell transplantation	2011	44
+muscle+or+bone+or+musculoskeletal	22264790	7422	Van der Veldt AA	Rapid decrease in delivery of chemotherapy to tumors after anti-VEGF therapy: implications for scheduling of anti-angiogenic drugs.	Cancer cell	2012	87
+muscle+or+bone+or+musculoskeletal	22555112	7422	Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group.	Ranibizumab and bevacizumab for treatment of neovascular age-related macular degeneration: two-year results.	Ophthalmology	2012	294
+muscle+or+bone+or+musculoskeletal	22645052	7422	Nathan P	Phase I trial of combretastatin A4 phosphate (CA4P) in combination with bevacizumab in patients with advanced cancer.	Clinical cancer research 	2012	41
+muscle+or+bone+or+musculoskeletal	22963562	7422	Moccia F	Store-dependent Ca(2+) entry in endothelial progenitor cells as a perspective tool to enhance cell-based therapy and adverse tumour vascularization.	Current medicinal chemistry	2012	30
+muscle+or+bone+or+musculoskeletal	23143192	7422	Plate KH	Tumor angiogenesis and anti-angiogenic therapy in malignant gliomas revisited.	Acta neuropathologica	2012	35
+muscle+or+bone+or+musculoskeletal	23642377	7422	Jaffe GJ	Macular morphology and visual acuity in the comparison of age-related macular degeneration treatments trials.	Ophthalmology	2013	26
+muscle+or+bone+or+musculoskeletal	24013197	7422	Zangi L	Modified mRNA directs the fate of heart progenitor cells and induces vascular regeneration after myocardial infarction.	Nature biotechnology	2013	70
+muscle+or+bone+or+musculoskeletal	24030704	7422	Smith NR	Tumor stromal architecture can define the intrinsic tumor response to VEGF-targeted therapy.	Clinical cancer research 	2013	27
+muscle+or+bone+or+musculoskeletal	24532337	7422	Dispenzieri A	POEMS syndrome: 2014 update on diagnosis, risk-stratification, and management.	American journal of hematology	2014	26
+pathology	7683111	7422	Kim KJ	Inhibition of vascular endothelial growth factor-induced angiogenesis suppresses tumour growth in vivo.	Nature	1993	547
+pathology	9707121	7422	Flore O	Transformation of primary human endothelial cells by Kaposi's sarcoma-associated herpesvirus.	Nature	1998	109
+pathology	9916127	7422	Benjamin LE	Selective ablation of immature blood vessels in established human tumors follows vascular endothelial growth factor withdrawal.	The Journal of clinical investigation	1999	225
+pathology	10662790	7422	Yang TY	Transgenic expression of the chemokine receptor encoded by human herpesvirus 8 induces an angioproliferative disease resembling Kaposi's sarcoma.	The Journal of experimental medicine	2000	94
+pathology	11005565	7422	Rubenstein JL	Anti-VEGF antibody treatment of glioblastoma prolongs survival but results in increased vascular cooption.	Neoplasia	2000	137
+pathology	11549582	7422	Skobe M	Concurrent induction of lymphangiogenesis, angiogenesis, and macrophage recruitment by vascular endothelial growth factor-C in melanoma.	The American journal of pathology	2001	99
+pathology	12600822	7422	Tuder RM	Oxidative stress and apoptosis interact and cause emphysema due to vascular endothelial growth factor receptor blockade.	American journal of respiratory cell and molecular biology	2003	106
+pathology	12890841	7422	Yang JC	A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer.	The New England journal of medicine	2003	446
+pathology	14517187	7422	Morgan B	Dynamic contrast-enhanced magnetic resonance imaging as a biomarker for the pharmacological response of PTK787/ZK 222584, an inhibitor of the vascular endothelial growth factor receptor tyrosine kinases, in patients with advanced colorectal cancer and liver metastases: results from two phase I studies.	Journal of clinical oncology 	2003	102
+pathology	14745444	7422	Willett CG	Direct evidence that the VEGF-specific antibody bevacizumab has antivascular effects in human rectal cancer.	Nature medicine	2004	378
+pathology	15161630	7422	Galiano RD	Topical vascular endothelial growth factor accelerates diabetic wound healing through increased angiogenesis and by mobilizing and recruiting bone marrow-derived cells.	The American journal of pathology	2004	136
+pathology	15175435	7422	Hurwitz H	Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer.	The New England journal of medicine	2004	1840
+pathology	15351965	7422	Storkebaum E	VEGF: once regarded as a specific angiogenic factor, now implicated in neuroprotection.	BioEssays 	2004	93
+pathology	15908660	7422	Hurwitz HI	Bevacizumab in combination with fluorouracil and leucovorin: an active regimen for first-line metastatic colorectal cancer.	Journal of clinical oncology 	2005	115
+pathology	16172288	7422	Khurana R	Role of angiogenesis in cardiovascular disease: a critical appraisal.	Circulation	2005	79
+pathology	16193288	7422	Perrin RM	Diabetic retinopathy is associated with a switch in splicing from anti- to pro-angiogenic isoforms of vascular endothelial growth factor.	Diabetologia	2005	70
+pathology	16258101	7422	Kindler HL	Phase II trial of bevacizumab plus gemcitabine in patients with advanced pancreatic cancer.	Journal of clinical oncology 	2005	105
+pathology	16322226	7422	Mironchik Y	Twist overexpression induces in vivo angiogenesis and correlates with chromosomal instability in breast cancer.	Cancer research	2005	84
+pathology	16376330	7422	Folkman J	Antiangiogenesis in cancer therapy--endostatin and its mechanisms of action.	Experimental cell research	2006	116
+pathology	16490250	7422	Leach JK	Coating of VEGF-releasing scaffolds with bioactive glass for angiogenesis and bone regeneration.	Biomaterials	2006	67
+pathology	16571143	7422	Demedts IK	Role of apoptosis in the pathogenesis of COPD and pulmonary emphysema.	Respiratory research	2006	101
+pathology	16622265	7422	Zhu AX	Phase II study of gemcitabine and oxaliplatin in combination with bevacizumab in patients with advanced hepatocellular carcinoma.	Journal of clinical oncology 	2006	73
+pathology	16828580	7422	Borzychowski AM	Inflammation and pre-eclampsia.	Seminars in fetal and neonatal medicine	2006	89
+pathology	16880208	7422	Coppé JP	Secretion of vascular endothelial growth factor by primary human fibroblasts at senescence.	The Journal of biological chemistry	2006	104
+pathology	16912155	7422	Bao S	Stem cell-like glioma cells promote tumor angiogenesis through vascular endothelial growth factor.	Cancer research	2006	351
+pathology	17046701	7422	Nguyen QD	Vascular endothelial growth factor is a critical stimulus for diabetic macular edema.	American journal of ophthalmology	2006	69
+pathology	17236958	7422	Gonzalez J	Effect of bevacizumab on radiation necrosis of the brain.	International journal of radiation oncology, biology, physics	2007	64
+pathology	17475821	7422	Lindenmeyer MT	Interstitial vascular rarefaction and reduced VEGF-A expression in human diabetic nephropathy.	Journal of the American Society of Nephrology 	2007	69
+pathology	17533168	7422	Rigau V	Angiogenesis is associated with blood-brain barrier permeability in temporal lobe epilepsy.	Brain 	2007	69
+pathology	17559806	7422	Liang Z	CXCR4/CXCL12 axis promotes VEGF-mediated tumor angiogenesis through Akt signaling pathway.	Biochemical and biophysical research communications	2007	69
+pathology	17591953	7422	Nishijima K	Vascular endothelial growth factor-A is a survival factor for retinal neurons and a critical neuroprotectant during the adaptive response to ischemic injury.	The American journal of pathology	2007	170
+pathology	17634482	7422	Drevs J	Phase I clinical study of AZD2171, an oral vascular endothelial growth factor signaling inhibitor, in patients with advanced solid tumors.	Journal of clinical oncology 	2007	79
+pathology	17908997	7422	Rich JN	Cancer stem cells in radiation resistance.	Cancer research	2007	113
+pathology	17909199	7422	Herbst RS	Phase II study of efficacy and safety of bevacizumab in combination with chemotherapy or erlotinib compared with chemotherapy alone for treatment of recurrent or refractory non small-cell lung cancer.	Journal of clinical oncology 	2007	90
+pathology	17947719	7422	Vredenburgh JJ	Bevacizumab plus irinotecan in recurrent glioblastoma multiforme.	Journal of clinical oncology 	2007	325
+pathology	18000042	7422	Rudge JS	VEGF Trap complex formation measures production rates of VEGF, providing a biomarker for predicting efficacious angiogenic blockade.	Proceedings of the National Academy of Sciences of the United States of America	2007	66
+pathology	18006827	7422	Xia C	Reactive oxygen species regulate angiogenesis and tumor growth through vascular endothelial growth factor.	Cancer research	2007	118
+pathology	18160686	7422	Miller K	Paclitaxel plus bevacizumab versus paclitaxel alone for metastatic breast cancer.	The New England journal of medicine	2007	637
+pathology	18202416	7422	Glade Bender JL	Phase I trial and pharmacokinetic study of bevacizumab in pediatric patients with refractory solid tumors: a Children's Oncology Group Study.	Journal of clinical oncology 	2008	58
+pathology	18235126	7422	Socinski MA	Multicenter, phase II trial of sunitinib in previously treated, advanced non-small-cell lung cancer.	Journal of clinical oncology 	2008	81
+pathology	18263769	7422	Ramalingam S	Systemic chemotherapy for advanced non-small cell lung cancer: recent advances and future directions.	The oncologist	2008	73
+pathology	18316689	7422	Norden AD	Bevacizumab for recurrent malignant gliomas: efficacy, toxicity, and patterns of recurrence.	Neurology	2008	230
+pathology	18349829	7422	Varey AH	VEGF 165 b, an antiangiogenic VEGF-A isoform, binds and inhibits bevacizumab treatment in experimental colorectal carcinoma: balance of pro- and antiangiogenic VEGF-A isoforms has implications for therapy.	British journal of cancer	2008	74
+pathology	18349830	7422	Maeda S	CD133 expression is correlated with lymph node metastasis and vascular endothelial growth factor-C expression in pancreatic cancer.	British journal of cancer	2008	54
+pathology	18362932	7422	Campochiaro PA	Ranibizumab for macular edema due to retinal vein occlusions: implication of VEGF as a critical stimulator.	Molecular therapy 	2008	61
+pathology	18467655	7422	Pollard JW	Macrophages define the invasive microenvironment in breast cancer.	Journal of leukocyte biology	2008	128
+pathology	18565886	7422	Siegel AB	Phase II trial evaluating the clinical and biologic effects of bevacizumab in unresectable hepatocellular carcinoma.	Journal of clinical oncology 	2008	98
+pathology	18824714	7422	Schneider BP	Association of vascular endothelial growth factor and vascular endothelial growth factor receptor-2 genetic polymorphisms with outcome in a trial of paclitaxel compared with paclitaxel plus bevacizumab in advanced breast cancer: ECOG 2100.	Journal of clinical oncology 	2008	165
+pathology	18842611	7422	Scartozzi M	Arterial hypertension correlates with clinical outcome in colorectal cancer patients treated with first-line bevacizumab.	Annals of oncology 	2009	75
+pathology	18854571	7422	Grothey A	Bevacizumab beyond first progression is associated with prolonged overall survival in metastatic colorectal cancer: results from a large observational cohort study (BRiTE).	Journal of clinical oncology 	2008	150
+pathology	19074844	7422	Ma J	Combination of antiangiogenesis with chemotherapy for more effective cancer treatment.	Molecular cancer therapeutics	2008	79
+pathology	19249675	7422	Loges S	Silencing or fueling metastasis with VEGF inhibitors: antiangiogenesis revisited.	Cancer cell	2009	112
+pathology	19305413	7422	Reynolds AR	Stimulation of tumor growth and angiogenesis by low concentrations of RGD-mimetic integrin inhibitors.	Nature medicine	2009	111
+pathology	19332770	7422	Quant EC	Role of a second chemotherapy in recurrent malignant glioma patients who progress on bevacizumab.	Neuro-oncology	2009	48
+pathology	19549711	7422	Linderholm BK	Significantly higher levels of vascular endothelial growth factor (VEGF) and shorter survival times for patients with primary operable triple-negative breast cancer.	Annals of oncology 	2009	48
+pathology	19549889	7422	Sorensen AG	A "vascular normalization index" as potential mechanistic biomarker to predict survival after a single dose of cediranib in recurrent glioblastoma patients.	Cancer research	2009	108
+pathology	19666581	7422	Thangarajah H	The molecular basis for impaired hypoxia-induced VEGF expression in diabetic tissues.	Proceedings of the National Academy of Sciences of the United States of America	2009	73
+pathology	19671869	7422	Ebos JM	Tumor and host-mediated pathways of resistance and disease progression in response to antiangiogenic therapy.	Clinical cancer research 	2009	69
+pathology	19805054	7422	Yang F	Genetic engineering of human stem cells for enhanced angiogenesis using biodegradable polymeric nanoparticles.	Proceedings of the National Academy of Sciences of the United States of America	2010	68
+pathology	19854291	7422	Laude A	Polypoidal choroidal vasculopathy and neovascular age-related macular degeneration: same or different disease?	Progress in retinal and eye research	2010	46
+pathology	19901561	7422	Bayet-Robert M	Phase I dose escalation trial of docetaxel plus curcumin in patients with advanced and metastatic breast cancer.	Cancer biology and therapy	2010	46
+pathology	20150572	7422	Reck M	Overall survival with cisplatin-gemcitabine and bevacizumab or placebo as first-line therapy for nonsquamous non-small-cell lung cancer: results from a randomised phase III trial (AVAiL).	Annals of oncology 	2010	129
+pathology	20406897	7422	Gerstner ER	Infiltrative patterns of glioblastoma spread detected via diffusion MRI after treatment with cediranib.	Neuro-oncology	2010	44
+pathology	20501804	7422	Hammers HJ	Reversible epithelial to mesenchymal transition and acquired resistance to sunitinib in patients with renal cell carcinoma: evidence from a xenograft study.	Molecular cancer therapeutics	2010	49
+pathology	20811159	7422	Bird AC	Therapeutic targets in age-related macular disease.	The Journal of clinical investigation	2010	58
+pathology	21167939	7422	Fidler IJ	The role of the organ microenvironment in brain metastasis.	Seminars in cancer biology	2011	63
+pathology	21323540	7422	Mintz-Hittner HA	Efficacy of intravitreal bevacizumab for stage 3+ retinopathy of prematurity.	The New England journal of medicine	2011	124
+pathology	21364524	7422	Ebos JM	Antiangiogenic therapy: impact on invasion, disease progression, and metastasis.	Nature reviews. Clinical oncology	2011	164
+pathology	21527770	7422	Rini BI	Hypertension as a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib.	Journal of the National Cancer Institute	2011	115
+pathology	21529957	7422	Sultan MB	A phase 2/3, multicenter, randomized, double-masked, 2-year trial of pegaptanib sodium for the treatment of diabetic macular edema.	Ophthalmology	2011	38
+pathology	21546089	7422	Do DV	The DA VINCI Study: phase 2 primary results of VEGF Trap-Eye in patients with diabetic macular edema.	Ophthalmology	2011	55
+pathology	21565214	7422	Tugues S	Vascular endothelial growth factors and receptors: anti-angiogenic therapy in the treatment of cancer.	Molecular aspects of medicine	2011	49
+pathology	21593862	7422	Carmeliet P	Molecular mechanisms and clinical applications of angiogenesis.	Nature	2011	810
+pathology	21680800	7422	Battinelli EM	Release of angiogenesis regulatory proteins from platelet alpha granules: modulation of physiologic and pathologic angiogenesis.	Blood	2011	57
+pathology	21708378	7422	Manjunath V	Analysis of choroidal thickness in age-related macular degeneration using spectral-domain optical coherence tomography.	American journal of ophthalmology	2011	36
+pathology	21711246	7422	Koch S	Signal transduction by vascular endothelial growth factor receptors.	The Biochemical journal	2011	189
+pathology	21752957	7422	Woroniecka KI	Transcriptome analysis of human diabetic kidney disease.	Diabetes	2011	93
+pathology	22084445	7422	Hirschhaeuser F	Lactate: a metabolic key player in cancer.	Cancer research	2011	125
+pathology	22222630	7422	Pastuskovas CV	Effects of anti-VEGF on pharmacokinetics, biodistribution, and tumor penetration of trastuzumab in a preclinical breast cancer model.	Molecular cancer therapeutics	2012	33
+pathology	22495829	7422	Oki K	Human-induced pluripotent stem cells form functional neurons and improve recovery after grafting in stroke-damaged brain.	Stem cells	2012	56
+pathology	22588059	7422	Rapisarda A	Role of the VEGF/VEGFR axis in cancer biology and therapy.	Advances in cancer research	2012	37
+pathology	22767667	7422	Rosen LS	A phase I first-in-human study of TRC105 (Anti-Endoglin Antibody) in patients with advanced cancer.	Clinical cancer research 	2012	57
+pathology	22963562	7422	Moccia F	Store-dependent Ca(2+) entry in endothelial progenitor cells as a perspective tool to enhance cell-based therapy and adverse tumour vascularization.	Current medicinal chemistry	2012	30
+pathology	22965961	7422	Schmoll HJ	Cediranib with mFOLFOX6 versus bevacizumab with mFOLFOX6 as first-line treatment for patients with advanced colorectal cancer: a double-blind, randomized phase III study (HORIZON III).	Journal of clinical oncology 	2012	46
+pathology	22965962	7422	Ramlau R	Aflibercept and Docetaxel versus Docetaxel alone after platinum failure in patients with advanced or metastatic non-small-cell lung cancer: a randomized, controlled phase III trial.	Journal of clinical oncology 	2012	33
+pathology	22965965	7422	Hoff PM	Cediranib plus FOLFOX/CAPOX versus placebo plus FOLFOX/CAPOX in patients with previously untreated metastatic colorectal cancer: a randomized, double-blind, phase III study (HORIZON II).	Journal of clinical oncology 	2012	35
+pathology	23121052	7422	Paessler S	Pathogenesis of the viral hemorrhagic fevers.	Annual review of pathology	2013	52
+pathology	23143192	7422	Plate KH	Tumor angiogenesis and anti-angiogenic therapy in malignant gliomas revisited.	Acta neuropathologica	2012	35
+pathology	23177514	7422	Grothey A	Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled, phase 3 trial.	Lancet	2013	340
+pathology	23283490	7422	Shin L	Human mesenchymal stem cell grafts enhance normal and impaired wound healing by recruiting existing endogenous tissue stem/progenitor cells.	Stem cells translational medicine	2013	26
+pathology	23312463	7422	Heng DY	External validation and comparison with other models of the International Metastatic Renal-Cell Carcinoma Database Consortium prognostic model: a population-based study.	The Lancet. Oncology	2013	71
+pathology	23512266	7422	Soda Y	Mechanisms of neovascularization and resistance to anti-angiogenic therapies in glioblastoma multiforme.	Journal of molecular medicine	2013	35
+pathology	23549101	7422	Kumar N	Visual and anatomical outcomes of intravitreal aflibercept in eyes with persistent subfoveal fluid despite previous treatments with ranibizumab in patients with neovascular age-related macular degeneration.	Retina	2013	35
+pathology	23642377	7422	Jaffe GJ	Macular morphology and visual acuity in the comparison of age-related macular degeneration treatments trials.	Ophthalmology	2013	26
+pathology	23664153	7422	Ho VY	Short-term outcomes of aflibercept for neovascular age-related macular degeneration in eyes previously treated with other vascular endothelial growth factor inhibitors.	American journal of ophthalmology	2013	35
+pathology	23908119	7422	Welti J	Recent molecular discoveries in angiogenesis and antiangiogenic therapies in cancer.	The Journal of clinical investigation	2013	102
+pathology	23980090	7422	Llovet JM	Brivanib in patients with advanced hepatocellular carcinoma who were intolerant to sorafenib or for whom sorafenib failed: results from the randomized phase III BRISK-PS study.	Journal of clinical oncology 	2013	93
+pathology	24013197	7422	Zangi L	Modified mRNA directs the fate of heart progenitor cells and induces vascular regeneration after myocardial infarction.	Nature biotechnology	2013	70
+pathology	24030704	7422	Smith NR	Tumor stromal architecture can define the intrinsic tumor response to VEGF-targeted therapy.	Clinical cancer research 	2013	27
+pathology	24347168	7422	Pereira ER	Endoplasmic reticulum (ER) stress and hypoxia response pathways interact to potentiate hypoxia-inducible factor 1 (HIF-1) transcriptional activity on targets like vascular endothelial growth factor (VEGF).	The Journal of biological chemistry	2014	30
+pathology	24532337	7422	Dispenzieri A	POEMS syndrome: 2014 update on diagnosis, risk-stratification, and management.	American journal of hematology	2014	26
+pathology	24673341	7422	Abcouwer SF	Diabetic retinopathy: loss of neuroretinal adaptation to the diabetic metabolic environment.	Annals of the New York Academy of Sciences	2014	24
+pathology	24841777	7422	Albiges L	A systematic review of sequencing and combinations of systemic therapy in metastatic renal cancer.	European urology	2015	22
+pathology	25117977	7422	Baker GJ	Mechanisms of glioma formation: iterative perivascular glioma growth and invasion leads to tumor progression, VEGF-independent vascularization, and resistance to antiangiogenic therapy.	Neoplasia	2014	26
+pathology	25204977	7422	Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications (EDIC) Research Group.	Effect of intensive diabetes therapy on the progression of diabetic retinopathy in patients with type 1 diabetes: 18 years of follow-up in the DCCT/EDIC.	Diabetes	2015	28
+pathology	25337750	7422	Loupakis F	Initial therapy with FOLFOXIRI and bevacizumab for metastatic colorectal cancer.	The New England journal of medicine	2014	83
+pathology	25452452	7422	Motzer RJ	Nivolumab for Metastatic Renal Cell Carcinoma: Results of a Randomized Phase II Trial.	Journal of clinical oncology 	2015	120
+pathology	25542520	7422	Grunwald JE	Growth of geographic atrophy in the comparison of age-related macular degeneration treatments trials.	Ophthalmology	2015	31
+pathology	25700172	7422	McIntyre A	Metabolic and hypoxic adaptation to anti-angiogenic therapy: a target for induced essentiality.	EMBO molecular medicine	2015	25
+pathology	25896459	7422	Ishibazawa A	Optical Coherence Tomography Angiography in Diabetic Retinopathy: A Prospective Pilot Study.	American journal of ophthalmology	2015	50
+pathology	26095784	7422	Zhu AX	Ramucirumab versus placebo as second-line treatment in patients with advanced hepatocellular carcinoma following first-line therapy with sorafenib (REACH): a randomised, double-blind, multicentre, phase 3 trial.	The Lancet. Oncology	2015	42
+pathology	26137590	7422	Premer C	Allogeneic Mesenchymal Stem Cells Restore Endothelial Function in Heart Failure by Stimulating Endothelial Progenitor Cells.	EBioMedicine	2015	20
+pathology	26164826	7422	Kuehlewein L	Optical Coherence Tomography Angiography of Type 1 Neovascularization in Age-Related Macular Degeneration.	American journal of ophthalmology	2015	26
+pathology	26179201	7422	Valle JW	Cediranib or placebo in combination with cisplatin and gemcitabine chemotherapy for patients with advanced biliary tract cancer (ABC-03): a randomised phase 2 trial.	The Lancet. Oncology	2015	20
+pathology	26431823	7422	Rakoczy EP	Gene therapy with recombinant adeno-associated vectors for neovascular age-related macular degeneration: 1 year follow-up of a phase 1 randomised clinical trial.	Lancet	2015	19
+pathology	27156698	7422	Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group.	Five-Year Outcomes with Anti-Vascular Endothelial Growth Factor Treatment of Neovascular Age-Related Macular Degeneration: The Comparison of Age-Related Macular Degeneration Treatments Trials.	Ophthalmology	2016	16
+stem+cells	8837607	7422	Gabrilovich DI	Production of vascular endothelial growth factor by human tumors inhibits the functional maturation of dendritic cells.	Nature medicine	1996	271
+stem+cells	10406801	7422	Asahara T	VEGF contributes to postnatal neovascularization by mobilizing bone marrow-derived endothelial progenitor cells.	The EMBO journal	1999	299
+stem+cells	10662790	7422	Yang TY	Transgenic expression of the chemokine receptor encoded by human herpesvirus 8 induces an angioproliferative disease resembling Kaposi's sarcoma.	The Journal of experimental medicine	2000	94
+stem+cells	14557356	7422	Britten MB	Infarct remodeling after intracoronary progenitor cell treatment in patients with acute myocardial infarction (TOPCARE-AMI): mechanistic insights from serial contrast-enhanced magnetic resonance imaging.	Circulation	2003	84
+stem+cells	14993122	7422	Rehman J	Secretion of angiogenic and antiapoptotic factors by human adipose stromal cells.	Circulation	2004	362
+stem+cells	15161630	7422	Galiano RD	Topical vascular endothelial growth factor accelerates diabetic wound healing through increased angiogenesis and by mobilizing and recruiting bone marrow-derived cells.	The American journal of pathology	2004	136
+stem+cells	16490250	7422	Leach JK	Coating of VEGF-releasing scaffolds with bioactive glass for angiogenesis and bone regeneration.	Biomaterials	2006	67
+stem+cells	16912155	7422	Bao S	Stem cell-like glioma cells promote tumor angiogenesis through vascular endothelial growth factor.	Cancer research	2006	351
+stem+cells	17908997	7422	Rich JN	Cancer stem cells in radiation resistance.	Cancer research	2007	113
+stem+cells	18349830	7422	Maeda S	CD133 expression is correlated with lymph node metastasis and vascular endothelial growth factor-C expression in pancreatic cancer.	British journal of cancer	2008	54
+stem+cells	19805054	7422	Yang F	Genetic engineering of human stem cells for enhanced angiogenesis using biodegradable polymeric nanoparticles.	Proceedings of the National Academy of Sciences of the United States of America	2010	68
+stem+cells	21092406	7422	Crespo-Diaz R	Platelet lysate consisting of a natural repair proteome supports human mesenchymal stem cell proliferation and chromosomal stability.	Cell transplantation	2011	44
+stem+cells	21239704	7422	Stratman AN	VEGF and FGF prime vascular tube morphogenesis and sprouting directed by hematopoietic stem cell cytokines.	Blood	2011	38
+stem+cells	21732485	7422	Horie N	Transplanted stem cell-secreted vascular endothelial growth factor effects poststroke recovery, inflammation, and vascular repair.	Stem cells	2011	61
+stem+cells	22495829	7422	Oki K	Human-induced pluripotent stem cells form functional neurons and improve recovery after grafting in stroke-damaged brain.	Stem cells	2012	56
+stem+cells	22963562	7422	Moccia F	Store-dependent Ca(2+) entry in endothelial progenitor cells as a perspective tool to enhance cell-based therapy and adverse tumour vascularization.	Current medicinal chemistry	2012	30
+stem+cells	23283490	7422	Shin L	Human mesenchymal stem cell grafts enhance normal and impaired wound healing by recruiting existing endogenous tissue stem/progenitor cells.	Stem cells translational medicine	2013	26
+stem+cells	23585288	7422	Maruotti J	A simple and scalable process for the differentiation of retinal pigment epithelium from human pluripotent stem cells.	Stem cells translational medicine	2013	26
+stem+cells	24013197	7422	Zangi L	Modified mRNA directs the fate of heart progenitor cells and induces vascular regeneration after myocardial infarction.	Nature biotechnology	2013	70
+stem+cells	26113213	7422	Nazari H	Stem cell based therapies for age-related macular degeneration: The promises and the challenges.	Progress in retinal and eye research	2015	19
+stem+cells	26137590	7422	Premer C	Allogeneic Mesenchymal Stem Cells Restore Endothelial Function in Heart Failure by Stimulating Endothelial Progenitor Cells.	EBioMedicine	2015	20
+stem+cells	26167629	7422	Sampaziotis F	Cholangiocytes derived from human induced pluripotent stem cells for disease modeling and drug validation.	Nature biotechnology	2015	24
+toxicology+or+toxic+or+toxin	10688871	7422	Kerbel RS	Tumor angiogenesis: past, present and the near future.	Carcinogenesis	2000	118
+toxicology+or+toxic+or+toxin	12890841	7422	Yang JC	A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer.	The New England journal of medicine	2003	446
+toxicology+or+toxic+or+toxin	16376330	7422	Folkman J	Antiangiogenesis in cancer therapy--endostatin and its mechanisms of action.	Experimental cell research	2006	116
+toxicology+or+toxic+or+toxin	17167137	7422	Sandler A	Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer.	The New England journal of medicine	2006	1175
+toxicology+or+toxic+or+toxin	19150949	7422	Izzedine H	Management of hypertension in angiogenesis inhibitor-treated patients.	Annals of oncology 	2009	57
+toxicology+or+toxic+or+toxin	20351338	7422	Maitland ML	Initial assessment, surveillance, and management of blood pressure in patients receiving vascular endothelial growth factor signaling pathway inhibitors.	Journal of the National Cancer Institute	2010	53
+toxicology+or+toxic+or+toxin	21167939	7422	Fidler IJ	The role of the organ microenvironment in brain metastasis.	Seminars in cancer biology	2011	63
+toxicology+or+toxic+or+toxin	22056247	7422	Rini BI	Comparative effectiveness of axitinib versus sorafenib in advanced renal cell carcinoma (AXIS): a randomised phase 3 trial.	Lancet	2011	303
+toxicology+or+toxic+or+toxin	22204725	7422	Perren TJ	A phase 3 trial of bevacizumab in ovarian cancer.	The New England journal of medicine	2011	299
+toxicology+or+toxic+or+toxin	22910841	7422	Agulnik M	An open-label, multicenter, phase II study of bevacizumab for the treatment of angiosarcoma and epithelioid hemangioendotheliomas.	Annals of oncology 	2013	49
+toxicology+or+toxic+or+toxin	23589874	7422	Lin VS	Cell-trappable fluorescent probes for endogenous hydrogen sulfide signaling and imaging H2O2-dependent H2S production.	Proceedings of the National Academy of Sciences of the United States of America	2013	33
+toxicology+or+toxic+or+toxin	24552320	7422	Tewari KS	Improved survival with bevacizumab in advanced cervical cancer.	The New England journal of medicine	2014	139
+toxicology+or+toxic+or+toxin	26179201	7422	Valle JW	Cediranib or placebo in combination with cisplatin and gemcitabine chemotherapy for patients with advanced biliary tract cancer (ABC-03): a randomised phase 2 trial.	The Lancet. Oncology	2015	20
+toxicology+or+toxic+or+toxin	26321262	7422	Chua MLK	Nasopharyngeal carcinoma.	Lancet	2016	42

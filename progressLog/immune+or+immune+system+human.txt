@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17224248
+Calculating PPS [query=immune+or+immune+system+human]..count_Big_T=1176419....[total citaion]=3208902...Finished!---> Execucution:13 seconds
+Extracting PMIDs [query=immune+or+immune+system+human]..PMID#=4189......Finished!---> Execucution:8 seconds

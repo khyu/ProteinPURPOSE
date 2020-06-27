@@ -1,0 +1,585 @@
+cancer	1323840	7157	Kuerbitz SJ	Wild-type p53 is a cell cycle checkpoint determinant following irradiation.	Proceedings of the National Academy of Sciences of the United States of America	1992	317
+cancer	1423635	7157	Hupp TR	Regulation of the specific DNA binding function of p53.	Cell	1992	231
+cancer	1525830	7157	Yin Y	Wild-type p53 restores cell cycle control and inhibits gene amplification in cells with mutant p53 alleles.	Cell	1992	204
+cancer	1533443	7157	Yew PR	Inhibition of p53 transactivation required for transformation by adenovirus early 1B protein.	Nature	1992	177
+cancer	1661671	7157	Huibregtse JM	A cellular protein mediates association of p53 with the E6 oncoprotein of human papillomavirus types 16 or 18.	The EMBO journal	1991	230
+cancer	1672732	7157	Bressac B	Selective G to T mutations of p53 gene in hepatocellular carcinoma from southern Africa.	Nature	1991	191
+cancer	1849234	7157	Hsu IC	Mutational hotspot in the p53 gene in human hepatocellular carcinomas.	Nature	1991	202
+cancer	1905840	7157	Hollstein M	p53 mutations in human cancers.	Science	1991	1290
+cancer	1946433	7157	Brash DE	A role for sunlight in skin cancer: UV-induced p53 mutations in squamous cell carcinoma.	Proceedings of the National Academy of Sciences of the United States of America	1991	251
+cancer	1978757	7157	Malkin D	Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms.	Science	1990	522
+cancer	2046748	7157	Levine AJ	The p53 tumour suppressor gene.	Nature	1991	554
+cancer	2143698	7157	Michalovitz D	Conditional inhibition of transformation and of cell proliferation by a temperature-sensitive mutant of p53.	Cell	1990	217
+cancer	2144057	7157	Baker SJ	Suppression of human colorectal carcinoma cell growth by wild-type p53.	Science	1990	393
+cancer	2175676	7157	Scheffner M	The E6 oncoprotein encoded by human papillomavirus types 16 and 18 promotes the degradation of p53.	Cell	1990	907
+cancer	2233717	7157	Diller L	p53 functions as a cell cycle control protein in osteosarcomas.	Molecular and cellular biology	1990	175
+cancer	2253215	7157	Baker SJ	p53 gene mutations occur in combination with 17p allelic deletions as late events in colorectal tumorigenesis.	Cancer research	1990	157
+cancer	2259385	7157	Srivastava S	Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome.	Nature	1990	174
+cancer	2531845	7157	Nigro JM	Mutations in the p53 gene occur in diverse human tumour types.	Nature	1989	402
+cancer	7937055	7157	Hollstein M	Database of p53 gene somatic mutations in human tumors and cell lines.	Nucleic acids research	1994	185
+cancer	8023157	7157	Cho Y	Crystal structure of a p53 tumor suppressor-DNA complex: understanding tumorigenic mutations.	Science	1994	486
+cancer	8030745	7157	Kim H	Clinical and pathological characteristics of sporadic colorectal carcinomas with DNA replication errors in microsatellite sequences.	The American journal of pathology	1994	124
+cancer	8242748	7157	Lu X	Differential induction of transcriptionally active p53 following UV or ionizing radiation: defects in chromosome instability syndromes?	Cell	1993	138
+cancer	8380895	7157	Huibregtse JM	Cloning and expression of the cDNA for E6-AP, a protein that mediates the interaction of the human papillomavirus E6 oncoprotein with p53.	Molecular and cellular biology	1993	143
+cancer	8423624	7157	Allred DC	Association of p53 protein expression with tumor cell proliferation rate and clinical outcome in node-negative breast cancer.	Journal of the National Cancer Institute	1993	132
+cancer	8832894	7157	Denissenko MF	Preferential formation of benzoapyrene adducts at lung cancer mutational hotspots in P53.	Science	1996	229
+cancer	8994024	7157	Weinstein JN	An information-intensive approach to the molecular pharmacology of cancer.	Science	1997	198
+cancer	9176490	7157	Heise C	ONYX-015, an E1B gene-attenuated adenovirus, causes tumor-specific cytolysis and antitumoral efficacy that can be augmented by standard chemotherapeutic agents.	Nature medicine	1997	127
+cancer	9607760	7157	Storey A	Role of a p53 polymorphism in the development of human papillomavirus-associated cancer.	Nature	1998	122
+cancer	10446993	7157	Chang BD	A senescence-like phenotype distinguishes tumor cells that undergo terminal proliferation arrest after exposure to anticancer agents.	Cancer research	1999	107
+cancer	10549356	7157	Hainaut P	p53 and human cancer: the first ten thousand mutations.	Advances in cancer research	2000	197
+cancer	10623654	7157	Vona G	Isolation by size of epithelial tumor cells : a new method for the immunomorphological and molecular characterization of circulatingtumor cells.	The American journal of pathology	2000	212
+cancer	10713666	7157	Bullock AN	Quantitative analysis of residual folding and DNA binding in mutant p53 core domain: definition of mutant states for rescue in cancer therapy.	Oncogene	2000	94
+cancer	10720328	7157	Fliss MS	Facile detection of mitochondrial DNA mutations in tumors and bodily fluids.	Science	2000	182
+cancer	10728684	7157	Barcellos-Hoff MH	Irradiated mammary gland stroma promotes the expression of tumorigenic potential by unirradiated epithelial cells.	Cancer research	2000	151
+cancer	10766157	7157	Soussi T	p53 Antibodies in the sera of patients with various types of cancer: a review.	Cancer research	2000	117
+cancer	10793107	7157	Gillison ML	Evidence for a causal association between human papillomavirus and a subset of head and neck cancers.	Journal of the National Cancer Institute	2000	547
+cancer	11238924	7157	Gaiddon C	A subset of tumor-derived mutant forms of p53 down-regulate p63 and p73 through a direct interaction with the p53 core domain.	Molecular and cellular biology	2001	107
+cancer	11343904	7157	Ryan KM	Regulation and function of the p53 tumor suppressor protein.	Current opinion in cell biology	2001	127
+cancer	11559745	7157	Chan HM	p300/CBP proteins: HATs for transcriptional bridges and scaffolds.	Journal of cell science	2001	283
+cancer	11830638	7157	Lingle WL	Centrosome amplification drives chromosomal instability in breast tumor development.	Proceedings of the National Academy of Sciences of the United States of America	2002	150
+cancer	11859195	7157	Yu JL	Effect of p53 status on tumor response to antiangiogenic therapy.	Science	2002	86
+cancer	11875500	7157	Bykov VJ	Restoration of the tumor suppressor function to mutant p53 by a low-molecular-weight compound.	Nature medicine	2002	198
+cancer	11900253	7157	Bullock AN	Rescuing the function of mutant p53.	Nature reviews. Cancer	2001	112
+cancer	11902578	7157	Soussi T	Assessing TP53 status in human tumours to evaluate clinical outcome.	Nature reviews. Cancer	2001	128
+cancer	11965534	7157	Mirza A	Human survivin is negatively regulated by wild-type p53 and participates in p53-dependent apoptotic pathway.	Oncogene	2002	130
+cancer	12007217	7157	Olivier M	The IARC TP53 database: new online mutation analysis and recommendations to users.	Human mutation	2002	267
+cancer	12058060	7157	Chen X	Gene expression patterns in human liver cancers.	Molecular biology of the cell	2002	189
+cancer	12077306	7157	Hoh J	The p53MH algorithm and its application in detecting p53-responsive genes.	Proceedings of the National Academy of Sciences of the United States of America	2002	103
+cancer	12241875	7157	Klein CA	Genetic heterogeneity of single disseminated tumour cells in minimal residual cancer.	Lancet	2002	96
+cancer	12379884	7157	Pfeifer GP	Tobacco smoke carcinogens, DNA damage and p53 mutations in smoking-associated cancers.	Oncogene	2002	203
+cancer	12483511	7157	Hanawalt PC	Subpathways of nucleotide excision repair and their regulation.	Oncogene	2002	123
+cancer	12574499	7157	Yu J	PUMA mediates the apoptotic response to p53 in colorectal cancer cells.	Proceedings of the National Academy of Sciences of the United States of America	2003	171
+cancer	12649205	7157	Pihan GA	Centrosome abnormalities and chromosome instability occur together in pre-invasive carcinomas.	Cancer research	2003	102
+cancer	12719720	7157	Oren M	Decision making by p53: life, death and cancer.	Cell death and differentiation	2003	226
+cancer	12821280	7157	Ichihashi M	UV-induced skin damage.	Toxicology	2003	95
+cancer	12826609	7157	Kato S	Understanding the function-structure and function-mutation relationships of p53 tumor suppressor protein by high-resolution missense mutation analysis.	Proceedings of the National Academy of Sciences of the United States of America	2003	156
+cancer	12884918	7157	Katayama H	The Aurora kinases: role in cell transformation and tumorigenesis.	Cancer metastasis reviews	2003	98
+cancer	12941807	7157	Riley RR	Dissection of human papillomavirus E6 and E7 function in transgenic mouse models of cervical carcinogenesis.	Cancer research	2003	97
+cancer	14527293	7157	Moore PS	Kaposi's sarcoma-associated herpesvirus immunoevasion and tumorigenesis: two sides of the same coin?	Annual review of microbiology	2003	79
+cancer	14612504	7157	Massion PP	Significance of p63 amplification and overexpression in lung cancer development and prognosis.	Cancer research	2003	77
+cancer	14639602	7157	Pim D	p53 polymorphic variants at codon 72 exert different effects on cell cycle progression.	International journal of cancer	2004	71
+cancer	15042092	7157	Berns K	A large-scale RNAi screen in human cells identifies new components of the p53 pathway.	Nature	2004	267
+cancer	15054096	7157	Wang S	Doxorubicin induces apoptosis in normal and tumor cells via distinctly different mechanisms. intermediacy of H(2)O(2)- and p53-dependent pathways.	The Journal of biological chemistry	2004	88
+cancer	15095006	7157	Harms K	The common and distinct target genes of the p53 family transcription factors.	Cellular and molecular life sciences 	2004	96
+cancer	15187189	7157	Longworth MS	Pathogenesis of human papillomaviruses in differentiating epithelia.	Microbiology and molecular biology reviews 	2004	153
+cancer	15282313	7157	Zhu W	Rereplication by depletion of geminin is seen regardless of p53 status and activates a G2/M checkpoint.	Molecular and cellular biology	2004	110
+cancer	15351967	7157	Dellaire G	PML nuclear bodies: dynamic sensors of DNA damage and cellular stress.	BioEssays 	2004	117
+cancer	15685439	7157	Ohgaki H	Epidemiology and etiology of gliomas.	Acta neuropathologica	2005	212
+cancer	16131611	7157	Bourdon JC	p53 isoforms can regulate p53 transcriptional activity.	Genes and development	2005	222
+cancer	16141321	7157	Miller LD	An expression signature for p53 status in human breast cancer predicts mutation status, transcriptional effects, and patient survival.	Proceedings of the National Academy of Sciences of the United States of America	2005	509
+cancer	16172461	7157	Russo A	The TP53 colorectal cancer international collaborative study on the prognostic and predictive significance of p53 mutation: influence of tumor site, type of mutation, and adjuvant treatment.	Journal of clinical oncology 	2005	72
+cancer	16413492	7157	Wei CL	A global map of p53 transcription-factor binding sites in the human genome.	Cell	2006	439
+cancer	16467102	7157	Antonia SJ	Combination of p53 cancer vaccine with chemotherapy in patients with extensive stage small cell lung cancer.	Clinical cancer research 	2006	95
+cancer	16489069	7157	Olivier M	The clinical value of somatic TP53 gene mutations in 1,794 patients with breast cancer.	Clinical cancer research 	2006	119
+cancer	16597322	7157	Doorbar J	Molecular biology of human papillomavirus infection and cervical cancer.	Clinical science	2006	181
+cancer	16601753	7157	Murray-Zmijewski F	p53/p63/p73 isoforms: an orchestra of isoforms to harmonise cell differentiation and response to stress.	Cell death and differentiation	2006	154
+cancer	16621243	7157	Sah NK	Structural, functional and therapeutic biology of survivin.	Cancer letters	2006	63
+cancer	16632889	7157	Stark GR	Control of the G2/M transition.	Molecular biotechnology	2006	72
+cancer	16793544	7157	Kitayner M	Structural basis of DNA recognition by p53 tetramers.	Molecular cell	2006	108
+cancer	16824017	7157	Stewart SA	Telomeres: cancer to human aging.	Annual review of cell and developmental biology	2006	91
+cancer	16897746	7157	Bergamaschi A	Distinct patterns of DNA copy number alteration are associated with different clinicopathological features and gene-expression subtypes of breast cancer.	Genes, chromosomes and cancer	2006	161
+cancer	16945824	7157	Houtgraaf JH	A concise review of DNA damage checkpoints and repair in mammalian cells.	Cardiovascular revascularization medicine 	2006	65
+cancer	16951157	7157	Rodriguez J	Chromosomal instability correlates with genome-wide DNA demethylation in human primary colorectal cancers.	Cancer research	2006	82
+cancer	17030796	7157	Feng Z	Acrolein is a major cigarette-related lung cancer agent: Preferential binding at p53 mutational hotspots and inhibition of DNA repair.	Proceedings of the National Academy of Sciences of the United States of America	2006	96
+cancer	17189187	7157	Sykes SM	Acetylation of the p53 DNA-binding domain regulates apoptosis induction.	Molecular cell	2006	234
+cancer	17255760	7157	Kindelberger DW	Intraepithelial carcinoma of the fimbria and pelvic serous carcinoma: Evidence for a causal relationship.	The American journal of surgical pathology	2007	194
+cancer	17311302	7157	Petitjean A	Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database.	Human mutation	2007	457
+cancer	17334395	7157	Deyoung MP	p63 and p73 in human cancer: defining the network.	Oncogene	2007	83
+cancer	17401424	7157	Petitjean A	TP53 mutations in human cancers: functional selection and impact on cancer prognosis and outcomes.	Oncogene	2007	190
+cancer	17401431	7157	Li Y	Are interactions with p63 and p73 involved in mutant p53 gain of oncogenic function?	Oncogene	2007	57
+cancer	17401432	7157	Joerger AC	Structure-function-rescue: the diverse nature of common p53 cancer mutants.	Oncogene	2007	108
+cancer	17417627	7157	Song H	p53 gain-of-function cancer mutants induce genetic instability by inactivating ATM.	Nature cell biology	2007	112
+cancer	17468756	7157	Theodorou V	MMTV insertional mutagenesis identifies genes, gene families and pathways involved in mammary cancer.	Nature genetics	2007	69
+cancer	17504517	7157	Langerød A	TP53 mutation status and gene expression profiles are powerful prognostic markers of breast cancer.	Breast cancer research 	2007	93
+cancer	17517648	7157	Dahl F	Multigene amplification and massively parallel sequencing for cancer mutation discovery.	Proceedings of the National Academy of Sciences of the United States of America	2007	57
+cancer	17804712	7157	Nakahara T	YM155, a novel small-molecule survivin suppressant, induces regression of established human hormone-refractory prostate tumor xenografts.	Cancer research	2007	113
+cancer	17936556	7157	Soussi T	Shaping genetic alterations in human cancer: the p53 mutation paradigm.	Cancer cell	2007	102
+cancer	17942417	7157	Rodier F	Two faces of p53: aging and tumor suppression.	Nucleic acids research	2007	111
+cancer	18024211	7157	Bonnefoi H	Validation of gene signatures that predict the response of breast cancer to neoadjuvant chemotherapy: a substudy of the EORTC 10994/BIG 00-01 clinical trial.	The Lancet. Oncology	2007	60
+cancer	18024870	7157	Tsao MS	Prognostic and predictive importance of p53 and RAS for adjuvant chemotherapy in non small-cell lung cancer.	Journal of clinical oncology 	2007	67
+cancer	18094375	7157	Patocs A	Breast-cancer stromal cells with TP53 mutations and nodal metastases.	The New England journal of medicine	2007	93
+cancer	18094376	7157	Poeta ML	TP53 mutations and survival in squamous-cell carcinoma of the head and neck.	The New England journal of medicine	2007	160
+cancer	18193093	7157	Courtois-Cox S	Many roads lead to oncogene-induced senescence.	Oncogene	2008	106
+cancer	18323444	7157	Halazonetis TD	An oncogene-induced DNA damage model for cancer development.	Science	2008	527
+cancer	18370854	7157	Strimpakos AS	Curcumin: preventive and therapeutic properties in laboratory studies and clinical trials.	Antioxidants and redox signaling	2008	79
+cancer	18394899	7157	Birkenfeld J	Cellular functions of GEF-H1, a microtubule-regulated Rho-GEF: is altered GEF-H1 activity a crucial determinant of disease pathogenesis?	Trends in cell biology	2008	66
+cancer	18431400	7157	Riley T	Transcriptional control of human p53-regulated genes.	Nature reviews. Molecular cell biology	2008	565
+cancer	18454141	7157	Tasdemir E	Regulation of autophagy by cytoplasmic p53.	Nature cell biology	2008	313
+cancer	18495520	7157	Ashkenazi A	Targeting the extrinsic apoptosis pathway in cancer.	Cytokine and growth factor reviews	2008	86
+cancer	18563507	7157	Tang N	Osteosarcoma development and stem cell differentiation.	Clinical orthopaedics and related research	2008	92
+cancer	18650397	7157	Boeckler FM	Targeted rescue of a destabilized mutant of p53 by an in silico screened drug.	Proceedings of the National Academy of Sciences of the United States of America	2008	86
+cancer	18685109	7157	Shlien A	Excessive genomic DNA copy number variation in the Li-Fraumeni cancer predisposition syndrome.	Proceedings of the National Academy of Sciences of the United States of America	2008	51
+cancer	18689542	7157	Zenz T	Monoallelic TP53 inactivation is associated with poor prognosis in chronic lymphocytic leukemia: results from a detailed genetic characterization with long-term follow-up.	Blood	2008	76
+cancer	18757330	7157	Carlson JW	Serous tubal intraepithelial carcinoma: its potential role in primary peritoneal serous carcinoma and serous cancer prevention.	Journal of clinical oncology 	2008	70
+cancer	18840072	7157	Mitra AP	Molecular pathogenesis and diagnostics of bladder cancer.	Annual review of pathology	2009	52
+cancer	18955976	7157	Pietsch EC	The p53 family and programmed cell death.	Oncogene	2008	68
+cancer	19081592	7157	Levine AJ	The common mechanisms of transformation by the small DNA tumor viruses: The inactivation of tumor suppressor gene products: p53.	Virology	2009	59
+cancer	19081593	7157	Howie HL	Papillomavirus E6 proteins.	Virology	2009	77
+cancer	19165225	7157	Whibley C	p53 polymorphisms: cancer implications.	Nature reviews. Cancer	2009	125
+cancer	19188171	7157	Rossi D	The prognostic value of TP53 mutations in chronic lymphocytic leukemia is independent of Del17p13: implications for overall survival and chemorefractoriness.	Clinical cancer research 	2009	48
+cancer	19204208	7157	Gonzalez KD	Beyond Li Fraumeni Syndrome: clinical characteristics of families with p53 germline mutations.	Journal of clinical oncology 	2009	86
+cancer	19225112	7157	Sur S	A panel of isogenic human cancer cells suggests a therapeutic approach for cancers with inactivated p53.	Proceedings of the National Academy of Sciences of the United States of America	2009	108
+cancer	19237188	7157	Boren T	MicroRNAs and their target messenger RNAs associated with ovarian cancer response to chemotherapy.	Gynecologic oncology	2009	49
+cancer	19276448	7157	Rampias T	E6 and e7 gene silencing and transformed phenotype of human papillomavirus 16-positive oropharyngeal cancer cells.	Journal of the National Cancer Institute	2009	62
+cancer	19308457	7157	Pfeifer GP	Mutational spectra of human cancer.	Human genetics	2009	69
+cancer	19349354	7157	Seligson DB	Global levels of histone modifications predict prognosis in different cancers.	The American journal of pathology	2009	109
+cancer	19377293	7157	Maiuri MC	Stimulation of autophagy by the p53 target gene Sestrin2.	Cell cycle	2009	79
+cancer	19562738	7157	Zuckerman V	Tumour suppression by p53: the importance of apoptosis and cellular senescence.	The Journal of pathology	2009	49
+cancer	19626115	7157	Suzuki HI	Modulation of microRNA processing by p53.	Nature	2009	393
+cancer	19657224	7157	Choong ML	Specific activation of the p53 pathway by low dose actinomycin D: a new route to p53 based cyclotherapy.	Cell cycle	2009	51
+cancer	19701195	7157	Fujita K	p53 isoforms Delta133p53 and p53beta are endogenous regulators of replicative cellular senescence.	Nature cell biology	2009	80
+cancer	19776744	7157	Levine AJ	The first 30 years of p53: growing ever more complex.	Nature reviews. Cancer	2009	419
+cancer	19881536	7157	Liu DP	A common gain of function of p53 cancer mutants in inducing genetic instability.	Oncogene	2010	50
+cancer	19887545	7157	Hirai H	Small-molecule inhibition of Wee1 kinase by MK-1775 selectively sensitizes p53-deficient tumor cells to DNA-damaging agents.	Molecular cancer therapeutics	2009	90
+cancer	20005852	7157	Goodarzi H	Revealing global regulatory perturbations across human cancers.	Molecular cell	2009	63
+cancer	20038740	7157	De Angelis A	Anthracycline cardiomyopathy is mediated by depletion of the cardiac stem cell pool and is rescued by restoration of progenitor cell function.	Circulation	2010	62
+cancer	20044243	7157	Maiuri MC	Autophagy regulation by p53.	Current opinion in cell biology	2010	139
+cancer	20066118	7157	Zilfou JT	Tumor suppressive functions of p53.	Cold Spring Harbor perspectives in biology	2009	96
+cancer	20107315	7157	Hirai H	MK-1775, a small molecule Wee1 inhibitor, enhances anti-tumor efficacy of various DNA-damaging agents, including 5-fluorouracil.	Cancer biology and therapy	2010	55
+cancer	20123995	7157	Thompson SL	Proliferation of aneuploid human cells is limited by a p53-dependent mechanism.	The Journal of cell biology	2010	142
+cancer	20179198	7157	Creighton CJ	Molecular profiling uncovers a p53-associated role for microRNA-31 in inhibiting the proliferation of serous ovarian carcinomas and other cancers.	Cancer research	2010	82
+cancer	20182602	7157	Olivier M	TP53 mutations in human cancers: origins, consequences, and clinical use.	Cold Spring Harbor perspectives in biology	2010	236
+cancer	20182618	7157	Oren M	Mutant p53 gain-of-function in cancer.	Cold Spring Harbor perspectives in biology	2010	181
+cancer	20227041	7157	Stambolsky P	Modulation of the vitamin D3 response by cancer-associated mutant p53.	Cancer cell	2010	71
+cancer	20229506	7157	Ahmed AA	Driver mutations in TP53 are ubiquitous in high grade serous carcinoma of the ovary.	The Journal of pathology	2010	149
+cancer	20336134	7157	Sahin E	Linking functional decline of telomeres, mitochondria and stem cells during ageing.	Nature	2010	191
+cancer	20431349	7157	Witkiewicz AK	Loss of stromal caveolin-1 expression predicts poor clinical outcome in triple negative and basal-like breast cancers.	Cancer biology and therapy	2010	57
+cancer	20538793	7157	Lin TT	Telomere dysfunction and fusion during the progression of chronic lymphocytic leukemia: evidence for a telomere crisis.	Blood	2010	42
+cancer	20679336	7157	Beckerman R	Transcriptional regulation by p53.	Cold Spring Harbor perspectives in biology	2010	170
+cancer	20697090	7157	Zenz T	TP53 mutation and survival in chronic lymphocytic leukemia.	Journal of clinical oncology 	2010	91
+cancer	20871609	7157	Swarbrick A	miR-380-5p represses p53 to control cellular survival and is associated with poor outcome in MYCN-amplified neuroblastoma.	Nature medicine	2010	52
+cancer	20937856	7157	Scherz-Shouval R	p53-dependent regulation of autophagy protein LC3 supports cancer cell survival under prolonged starvation.	Proceedings of the National Academy of Sciences of the United States of America	2010	71
+cancer	20952405	7157	Forbes SA	COSMIC: mining complete cancer genomes in the Catalogue of Somatic Mutations in Cancer.	Nucleic acids research	2011	834
+cancer	20974671	7157	Martinez-Garcia E	The MMSET histone methyl transferase switches global histone methylation and alters gene expression in t(4;14) multiple myeloma cells.	Blood	2011	94
+cancer	21205082	7157	Nakahara T	Broad spectrum and potent antitumor activities of YM155, a novel small-molecule survivin suppressant, in a wide variety of human cancer cell lines and xenograft models.	Cancer science	2011	43
+cancer	21205967	7157	Fabbri M	Association of a microRNA/TP53 feedback circuitry with pathogenesis and outcome of B-cell chronic lymphocytic leukemia.	JAMA	2011	72
+cancer	21263025	7157	Muller PA	p53 and its mutants in tumor cell migration and invasion.	The Journal of cell biology	2011	118
+cancer	21315819	7157	Bueno MJ	MicroRNAs and the cell cycle.	Biochimica et biophysica acta	2011	74
+cancer	21331359	7157	Mogi A	TP53 mutations in nonsmall cell lung cancer.	Journal of biomedicine and biotechnology	2011	45
+cancer	21336310	7157	Jiang P	p53 regulates biosynthesis through direct inactivation of glucose-6-phosphate dehydrogenase.	Nature cell biology	2011	128
+cancer	21364938	7157	Enerly E	miRNA-mRNA integrated analysis reveals roles for miRNAs in primary breast tumors.	PloS one	2011	115
+cancer	21389100	7157	Rajeshkumar NV	MK-1775, a potent Wee1 inhibitor, synergizes with gemcitabine to achieve tumor regressions, selectively in p53-deficient pancreatic cancer xenografts.	Clinical cancer research 	2011	63
+cancer	21399611	7157	Freund A	p38MAPK is a novel DNA damage response-independent regulator of the senescence-associated secretory phenotype.	The EMBO journal	2011	158
+cancer	21427767	7157	Levine AJ	The p53 family: guardians of maternal reproduction.	Nature reviews. Molecular cell biology	2011	87
+cancer	21483000	7157	Gonzalez D	Mutational status of the TP53 gene as a predictor of response and survival in patients with chronic lymphocytic leukemia: results from the LRF CLL4 trial.	Journal of clinical oncology 	2011	47
+cancer	21483755	7157	Menendez D	The Toll-like receptor gene family is integrated into human DNA damage and p53 networks.	PLoS genetics	2011	42
+cancer	21519010	7157	Jädersten M	TP53 mutations in low-risk myelodysplastic syndromes with del(5q) predict disease progression.	Journal of clinical oncology 	2011	69
+cancer	21530747	7157	Ullman TA	Intestinal inflammation and cancer.	Gastroenterology	2011	197
+cancer	21601526	7157	Villani A	Biochemical and imaging surveillance in germline TP53 mutation carriers with Li-Fraumeni syndrome: a prospective observational study.	The Lancet. Oncology	2011	46
+cancer	21747090	7157	Hof J	Mutations and deletions of the TP53 gene predict nonresponse to treatment and poor outcome in first relapse of childhood acute lymphoblastic leukemia.	Journal of clinical oncology 	2011	41
+cancer	21764762	7157	Textor S	Human NK cells are alerted to induction of p53 in cancer cells by upregulation of the NKG2D ligands ULBP1 and ULBP2.	Cancer research	2011	39
+cancer	21765642	7157	Suzuki K	Recent advances in p53 research and cancer treatment.	Journal of biomedicine and biotechnology	2011	40
+cancer	21779513	7157	Khoury MP	p53 Isoforms: An Intracellular Microprocessor?	Genes and cancer	2011	44
+cancer	21779517	7157	Rufini A	p73 in Cancer.	Genes and cancer	2011	39
+cancer	21779518	7157	Gudkov AV	Inflammation and p53: A Tale of Two Stresses.	Genes and cancer	2011	47
+cancer	21799033	7157	Bridges KA	MK-1775, a novel Wee1 kinase inhibitor, radiosensitizes p53-defective human tumor cells.	Clinical cancer research 	2011	50
+cancer	21941372	7157	Marcel V	Biological functions of p53 isoforms through evolution: lessons from animal and cellular models.	Cell death and differentiation	2011	65
+cancer	21986946	7157	Mei YP	Small nucleolar RNA 42 acts as an oncogene in lung tumorigenesis.	Oncogene	2012	51
+cancer	22084170	7157	Kreahling JM	MK1775, a selective Wee1 inhibitor, shows single-agent antitumor activity against sarcoma cells.	Molecular cancer therapeutics	2012	39
+cancer	22090360	7157	Skinner HD	TP53 disruptive mutations lead to head and neck cancer treatment failure through inhibition of radiation-induced senescence.	Clinical cancer research 	2012	58
+cancer	22127205	7157	Botcheva K	Distinct p53 genomic binding patterns in normal and cancer-derived human cells.	Cell cycle	2011	43
+cancer	22171325	7157	Orth JD	Prolonged mitotic arrest triggers partial activation of apoptosis, resulting in DNA damage and p53 induction.	Molecular biology of the cell	2012	48
+cancer	22184222	7157	Neumaier T	Evidence for formation of DNA repair centers and dose-response nonlinearity in human cells.	Proceedings of the National Academy of Sciences of the United States of America	2012	52
+cancer	22186996	7157	Rücker FG	TP53 alterations in acute myeloid leukemia with complex karyotype correlate with specific copy number alterations, monosomal karyotype, and dismal outcome.	Blood	2012	69
+cancer	22265402	7157	Rausch T	Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements with TP53 mutations.	Cell	2012	175
+cancer	22265415	7157	Freed-Pastor WA	Mutant p53 disrupts mammary tissue architecture via the mevalonate pathway.	Cell	2012	163
+cancer	22266220	7157	O'Dell MR	Kras(G12D) and p53 mutation cause primary intrahepatic cholangiocarcinoma.	Cancer research	2012	33
+cancer	22282659	7157	Donati G	Ribosome biogenesis and control of cell proliferation: p53 is not alone.	Cancer research	2012	36
+cancer	22297721	7157	Pospisilova S	ERIC recommendations on TP53 mutation analysis in chronic lymphocytic leukemia.	Leukemia	2012	38
+cancer	22351930	7157	Scarlett UK	Ovarian cancer progression is controlled by phenotypic changes in dendritic cells.	The Journal of experimental medicine	2012	78
+cancer	22357944	7157	De S	RECQL4 is essential for the transport of p53 to mitochondria in normal human cells in the absence of exogenous stress.	Journal of cell science	2012	36
+cancer	22529099	7157	Thurnher M	Novel aspects of mevalonate pathway inhibitors as antitumor agents.	Clinical cancer research 	2012	42
+cancer	22533606	7157	ElSharawy A	Genome-wide miRNA signatures of human longevity.	Aging cell	2012	32
+cancer	22549840	7157	Gerstung M	Reliable detection of subclonal single-nucleotide variants in tumour cell populations.	Nature communications	2012	55
+cancer	22551203	7157	Intarasunanont P	Effects of arsenic exposure on DNA methylation in cord blood samples from newborn babies and in a human lymphoblast cell line.	Environmental health 	2012	38
+cancer	22611192	7157	Gully CP	Aurora B kinase phosphorylates and instigates degradation of p53.	Proceedings of the National Academy of Sciences of the United States of America	2012	46
+cancer	22641689	7157	Liu EY	Autophagy and cancer--issues we need to digest.	Journal of cell science	2012	49
+cancer	22698402	7157	Davoli T	Telomere-driven tetraploidization occurs in human cells undergoing crisis and promotes transformation of mouse cells.	Cancer cell	2012	58
+cancer	22715097	7157	Ano Bom AP	Mutant p53 aggregates into prion-like amyloid oligomers and fibrils: implications for cancer.	The Journal of biological chemistry	2012	41
+cancer	22789538	7157	Bywater MJ	Inhibition of RNA polymerase I as a therapeutic strategy to promote cancer-specific activation of p53.	Cancer cell	2012	107
+cancer	22822097	7157	Walerych D	The rebel angel: mutant p53 as the driving oncogene in breast cancer.	Carcinogenesis	2012	61
+cancer	22911014	7157	Mirzayans R	New insights into p53 signaling and cancer cell response to DNA damage: implications for cancer therapy.	Journal of biomedicine and biotechnology	2012	55
+cancer	22955915	7157	Xu-Monette ZY	Mutational profile and prognostic significance of TP53 in diffuse large B-cell lymphoma patients treated with R-CHOP: report from an International DLBCL Rituximab-CHOP Consortium Program Study.	Blood	2012	42
+cancer	22965953	7157	Lehmann S	Targeting p53 in vivo: a first-in-human study with p53-targeting compound APR-246 in refractory hematologic malignancies and prostate cancer.	Journal of clinical oncology 	2012	58
+cancer	22986101	7157	Zhang K	Novel selective inhibitors of nuclear export CRM1 antagonists for therapy in mantle cell lymphoma.	Experimental hematology	2013	45
+cancer	23114601	7157	Rodig SJ	Improved detection suggests all Merkel cell carcinomas harbor Merkel polyomavirus.	The Journal of clinical investigation	2012	41
+cancer	23150340	7157	Menendez D	Interactions between the tumor suppressor p53 and immune responses.	Current opinion in oncology	2013	31
+cancer	23151455	7157	Rodriguez OC	Dietary downregulation of mutant p53 levels via glucose restriction: mechanisms and implications for tumor therapy.	Cell cycle	2012	33
+cancer	23199966	7157	Doorbar J	The biology and life-cycle of human papillomaviruses.	Vaccine	2012	128
+cancer	23200980	7157	Kanda M	Mutant TP53 in duodenal samples of pancreatic juice from patients with pancreatic cancer or high-grade dysplasia.	Clinical gastroenterology and hepatology 	2013	35
+cancer	23242140	7157	Maddocks OD	Serine starvation induces stress and p53-dependent metabolic remodelling in cancer cells.	Nature	2013	145
+cancer	23256952	7157	Kastelein F	Aberrant p53 protein expression is associated with an increased risk of neoplastic progression in patients with Barrett's oesophagus.	Gut	2013	31
+cancer	23297687	7157	Kulasekararaj AG	TP53 mutations in myelodysplastic syndrome are strongly correlated with aberrations of chromosome 5, and correlate with adverse prognosis.	British journal of haematology	2013	44
+cancer	23360998	7157	Wassman CD	Computational identification of a transiently open L1/S3 pocket for reactivation of mutant p53.	Nature communications	2013	35
+cancer	23512991	7157	Batey MA	Preclinical evaluation of a novel ATM inhibitor, KU59403, in vitro and in vivo in p53 functional and dysfunctional models of human cancer.	Molecular cancer therapeutics	2013	25
+cancer	23514892	7157	Cheng J	Merkel cell polyomavirus large T antigen has growth-promoting and inhibitory activities.	Journal of virology	2013	27
+cancer	23589106	7157	Iclozan C	Therapeutic regulation of myeloid-derived suppressor cells and immune response to cancer vaccine in patients with extensive stage small cell lung cancer.	Cancer immunology, immunotherapy 	2013	67
+cancer	23630207	7157	Vignot S	Next-generation sequencing reveals high concordance of recurrent somatic alterations between primary tumor and metastases from patients with non-small-cell lung cancer.	Journal of clinical oncology 	2013	38
+cancer	23644491	7157	Kadoch C	Proteomic and bioinformatic analysis of mammalian SWI/SNF complexes identifies extensive roles in human malignancy.	Nature genetics	2013	169
+cancer	23649806	7157	Kleiblova P	Gain-of-function mutations of PPM1D/Wip1 impair the p53-dependent G1 checkpoint.	The Journal of cell biology	2013	33
+cancer	23749640	7157	Kimple RJ	Enhanced radiation sensitivity in HPV-positive head and neck cancer.	Cancer research	2013	64
+cancer	23775793	7157	Menendez D	Diverse stresses dramatically alter genome-wide p53 binding and transactivation landscape in human cancer cells.	Nucleic acids research	2013	52
+cancer	23835706	7157	Zhukova N	Subgroup-specific prognostic implications of TP53 mutation in medulloblastoma.	Journal of clinical oncology 	2013	43
+cancer	23880895	7157	Kitagawa M	Cell cycle regulation by long non-coding RNAs.	Cellular and molecular life sciences 	2013	31
+cancer	23906881	7157	Dang CV	MYC, metabolism, cell growth, and tumorigenesis.	Cold Spring Harbor perspectives in medicine	2013	114
+cancer	23913924	7157	Vakifahmetoglu-Norberg H	Chaperone-mediated autophagy degrades mutant p53.	Genes and development	2013	30
+cancer	23918355	7157	Lee MO	Inhibition of pluripotent stem cell-derived teratoma formation by small molecules.	Proceedings of the National Academy of Sciences of the United States of America	2013	42
+cancer	23954752	7157	Liu JC	High mitochondrial priming sensitizes hESCs to DNA-damage-induced apoptosis.	Cell stem cell	2013	36
+cancer	23966881	7157	Schlereth K	Characterization of the p53 cistrome--DNA binding cooperativity dissects p53's tumor suppressor functions.	PLoS genetics	2013	31
+cancer	24138928	7157	Horvath S	DNA methylation age of human tissues and cell types.	Genome biology	2013	377
+cancer	24296170	7157	Mellman I	Endocytosis and cancer.	Cold Spring Harbor perspectives in biology	2013	51
+cancer	24327604	7157	Abdi J	Drug resistance in multiple myeloma: latest findings and new concepts on molecular mechanisms.	Oncotarget	2013	28
+cancer	24374014	7157	Liu J	Tumor suppressor p53 and its mutants in cancer metabolism.	Cancer letters	2015	24
+cancer	24379683	7157	Surget S	Uncovering the role of p53 splice variants in human malignancy: a clinical perspective.	OncoTargets and therapy	2013	39
+cancer	24469795	7157	Morrison CD	Whole-genome sequencing identifies genomic heterogeneity at a nucleotide and chromosomal level in bladder cancer.	Proceedings of the National Academy of Sciences of the United States of America	2014	24
+cancer	24487586	7157	Arjonen A	Mutant p53-associated myosin-X upregulation promotes breast cancer invasion and metastasis.	The Journal of clinical investigation	2014	36
+cancer	24501221	7157	Rossi D	Clinical impact of small TP53 mutated subclones in chronic lymphocytic leukemia.	Blood	2014	50
+cancer	24577402	7157	Khoo KH	Drugging the p53 pathway: understanding the route to clinical efficacy.	Nature reviews. Drug discovery	2014	151
+cancer	24603336	7157	Xu J	Unequal prognostic potentials of p53 gain-of-function mutations in human cancers associate with drug-metabolizing activity.	Cell death and disease	2014	21
+cancer	24615777	7157	Brown JR	Idelalisib, an inhibitor of phosphatidylinositol 3-kinase p110δ, for relapsed/refractory chronic lymphocytic leukemia.	Blood	2014	106
+cancer	24630730	7157	Supek F	Synonymous mutations frequently act as driver mutations in human cancers.	Cell	2014	76
+cancer	24642672	7157	McBride KA	Li-Fraumeni syndrome: cancer risk assessment and clinical management.	Nature reviews. Clinical oncology	2014	25
+cancer	24658082	7157	Powell E	Contribution of p53 to metastasis.	Cancer discovery	2014	38
+cancer	24665023	7157	Leroy B	TP53 mutations in human cancer: database reassessment and prospects for the next decade.	Human mutation	2014	28
+cancer	24682512	7157	Saft L	p53 protein expression independently predicts outcome in patients with lower-risk myelodysplastic syndromes with del(5q).	Haematologica	2014	22
+cancer	24721780	7157	Zhang A	Role of the lncRNA-p53 regulatory network in cancer.	Journal of molecular cell biology	2014	22
+cancer	24747423	7157	Golomb L	p53 and ribosome biogenesis stress: the essentials.	FEBS letters	2014	36
+cancer	24768524	7157	Bykov VJ	Mutant p53 reactivation by small molecules makes its way to the clinic.	FEBS letters	2014	32
+cancer	24819167	7157	Leotta M	A p53-dependent tumor suppressor network is induced by selective miR-125a-5p inhibition in multiple myeloma cells.	Journal of cellular physiology	2014	26
+cancer	24859455	7157	Miao R	Identification of prognostic biomarkers in hepatitis B virus-related hepatocellular carcinoma and stratification by integrative multi-omics analysis.	Journal of hepatology	2014	30
+cancer	24882724	7157	Blackinton JG	Post-transcriptional RNA regulons affecting cell cycle and proliferation.	Seminars in cell and developmental biology	2014	26
+cancer	24921086	7157	Schmeiser HH	Exceptionally long-term persistence of DNA adducts formed by carcinogenic aristolochic acid I in renal tissue from patients with aristolochic acid nephropathy.	International journal of cancer	2014	20
+cancer	24928860	7157	Wang J	Bone marrow stromal cell-derived exosomes as communicators in drug resistance in multiple myeloma cells.	Blood	2014	35
+cancer	25058159	7157	Janky R	iRegulon: from a gene list to a gene regulatory network using large motif and track collections.	PLoS computational biology	2014	77
+cancer	25086664	7157	Gross AM	Multi-tiered genomic analysis of head and neck cancer ties TP53 mutation to 3p loss.	Nature genetics	2014	32
+cancer	25092778	7157	Bejar R	Somatic mutations predict poor outcome in patients with myelodysplastic syndrome after hematopoietic stem-cell transplantation.	Journal of clinical oncology 	2014	40
+cancer	25100830	7157	Kennedy EM	Inactivation of the human papillomavirus E6 or E7 gene in cervical carcinoma cells by using a bacterial CRISPR/Cas RNA-guided endonuclease.	Journal of virology	2014	34
+cancer	25287991	7157	Malcikova J	Detailed analysis of therapy-driven clonal evolution of TP53 mutations in chronic lymphocytic leukemia.	Leukemia	2015	18
+cancer	25362853	7157	Gao J	miR-34a-5p suppresses colorectal cancer metastasis and predicts recurrence in patients with stage II/III colorectal cancer.	Oncogene	2015	24
+cancer	25402006	7157	Kotlyar M	In silico prediction of physical protein interactions and characterization of interactome orphans.	Nature methods	2015	22
+cancer	25524025	7157	Sánchez Y	Genome-wide analysis of the human p53 transcriptional network unveils a lncRNA tumour suppressor signature.	Nature communications	2014	33
+cancer	25538195	7157	Vieira VC	Human papillomavirus E6 triggers upregulation of the antiviral and cancer genomic DNA deaminase APOBEC3B.	mBio	2014	33
+cancer	25555420	7157	Farooqui MZ	Ibrutinib for previously untreated and relapsed or refractory chronic lymphocytic leukaemia with TP53 aberrations: a phase 2, single-arm trial.	The Lancet. Oncology	2015	51
+cancer	25592647	7157	Ito Y	The RUNX family: developmental regulators in cancer.	Nature reviews. Cancer	2015	42
+cancer	25634208	7157	Neskey DM	Evolutionary Action Score of TP53 Identifies High-Risk Mutations Associated with Decreased Survival and Increased Distant Metastases in Head and Neck Cancer.	Cancer research	2015	19
+cancer	25689248	7157	Boulter L	WNT signaling drives cholangiocarcinoma growth and can be pharmacologically inhibited.	The Journal of clinical investigation	2015	23
+cancer	25704383	7157	Span PN	Biology of hypoxia.	Seminars in nuclear medicine	2015	16
+cancer	25824729	7157	Goldar S	Molecular mechanisms of apoptosis and roles in cancer development and treatment.	Asian Pacific journal of cancer prevention 	2015	19
+cancer	25827447	7157	Hong MK	Tracking the origins and drivers of subclonal metastatic expansion in prostate cancer.	Nature communications	2015	39
+cancer	25860607	7157	Lee DF	Modeling familial cancer with induced pluripotent stem cells.	Cell	2015	28
+cancer	25883152	7157	Younger ST	Integrative genomic analysis reveals widespread enhancer regulation by p53 in response to DNA damage.	Nucleic acids research	2015	23
+cancer	25894828	7157	Cristescu R	Molecular analysis of gastric cancer identifies subtypes associated with distinct clinical outcomes.	Nature medicine	2015	84
+cancer	26014290	7157	Bougeard G	Revisiting Li-Fraumeni Syndrome From TP53 Mutation Carriers.	Journal of clinical oncology 	2015	20
+cancer	26024390	7157	Soussi T	TP53: an oncogene in disguise.	Cell death and differentiation	2015	26
+cancer	26032560	7157	Amelio I	The p53 family and the hypoxia-inducible factors (HIFs): determinants of cancer progression.	Trends in biochemical sciences	2015	15
+cancer	26398160	7157	Danilova N	Ribosomopathies: how a common root can cause a tree of pathologies.	Disease models and mechanisms	2015	20
+cancer	26447779	7157	Abegglen LM	Potential Mechanisms for Cancer Resistance in Elephants and Comparative Cellular Response to DNA Damage in Humans.	JAMA	2015	29
+cancer	26462838	7157	Gong Z	An integrative transcriptomic analysis reveals p53 regulated miRNA, mRNA, and lncRNA networks in nasopharyngeal carcinoma.	Tumour biology 	2016	16
+cancer	26605532	7157	Jin W	Genome-wide detection of DNase I hypersensitive sites in single cells and FFPE tissue samples.	Nature	2015	31
+cancer	26748848	7157	Soragni A	A Designed Inhibitor of p53 Aggregation Rescues p53 Tumor Suppression in Ovarian Carcinomas.	Cancer cell	2016	19
+cancer	26853913	7157	Niopek D	Optogenetic control of nuclear protein export.	Nature communications	2016	11
+cancer	26918045	7157	Chen X	Survivin and Tumorigenesis: Molecular Mechanisms and Therapeutic Strategies.	Journal of Cancer	2016	19
+cancer	27009395	7157	Stracquadanio G	The importance of p53 pathway genetics in inherited and somatic cancer genomes.	Nature reviews. Cancer	2016	19
+cancer	27187358	7157	Mirzayans R	The Growing Complexity of Cancer Cell Response to DNA-Damaging Agents: Caspase 3 Mediates Cell Death or Survival?	International journal of molecular sciences	2016	12
+cancer	27328919	7157	Bouaoun L	TP53 Variations in Human Cancers: New Lessons from the IARC TP53 Database and Genomics Data.	Human mutation	2016	12
+cancer	27377626	7157	Fernandez-Cuesta L	Identification of Circulating Tumor DNA for the Early Detection of Small-cell Lung Cancer.	EBioMedicine	2016	13
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	1301998	7157	el-Deiry WS	Definition of a consensus binding site for p53.	Nature genetics	1992	519
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	1323840	7157	Kuerbitz SJ	Wild-type p53 is a cell cycle checkpoint determinant following irradiation.	Proceedings of the National Academy of Sciences of the United States of America	1992	317
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	1905840	7157	Hollstein M	p53 mutations in human cancers.	Science	1991	1290
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	1946433	7157	Brash DE	A role for sunlight in skin cancer: UV-induced p53 mutations in squamous cell carcinoma.	Proceedings of the National Academy of Sciences of the United States of America	1991	251
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	2259385	7157	Srivastava S	Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome.	Nature	1990	174
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	2531845	7157	Nigro JM	Mutations in the p53 gene occur in diverse human tumour types.	Nature	1989	402
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	8114714	7157	Nelson WG	DNA strand breaks: the DNA template alterations that trigger p53-dependent DNA damage response pathways.	Molecular and cellular biology	1994	151
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	8242748	7157	Lu X	Differential induction of transcriptionally active p53 following UV or ionizing radiation: defects in chromosome instability syndromes?	Cell	1993	138
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	10446993	7157	Chang BD	A senescence-like phenotype distinguishes tumor cells that undergo terminal proliferation arrest after exposure to anticancer agents.	Cancer research	1999	107
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	10728684	7157	Barcellos-Hoff MH	Irradiated mammary gland stroma promotes the expression of tumorigenic potential by unirradiated epithelial cells.	Cancer research	2000	151
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	12821280	7157	Ichihashi M	UV-induced skin damage.	Toxicology	2003	95
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	15685439	7157	Ohgaki H	Epidemiology and etiology of gliomas.	Acta neuropathologica	2005	212
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	16170357	7157	Bossi G	Mutant p53 gain of function: reduction of tumor malignancy of human cancer cell lines through abrogation of mutant p53 expression.	Oncogene	2006	68
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	16172461	7157	Russo A	The TP53 colorectal cancer international collaborative study on the prognostic and predictive significance of p53 mutation: influence of tumor site, type of mutation, and adjuvant treatment.	Journal of clinical oncology 	2005	72
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	16773083	7157	Geva-Zatorsky N	Oscillations and variability in the p53 system.	Molecular systems biology	2006	162
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	16945824	7157	Houtgraaf JH	A concise review of DNA damage checkpoints and repair in mammalian cells.	Cardiovascular revascularization medicine 	2006	65
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	17417627	7157	Song H	p53 gain-of-function cancer mutants induce genetic instability by inactivating ATM.	Nature cell biology	2007	112
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	18829542	7157	Lehmann BD	Senescence-associated exosome release from human prostate cancer cells.	Cancer research	2008	56
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	19225112	7157	Sur S	A panel of isogenic human cancer cells suggests a therapeutic approach for cancers with inactivated p53.	Proceedings of the National Academy of Sciences of the United States of America	2009	108
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	19881536	7157	Liu DP	A common gain of function of p53 cancer mutants in inducing genetic instability.	Oncogene	2010	50
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	20074536	7157	Song H	Modeling disease in human ESCs using an efficient BAC-based homologous recombination system.	Cell stem cell	2010	68
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	20182602	7157	Olivier M	TP53 mutations in human cancers: origins, consequences, and clinical use.	Cold Spring Harbor perspectives in biology	2010	236
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	20182618	7157	Oren M	Mutant p53 gain-of-function in cancer.	Cold Spring Harbor perspectives in biology	2010	181
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	20218600	7157	Gautier A	Genetically encoded photocontrol of protein localization in mammalian cells.	Journal of the American Chemical Society	2010	46
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	20619763	7157	Milyavsky M	A distinctive DNA damage response in human hematopoietic stem cells reveals an apoptosis-independent role for p53 in self-renewal.	Cell stem cell	2010	69
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	20679336	7157	Beckerman R	Transcriptional regulation by p53.	Cold Spring Harbor perspectives in biology	2010	170
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	21331359	7157	Mogi A	TP53 mutations in nonsmall cell lung cancer.	Journal of biomedicine and biotechnology	2011	45
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	21799033	7157	Bridges KA	MK-1775, a novel Wee1 kinase inhibitor, radiosensitizes p53-defective human tumor cells.	Clinical cancer research 	2011	50
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22090360	7157	Skinner HD	TP53 disruptive mutations lead to head and neck cancer treatment failure through inhibition of radiation-induced senescence.	Clinical cancer research 	2012	58
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22184222	7157	Neumaier T	Evidence for formation of DNA repair centers and dose-response nonlinearity in human cells.	Proceedings of the National Academy of Sciences of the United States of America	2012	52
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22715097	7157	Ano Bom AP	Mutant p53 aggregates into prion-like amyloid oligomers and fibrils: implications for cancer.	The Journal of biological chemistry	2012	41
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	22911014	7157	Mirzayans R	New insights into p53 signaling and cancer cell response to DNA damage: implications for cancer therapy.	Journal of biomedicine and biotechnology	2012	55
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	23512991	7157	Batey MA	Preclinical evaluation of a novel ATM inhibitor, KU59403, in vitro and in vivo in p53 functional and dysfunctional models of human cancer.	Molecular cancer therapeutics	2013	25
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	23749640	7157	Kimple RJ	Enhanced radiation sensitivity in HPV-positive head and neck cancer.	Cancer research	2013	64
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	23906881	7157	Dang CV	MYC, metabolism, cell growth, and tumorigenesis.	Cold Spring Harbor perspectives in medicine	2013	114
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	24296170	7157	Mellman I	Endocytosis and cancer.	Cold Spring Harbor perspectives in biology	2013	51
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	24374014	7157	Liu J	Tumor suppressor p53 and its mutants in cancer metabolism.	Cancer letters	2015	24
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	25634208	7157	Neskey DM	Evolutionary Action Score of TP53 Identifies High-Risk Mutations Associated with Decreased Survival and Increased Distant Metastases in Head and Neck Cancer.	Cancer research	2015	19
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	25704383	7157	Span PN	Biology of hypoxia.	Seminars in nuclear medicine	2015	16
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	25883152	7157	Younger ST	Integrative genomic analysis reveals widespread enhancer regulation by p53 in response to DNA damage.	Nucleic acids research	2015	23
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	26447779	7157	Abegglen LM	Potential Mechanisms for Cancer Resistance in Elephants and Comparative Cellular Response to DNA Damage in Humans.	JAMA	2015	29
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	26853913	7157	Niopek D	Optogenetic control of nuclear protein export.	Nature communications	2016	11
+hot+or+cold+or+alkaline+condition+or+acidic+condition+or+hypersaline+or+radiation	27187358	7157	Mirzayans R	The Growing Complexity of Cancer Cell Response to DNA-Damaging Agents: Caspase 3 Mediates Cell Death or Survival?	International journal of molecular sciences	2016	12
+mitochondria	14634023	7157	Melino G	p73 Induces apoptosis via PUMA transactivation and Bax mitochondrial translocation.	The Journal of biological chemistry	2004	107
+mitochondria	15892631	7157	Valko M	Metals, toxicity and oxidative stress.	Current medicinal chemistry	2005	438
+mitochondria	17179143	7157	Qin H	Regulation of apoptosis and differentiation by p53 in human embryonic stem cells.	The Journal of biological chemistry	2007	76
+mitochondria	17638885	7157	Buzzai M	Systemic treatment with the antidiabetic drug metformin selectively impairs p53-deficient tumor cell growth.	Cancer research	2007	296
+mitochondria	18955976	7157	Pietsch EC	The p53 family and programmed cell death.	Oncogene	2008	68
+mitochondria	19528227	7157	Moiseeva O	Mitochondrial dysfunction contributes to oncogene-induced senescence.	Molecular and cellular biology	2009	62
+mitochondria	20044243	7157	Maiuri MC	Autophagy regulation by p53.	Current opinion in cell biology	2010	139
+mitochondria	20201066	7157	Prigione A	The senescence-related mitochondrial/oxidative stress pathway is repressed in human induced pluripotent stem cells.	Stem cells	2010	152
+mitochondria	20336134	7157	Sahin E	Linking functional decline of telomeres, mitochondria and stem cells during ageing.	Nature	2010	191
+mitochondria	21229159	7157	Schaeublin NM	Surface charge of gold nanoparticles mediates mechanism of toxicity.	Nanoscale	2011	41
+mitochondria	22171325	7157	Orth JD	Prolonged mitotic arrest triggers partial activation of apoptosis, resulting in DNA damage and p53 induction.	Molecular biology of the cell	2012	48
+mitochondria	22357944	7157	De S	RECQL4 is essential for the transport of p53 to mitochondria in normal human cells in the absence of exogenous stress.	Journal of cell science	2012	36
+mitochondria	23906881	7157	Dang CV	MYC, metabolism, cell growth, and tumorigenesis.	Cold Spring Harbor perspectives in medicine	2013	114
+mitochondria	23918355	7157	Lee MO	Inhibition of pluripotent stem cell-derived teratoma formation by small molecules.	Proceedings of the National Academy of Sciences of the United States of America	2013	42
+mitochondria	23954752	7157	Liu JC	High mitochondrial priming sensitizes hESCs to DNA-damage-induced apoptosis.	Cell stem cell	2013	36
+mitochondria	24374014	7157	Liu J	Tumor suppressor p53 and its mutants in cancer metabolism.	Cancer letters	2015	24
+mitochondria	25792665	7157	Ahmad T	Impaired mitophagy leads to cigarette smoke stress-induced cellular senescence: implications for chronic obstructive pulmonary disease.	FASEB journal 	2015	19
+rat+or+mouse	1323840	7157	Kuerbitz SJ	Wild-type p53 is a cell cycle checkpoint determinant following irradiation.	Proceedings of the National Academy of Sciences of the United States of America	1992	317
+rat+or+mouse	1423635	7157	Hupp TR	Regulation of the specific DNA binding function of p53.	Cell	1992	231
+rat+or+mouse	1533443	7157	Yew PR	Inhibition of p53 transactivation required for transformation by adenovirus early 1B protein.	Nature	1992	177
+rat+or+mouse	1905840	7157	Hollstein M	p53 mutations in human cancers.	Science	1991	1290
+rat+or+mouse	2143698	7157	Michalovitz D	Conditional inhibition of transformation and of cell proliferation by a temperature-sensitive mutant of p53.	Cell	1990	217
+rat+or+mouse	2531845	7157	Nigro JM	Mutations in the p53 gene occur in diverse human tumour types.	Nature	1989	402
+rat+or+mouse	8380895	7157	Huibregtse JM	Cloning and expression of the cDNA for E6-AP, a protein that mediates the interaction of the human papillomavirus E6 oncoprotein with p53.	Molecular and cellular biology	1993	143
+rat+or+mouse	9176490	7157	Heise C	ONYX-015, an E1B gene-attenuated adenovirus, causes tumor-specific cytolysis and antitumoral efficacy that can be augmented by standard chemotherapeutic agents.	Nature medicine	1997	127
+rat+or+mouse	9774969	7157	Yang A	p63, a p53 homolog at 3q27-29, encodes multiple products with transactivating, death-inducing, and dominant-negative activities.	Molecular cell	1998	516
+rat+or+mouse	10446993	7157	Chang BD	A senescence-like phenotype distinguishes tumor cells that undergo terminal proliferation arrest after exposure to anticancer agents.	Cancer research	1999	107
+rat+or+mouse	10728684	7157	Barcellos-Hoff MH	Irradiated mammary gland stroma promotes the expression of tumorigenic potential by unirradiated epithelial cells.	Cancer research	2000	151
+rat+or+mouse	11859195	7157	Yu JL	Effect of p53 status on tumor response to antiangiogenic therapy.	Science	2002	86
+rat+or+mouse	11875500	7157	Bykov VJ	Restoration of the tumor suppressor function to mutant p53 by a low-molecular-weight compound.	Nature medicine	2002	198
+rat+or+mouse	12077306	7157	Hoh J	The p53MH algorithm and its application in detecting p53-responsive genes.	Proceedings of the National Academy of Sciences of the United States of America	2002	103
+rat+or+mouse	12235210	7157	Zaika AI	DeltaNp73, a dominant-negative inhibitor of wild-type p53 and TAp73, is up-regulated in human tumors.	The Journal of experimental medicine	2002	92
+rat+or+mouse	12941807	7157	Riley RR	Dissection of human papillomavirus E6 and E7 function in transgenic mouse models of cervical carcinogenesis.	Cancer research	2003	97
+rat+or+mouse	14634023	7157	Melino G	p73 Induces apoptosis via PUMA transactivation and Bax mitochondrial translocation.	The Journal of biological chemistry	2004	107
+rat+or+mouse	15042092	7157	Berns K	A large-scale RNAi screen in human cells identifies new components of the p53 pathway.	Nature	2004	267
+rat+or+mouse	15054096	7157	Wang S	Doxorubicin induces apoptosis in normal and tumor cells via distinctly different mechanisms. intermediacy of H(2)O(2)- and p53-dependent pathways.	The Journal of biological chemistry	2004	88
+rat+or+mouse	15158709	7157	Kolberg M	Structure, function, and mechanism of ribonucleotide reductases.	Biochimica et biophysica acta	2004	85
+rat+or+mouse	15351967	7157	Dellaire G	PML nuclear bodies: dynamic sensors of DNA damage and cellular stress.	BioEssays 	2004	117
+rat+or+mouse	16170357	7157	Bossi G	Mutant p53 gain of function: reduction of tumor malignancy of human cancer cell lines through abrogation of mutant p53 expression.	Oncogene	2006	68
+rat+or+mouse	16601753	7157	Murray-Zmijewski F	p53/p63/p73 isoforms: an orchestra of isoforms to harmonise cell differentiation and response to stress.	Cell death and differentiation	2006	154
+rat+or+mouse	17179143	7157	Qin H	Regulation of apoptosis and differentiation by p53 in human embryonic stem cells.	The Journal of biological chemistry	2007	76
+rat+or+mouse	17401423	7157	Soussi T	p53 alterations in human cancer: more questions than answers.	Oncogene	2007	58
+rat+or+mouse	17401431	7157	Li Y	Are interactions with p63 and p73 involved in mutant p53 gain of oncogenic function?	Oncogene	2007	57
+rat+or+mouse	17417627	7157	Song H	p53 gain-of-function cancer mutants induce genetic instability by inactivating ATM.	Nature cell biology	2007	112
+rat+or+mouse	17468756	7157	Theodorou V	MMTV insertional mutagenesis identifies genes, gene families and pathways involved in mammary cancer.	Nature genetics	2007	69
+rat+or+mouse	17638885	7157	Buzzai M	Systemic treatment with the antidiabetic drug metformin selectively impairs p53-deficient tumor cell growth.	Cancer research	2007	296
+rat+or+mouse	17942417	7157	Rodier F	Two faces of p53: aging and tumor suppression.	Nucleic acids research	2007	111
+rat+or+mouse	18454141	7157	Tasdemir E	Regulation of autophagy by cytoplasmic p53.	Nature cell biology	2008	313
+rat+or+mouse	18495520	7157	Ashkenazi A	Targeting the extrinsic apoptosis pathway in cancer.	Cytokine and growth factor reviews	2008	86
+rat+or+mouse	18663127	7157	Muñoz-Fontela C	Transcriptional role of p53 in interferon-mediated antiviral immunity.	The Journal of experimental medicine	2008	66
+rat+or+mouse	19225112	7157	Sur S	A panel of isogenic human cancer cells suggests a therapeutic approach for cancers with inactivated p53.	Proceedings of the National Academy of Sciences of the United States of America	2009	108
+rat+or+mouse	19308457	7157	Pfeifer GP	Mutational spectra of human cancer.	Human genetics	2009	69
+rat+or+mouse	19881536	7157	Liu DP	A common gain of function of p53 cancer mutants in inducing genetic instability.	Oncogene	2010	50
+rat+or+mouse	19887545	7157	Hirai H	Small-molecule inhibition of Wee1 kinase by MK-1775 selectively sensitizes p53-deficient tumor cells to DNA-damaging agents.	Molecular cancer therapeutics	2009	90
+rat+or+mouse	20038740	7157	De Angelis A	Anthracycline cardiomyopathy is mediated by depletion of the cardiac stem cell pool and is rescued by restoration of progenitor cell function.	Circulation	2010	62
+rat+or+mouse	20066118	7157	Zilfou JT	Tumor suppressive functions of p53.	Cold Spring Harbor perspectives in biology	2009	96
+rat+or+mouse	20074536	7157	Song H	Modeling disease in human ESCs using an efficient BAC-based homologous recombination system.	Cell stem cell	2010	68
+rat+or+mouse	20107315	7157	Hirai H	MK-1775, a small molecule Wee1 inhibitor, enhances anti-tumor efficacy of various DNA-damaging agents, including 5-fluorouracil.	Cancer biology and therapy	2010	55
+rat+or+mouse	20123995	7157	Thompson SL	Proliferation of aneuploid human cells is limited by a p53-dependent mechanism.	The Journal of cell biology	2010	142
+rat+or+mouse	20182602	7157	Olivier M	TP53 mutations in human cancers: origins, consequences, and clinical use.	Cold Spring Harbor perspectives in biology	2010	236
+rat+or+mouse	20182618	7157	Oren M	Mutant p53 gain-of-function in cancer.	Cold Spring Harbor perspectives in biology	2010	181
+rat+or+mouse	20336134	7157	Sahin E	Linking functional decline of telomeres, mitochondria and stem cells during ageing.	Nature	2010	191
+rat+or+mouse	20619763	7157	Milyavsky M	A distinctive DNA damage response in human hematopoietic stem cells reveals an apoptosis-independent role for p53 in self-renewal.	Cell stem cell	2010	69
+rat+or+mouse	20871609	7157	Swarbrick A	miR-380-5p represses p53 to control cellular survival and is associated with poor outcome in MYCN-amplified neuroblastoma.	Nature medicine	2010	52
+rat+or+mouse	21205082	7157	Nakahara T	Broad spectrum and potent antitumor activities of YM155, a novel small-molecule survivin suppressant, in a wide variety of human cancer cell lines and xenograft models.	Cancer science	2011	43
+rat+or+mouse	21389100	7157	Rajeshkumar NV	MK-1775, a potent Wee1 inhibitor, synergizes with gemcitabine to achieve tumor regressions, selectively in p53-deficient pancreatic cancer xenografts.	Clinical cancer research 	2011	63
+rat+or+mouse	21427767	7157	Levine AJ	The p53 family: guardians of maternal reproduction.	Nature reviews. Molecular cell biology	2011	87
+rat+or+mouse	21530747	7157	Ullman TA	Intestinal inflammation and cancer.	Gastroenterology	2011	197
+rat+or+mouse	21576821	7157	Rhee YH	Protein-based human iPS cells efficiently generate functional dopamine neurons and can treat a rat model of Parkinson disease.	The Journal of clinical investigation	2011	74
+rat+or+mouse	21764762	7157	Textor S	Human NK cells are alerted to induction of p53 in cancer cells by upregulation of the NKG2D ligands ULBP1 and ULBP2.	Cancer research	2011	39
+rat+or+mouse	21779517	7157	Rufini A	p73 in Cancer.	Genes and cancer	2011	39
+rat+or+mouse	21799033	7157	Bridges KA	MK-1775, a novel Wee1 kinase inhibitor, radiosensitizes p53-defective human tumor cells.	Clinical cancer research 	2011	50
+rat+or+mouse	21941372	7157	Marcel V	Biological functions of p53 isoforms through evolution: lessons from animal and cellular models.	Cell death and differentiation	2011	65
+rat+or+mouse	21962518	7157	Liu J	Beclin1 controls the levels of p53 by regulating the deubiquitination activity of USP10 and USP13.	Cell	2011	142
+rat+or+mouse	22090360	7157	Skinner HD	TP53 disruptive mutations lead to head and neck cancer treatment failure through inhibition of radiation-induced senescence.	Clinical cancer research 	2012	58
+rat+or+mouse	22265402	7157	Rausch T	Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements with TP53 mutations.	Cell	2012	175
+rat+or+mouse	22351930	7157	Scarlett UK	Ovarian cancer progression is controlled by phenotypic changes in dendritic cells.	The Journal of experimental medicine	2012	78
+rat+or+mouse	22579044	7157	Reijns MA	Enzymatic removal of ribonucleotides from DNA is essential for mammalian genome integrity and development.	Cell	2012	118
+rat+or+mouse	22698402	7157	Davoli T	Telomere-driven tetraploidization occurs in human cells undergoing crisis and promotes transformation of mouse cells.	Cancer cell	2012	58
+rat+or+mouse	22789538	7157	Bywater MJ	Inhibition of RNA polymerase I as a therapeutic strategy to promote cancer-specific activation of p53.	Cancer cell	2012	107
+rat+or+mouse	22986101	7157	Zhang K	Novel selective inhibitors of nuclear export CRM1 antagonists for therapy in mantle cell lymphoma.	Experimental hematology	2013	45
+rat+or+mouse	23151455	7157	Rodriguez OC	Dietary downregulation of mutant p53 levels via glucose restriction: mechanisms and implications for tumor therapy.	Cell cycle	2012	33
+rat+or+mouse	23242140	7157	Maddocks OD	Serine starvation induces stress and p53-dependent metabolic remodelling in cancer cells.	Nature	2013	145
+rat+or+mouse	23512991	7157	Batey MA	Preclinical evaluation of a novel ATM inhibitor, KU59403, in vitro and in vivo in p53 functional and dysfunctional models of human cancer.	Molecular cancer therapeutics	2013	25
+rat+or+mouse	23514892	7157	Cheng J	Merkel cell polyomavirus large T antigen has growth-promoting and inhibitory activities.	Journal of virology	2013	27
+rat+or+mouse	23644491	7157	Kadoch C	Proteomic and bioinformatic analysis of mammalian SWI/SNF complexes identifies extensive roles in human malignancy.	Nature genetics	2013	169
+rat+or+mouse	23749640	7157	Kimple RJ	Enhanced radiation sensitivity in HPV-positive head and neck cancer.	Cancer research	2013	64
+rat+or+mouse	23811687	7157	Du W	TAp73 enhances the pentose phosphate pathway and supports cell proliferation.	Nature cell biology	2013	55
+rat+or+mouse	24487586	7157	Arjonen A	Mutant p53-associated myosin-X upregulation promotes breast cancer invasion and metastasis.	The Journal of clinical investigation	2014	36
+rat+or+mouse	25362853	7157	Gao J	miR-34a-5p suppresses colorectal cancer metastasis and predicts recurrence in patients with stage II/III colorectal cancer.	Oncogene	2015	24
+rat+or+mouse	25689248	7157	Boulter L	WNT signaling drives cholangiocarcinoma growth and can be pharmacologically inhibited.	The Journal of clinical investigation	2015	23
+rat+or+mouse	25792665	7157	Ahmad T	Impaired mitophagy leads to cigarette smoke stress-induced cellular senescence: implications for chronic obstructive pulmonary disease.	FASEB journal 	2015	19
+rat+or+mouse	25860607	7157	Lee DF	Modeling familial cancer with induced pluripotent stem cells.	Cell	2015	28
+rat+or+mouse	25883152	7157	Younger ST	Integrative genomic analysis reveals widespread enhancer regulation by p53 in response to DNA damage.	Nucleic acids research	2015	23
+rat+or+mouse	26024390	7157	Soussi T	TP53: an oncogene in disguise.	Cell death and differentiation	2015	26
+rat+or+mouse	26605532	7157	Jin W	Genome-wide detection of DNase I hypersensitive sites in single cells and FFPE tissue samples.	Nature	2015	31
+rat+or+mouse	26748848	7157	Soragni A	A Designed Inhibitor of p53 Aggregation Rescues p53 Tumor Suppression in Ovarian Carcinomas.	Cancer cell	2016	19
+rat+or+mouse	26751173	7157	Korkmaz G	Functional genetic screens for enhancer elements in the human genome using CRISPR-Cas9.	Nature biotechnology	2016	36
+rat+or+mouse	26853913	7157	Niopek D	Optogenetic control of nuclear protein export.	Nature communications	2016	11
+pathology	1589764	7157	Kern SE	Oncogenic forms of p53 inhibit p53-regulated gene expression.	Science	1992	234
+pathology	1849234	7157	Hsu IC	Mutational hotspot in the p53 gene in human hepatocellular carcinomas.	Nature	1991	202
+pathology	2047879	7157	Kern SE	Identification of p53 as a sequence-specific DNA-binding protein.	Science	1991	230
+pathology	2233717	7157	Diller L	p53 functions as a cell cycle control protein in osteosarcomas.	Molecular and cellular biology	1990	175
+pathology	2259385	7157	Srivastava S	Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome.	Nature	1990	174
+pathology	8023160	7157	Speir E	Potential role of human cytomegalovirus and p53 interaction in coronary restenosis.	Science	1994	167
+pathology	8030745	7157	Kim H	Clinical and pathological characteristics of sporadic colorectal carcinomas with DNA replication errors in microsatellite sequences.	The American journal of pathology	1994	124
+pathology	8423624	7157	Allred DC	Association of p53 protein expression with tumor cell proliferation rate and clinical outcome in node-negative breast cancer.	Journal of the National Cancer Institute	1993	132
+pathology	9176490	7157	Heise C	ONYX-015, an E1B gene-attenuated adenovirus, causes tumor-specific cytolysis and antitumoral efficacy that can be augmented by standard chemotherapeutic agents.	Nature medicine	1997	127
+pathology	10446993	7157	Chang BD	A senescence-like phenotype distinguishes tumor cells that undergo terminal proliferation arrest after exposure to anticancer agents.	Cancer research	1999	107
+pathology	10623654	7157	Vona G	Isolation by size of epithelial tumor cells : a new method for the immunomorphological and molecular characterization of circulatingtumor cells.	The American journal of pathology	2000	212
+pathology	10728684	7157	Barcellos-Hoff MH	Irradiated mammary gland stroma promotes the expression of tumorigenic potential by unirradiated epithelial cells.	Cancer research	2000	151
+pathology	11343904	7157	Ryan KM	Regulation and function of the p53 tumor suppressor protein.	Current opinion in cell biology	2001	127
+pathology	11830638	7157	Lingle WL	Centrosome amplification drives chromosomal instability in breast tumor development.	Proceedings of the National Academy of Sciences of the United States of America	2002	150
+pathology	11859195	7157	Yu JL	Effect of p53 status on tumor response to antiangiogenic therapy.	Science	2002	86
+pathology	11875500	7157	Bykov VJ	Restoration of the tumor suppressor function to mutant p53 by a low-molecular-weight compound.	Nature medicine	2002	198
+pathology	12058060	7157	Chen X	Gene expression patterns in human liver cancers.	Molecular biology of the cell	2002	189
+pathology	12235210	7157	Zaika AI	DeltaNp73, a dominant-negative inhibitor of wild-type p53 and TAp73, is up-regulated in human tumors.	The Journal of experimental medicine	2002	92
+pathology	12241875	7157	Klein CA	Genetic heterogeneity of single disseminated tumour cells in minimal residual cancer.	Lancet	2002	96
+pathology	12574499	7157	Yu J	PUMA mediates the apoptotic response to p53 in colorectal cancer cells.	Proceedings of the National Academy of Sciences of the United States of America	2003	171
+pathology	12649205	7157	Pihan GA	Centrosome abnormalities and chromosome instability occur together in pre-invasive carcinomas.	Cancer research	2003	102
+pathology	12941807	7157	Riley RR	Dissection of human papillomavirus E6 and E7 function in transgenic mouse models of cervical carcinogenesis.	Cancer research	2003	97
+pathology	14612504	7157	Massion PP	Significance of p63 amplification and overexpression in lung cancer development and prognosis.	Cancer research	2003	77
+pathology	14639602	7157	Pim D	p53 polymorphic variants at codon 72 exert different effects on cell cycle progression.	International journal of cancer	2004	71
+pathology	15187189	7157	Longworth MS	Pathogenesis of human papillomaviruses in differentiating epithelia.	Microbiology and molecular biology reviews 	2004	153
+pathology	16172461	7157	Russo A	The TP53 colorectal cancer international collaborative study on the prognostic and predictive significance of p53 mutation: influence of tumor site, type of mutation, and adjuvant treatment.	Journal of clinical oncology 	2005	72
+pathology	16489069	7157	Olivier M	The clinical value of somatic TP53 gene mutations in 1,794 patients with breast cancer.	Clinical cancer research 	2006	119
+pathology	16824017	7157	Stewart SA	Telomeres: cancer to human aging.	Annual review of cell and developmental biology	2006	91
+pathology	16945824	7157	Houtgraaf JH	A concise review of DNA damage checkpoints and repair in mammalian cells.	Cardiovascular revascularization medicine 	2006	65
+pathology	16951157	7157	Rodriguez J	Chromosomal instability correlates with genome-wide DNA demethylation in human primary colorectal cancers.	Cancer research	2006	82
+pathology	17030796	7157	Feng Z	Acrolein is a major cigarette-related lung cancer agent: Preferential binding at p53 mutational hotspots and inhibition of DNA repair.	Proceedings of the National Academy of Sciences of the United States of America	2006	96
+pathology	17255760	7157	Kindelberger DW	Intraepithelial carcinoma of the fimbria and pelvic serous carcinoma: Evidence for a causal relationship.	The American journal of surgical pathology	2007	194
+pathology	17311302	7157	Petitjean A	Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database.	Human mutation	2007	457
+pathology	17401424	7157	Petitjean A	TP53 mutations in human cancers: functional selection and impact on cancer prognosis and outcomes.	Oncogene	2007	190
+pathology	17401431	7157	Li Y	Are interactions with p63 and p73 involved in mutant p53 gain of oncogenic function?	Oncogene	2007	57
+pathology	17468756	7157	Theodorou V	MMTV insertional mutagenesis identifies genes, gene families and pathways involved in mammary cancer.	Nature genetics	2007	69
+pathology	17804712	7157	Nakahara T	YM155, a novel small-molecule survivin suppressant, induces regression of established human hormone-refractory prostate tumor xenografts.	Cancer research	2007	113
+pathology	18094375	7157	Patocs A	Breast-cancer stromal cells with TP53 mutations and nodal metastases.	The New England journal of medicine	2007	93
+pathology	18094376	7157	Poeta ML	TP53 mutations and survival in squamous-cell carcinoma of the head and neck.	The New England journal of medicine	2007	160
+pathology	18193093	7157	Courtois-Cox S	Many roads lead to oncogene-induced senescence.	Oncogene	2008	106
+pathology	18323444	7157	Halazonetis TD	An oncogene-induced DNA damage model for cancer development.	Science	2008	527
+pathology	18394899	7157	Birkenfeld J	Cellular functions of GEF-H1, a microtubule-regulated Rho-GEF: is altered GEF-H1 activity a crucial determinant of disease pathogenesis?	Trends in cell biology	2008	66
+pathology	18757330	7157	Carlson JW	Serous tubal intraepithelial carcinoma: its potential role in primary peritoneal serous carcinoma and serous cancer prevention.	Journal of clinical oncology 	2008	70
+pathology	18829542	7157	Lehmann BD	Senescence-associated exosome release from human prostate cancer cells.	Cancer research	2008	56
+pathology	18840072	7157	Mitra AP	Molecular pathogenesis and diagnostics of bladder cancer.	Annual review of pathology	2009	52
+pathology	19225112	7157	Sur S	A panel of isogenic human cancer cells suggests a therapeutic approach for cancers with inactivated p53.	Proceedings of the National Academy of Sciences of the United States of America	2009	108
+pathology	19237188	7157	Boren T	MicroRNAs and their target messenger RNAs associated with ovarian cancer response to chemotherapy.	Gynecologic oncology	2009	49
+pathology	19349354	7157	Seligson DB	Global levels of histone modifications predict prognosis in different cancers.	The American journal of pathology	2009	109
+pathology	19562738	7157	Zuckerman V	Tumour suppression by p53: the importance of apoptosis and cellular senescence.	The Journal of pathology	2009	49
+pathology	19626115	7157	Suzuki HI	Modulation of microRNA processing by p53.	Nature	2009	393
+pathology	19854137	7157	Li X	Two mammalian MOF complexes regulate transcription activation by distinct mechanisms.	Molecular cell	2009	58
+pathology	19881536	7157	Liu DP	A common gain of function of p53 cancer mutants in inducing genetic instability.	Oncogene	2010	50
+pathology	19887545	7157	Hirai H	Small-molecule inhibition of Wee1 kinase by MK-1775 selectively sensitizes p53-deficient tumor cells to DNA-damaging agents.	Molecular cancer therapeutics	2009	90
+pathology	20038740	7157	De Angelis A	Anthracycline cardiomyopathy is mediated by depletion of the cardiac stem cell pool and is rescued by restoration of progenitor cell function.	Circulation	2010	62
+pathology	20107315	7157	Hirai H	MK-1775, a small molecule Wee1 inhibitor, enhances anti-tumor efficacy of various DNA-damaging agents, including 5-fluorouracil.	Cancer biology and therapy	2010	55
+pathology	20229506	7157	Ahmed AA	Driver mutations in TP53 are ubiquitous in high grade serous carcinoma of the ovary.	The Journal of pathology	2010	149
+pathology	20336134	7157	Sahin E	Linking functional decline of telomeres, mitochondria and stem cells during ageing.	Nature	2010	191
+pathology	20538793	7157	Lin TT	Telomere dysfunction and fusion during the progression of chronic lymphocytic leukemia: evidence for a telomere crisis.	Blood	2010	42
+pathology	20871609	7157	Swarbrick A	miR-380-5p represses p53 to control cellular survival and is associated with poor outcome in MYCN-amplified neuroblastoma.	Nature medicine	2010	52
+pathology	20937856	7157	Scherz-Shouval R	p53-dependent regulation of autophagy protein LC3 supports cancer cell survival under prolonged starvation.	Proceedings of the National Academy of Sciences of the United States of America	2010	71
+pathology	21205967	7157	Fabbri M	Association of a microRNA/TP53 feedback circuitry with pathogenesis and outcome of B-cell chronic lymphocytic leukemia.	JAMA	2011	72
+pathology	21263025	7157	Muller PA	p53 and its mutants in tumor cell migration and invasion.	The Journal of cell biology	2011	118
+pathology	21317459	7157	Rao B	Evaluation of an Actinomycin D/VX-680 aurora kinase inhibitor combination in p53-based cyclotherapy.	Oncotarget	2010	50
+pathology	21364938	7157	Enerly E	miRNA-mRNA integrated analysis reveals roles for miRNAs in primary breast tumors.	PloS one	2011	115
+pathology	21389100	7157	Rajeshkumar NV	MK-1775, a potent Wee1 inhibitor, synergizes with gemcitabine to achieve tumor regressions, selectively in p53-deficient pancreatic cancer xenografts.	Clinical cancer research 	2011	63
+pathology	21530747	7157	Ullman TA	Intestinal inflammation and cancer.	Gastroenterology	2011	197
+pathology	21601526	7157	Villani A	Biochemical and imaging surveillance in germline TP53 mutation carriers with Li-Fraumeni syndrome: a prospective observational study.	The Lancet. Oncology	2011	46
+pathology	21799033	7157	Bridges KA	MK-1775, a novel Wee1 kinase inhibitor, radiosensitizes p53-defective human tumor cells.	Clinical cancer research 	2011	50
+pathology	22084170	7157	Kreahling JM	MK1775, a selective Wee1 inhibitor, shows single-agent antitumor activity against sarcoma cells.	Molecular cancer therapeutics	2012	39
+pathology	22265415	7157	Freed-Pastor WA	Mutant p53 disrupts mammary tissue architecture via the mevalonate pathway.	Cell	2012	163
+pathology	22282659	7157	Donati G	Ribosome biogenesis and control of cell proliferation: p53 is not alone.	Cancer research	2012	36
+pathology	22351930	7157	Scarlett UK	Ovarian cancer progression is controlled by phenotypic changes in dendritic cells.	The Journal of experimental medicine	2012	78
+pathology	22789538	7157	Bywater MJ	Inhibition of RNA polymerase I as a therapeutic strategy to promote cancer-specific activation of p53.	Cancer cell	2012	107
+pathology	22822097	7157	Walerych D	The rebel angel: mutant p53 as the driving oncogene in breast cancer.	Carcinogenesis	2012	61
+pathology	22911014	7157	Mirzayans R	New insights into p53 signaling and cancer cell response to DNA damage: implications for cancer therapy.	Journal of biomedicine and biotechnology	2012	55
+pathology	22965953	7157	Lehmann S	Targeting p53 in vivo: a first-in-human study with p53-targeting compound APR-246 in refractory hematologic malignancies and prostate cancer.	Journal of clinical oncology 	2012	58
+pathology	22986101	7157	Zhang K	Novel selective inhibitors of nuclear export CRM1 antagonists for therapy in mantle cell lymphoma.	Experimental hematology	2013	45
+pathology	23114601	7157	Rodig SJ	Improved detection suggests all Merkel cell carcinomas harbor Merkel polyomavirus.	The Journal of clinical investigation	2012	41
+pathology	23151455	7157	Rodriguez OC	Dietary downregulation of mutant p53 levels via glucose restriction: mechanisms and implications for tumor therapy.	Cell cycle	2012	33
+pathology	23199966	7157	Doorbar J	The biology and life-cycle of human papillomaviruses.	Vaccine	2012	128
+pathology	23200980	7157	Kanda M	Mutant TP53 in duodenal samples of pancreatic juice from patients with pancreatic cancer or high-grade dysplasia.	Clinical gastroenterology and hepatology 	2013	35
+pathology	23242140	7157	Maddocks OD	Serine starvation induces stress and p53-dependent metabolic remodelling in cancer cells.	Nature	2013	145
+pathology	23256952	7157	Kastelein F	Aberrant p53 protein expression is associated with an increased risk of neoplastic progression in patients with Barrett's oesophagus.	Gut	2013	31
+pathology	23297687	7157	Kulasekararaj AG	TP53 mutations in myelodysplastic syndrome are strongly correlated with aberrations of chromosome 5, and correlate with adverse prognosis.	British journal of haematology	2013	44
+pathology	23512991	7157	Batey MA	Preclinical evaluation of a novel ATM inhibitor, KU59403, in vitro and in vivo in p53 functional and dysfunctional models of human cancer.	Molecular cancer therapeutics	2013	25
+pathology	23630207	7157	Vignot S	Next-generation sequencing reveals high concordance of recurrent somatic alterations between primary tumor and metastases from patients with non-small-cell lung cancer.	Journal of clinical oncology 	2013	38
+pathology	23775793	7157	Menendez D	Diverse stresses dramatically alter genome-wide p53 binding and transactivation landscape in human cancer cells.	Nucleic acids research	2013	52
+pathology	23835706	7157	Zhukova N	Subgroup-specific prognostic implications of TP53 mutation in medulloblastoma.	Journal of clinical oncology 	2013	43
+pathology	23918355	7157	Lee MO	Inhibition of pluripotent stem cell-derived teratoma formation by small molecules.	Proceedings of the National Academy of Sciences of the United States of America	2013	42
+pathology	24138928	7157	Horvath S	DNA methylation age of human tissues and cell types.	Genome biology	2013	377
+pathology	24327604	7157	Abdi J	Drug resistance in multiple myeloma: latest findings and new concepts on molecular mechanisms.	Oncotarget	2013	28
+pathology	24469795	7157	Morrison CD	Whole-genome sequencing identifies genomic heterogeneity at a nucleotide and chromosomal level in bladder cancer.	Proceedings of the National Academy of Sciences of the United States of America	2014	24
+pathology	24487586	7157	Arjonen A	Mutant p53-associated myosin-X upregulation promotes breast cancer invasion and metastasis.	The Journal of clinical investigation	2014	36
+pathology	24501221	7157	Rossi D	Clinical impact of small TP53 mutated subclones in chronic lymphocytic leukemia.	Blood	2014	50
+pathology	24603336	7157	Xu J	Unequal prognostic potentials of p53 gain-of-function mutations in human cancers associate with drug-metabolizing activity.	Cell death and disease	2014	21
+pathology	24665023	7157	Leroy B	TP53 mutations in human cancer: database reassessment and prospects for the next decade.	Human mutation	2014	28
+pathology	24682512	7157	Saft L	p53 protein expression independently predicts outcome in patients with lower-risk myelodysplastic syndromes with del(5q).	Haematologica	2014	22
+pathology	24747423	7157	Golomb L	p53 and ribosome biogenesis stress: the essentials.	FEBS letters	2014	36
+pathology	24819167	7157	Leotta M	A p53-dependent tumor suppressor network is induced by selective miR-125a-5p inhibition in multiple myeloma cells.	Journal of cellular physiology	2014	26
+pathology	24859455	7157	Miao R	Identification of prognostic biomarkers in hepatitis B virus-related hepatocellular carcinoma and stratification by integrative multi-omics analysis.	Journal of hepatology	2014	30
+pathology	24921086	7157	Schmeiser HH	Exceptionally long-term persistence of DNA adducts formed by carcinogenic aristolochic acid I in renal tissue from patients with aristolochic acid nephropathy.	International journal of cancer	2014	20
+pathology	25086664	7157	Gross AM	Multi-tiered genomic analysis of head and neck cancer ties TP53 mutation to 3p loss.	Nature genetics	2014	32
+pathology	25287991	7157	Malcikova J	Detailed analysis of therapy-driven clonal evolution of TP53 mutations in chronic lymphocytic leukemia.	Leukemia	2015	18
+pathology	25362853	7157	Gao J	miR-34a-5p suppresses colorectal cancer metastasis and predicts recurrence in patients with stage II/III colorectal cancer.	Oncogene	2015	24
+pathology	25555420	7157	Farooqui MZ	Ibrutinib for previously untreated and relapsed or refractory chronic lymphocytic leukaemia with TP53 aberrations: a phase 2, single-arm trial.	The Lancet. Oncology	2015	51
+pathology	25634208	7157	Neskey DM	Evolutionary Action Score of TP53 Identifies High-Risk Mutations Associated with Decreased Survival and Increased Distant Metastases in Head and Neck Cancer.	Cancer research	2015	19
+pathology	25689248	7157	Boulter L	WNT signaling drives cholangiocarcinoma growth and can be pharmacologically inhibited.	The Journal of clinical investigation	2015	23
+pathology	25704383	7157	Span PN	Biology of hypoxia.	Seminars in nuclear medicine	2015	16
+pathology	25792665	7157	Ahmad T	Impaired mitophagy leads to cigarette smoke stress-induced cellular senescence: implications for chronic obstructive pulmonary disease.	FASEB journal 	2015	19
+pathology	25824729	7157	Goldar S	Molecular mechanisms of apoptosis and roles in cancer development and treatment.	Asian Pacific journal of cancer prevention 	2015	19
+pathology	25827447	7157	Hong MK	Tracking the origins and drivers of subclonal metastatic expansion in prostate cancer.	Nature communications	2015	39
+pathology	25860607	7157	Lee DF	Modeling familial cancer with induced pluripotent stem cells.	Cell	2015	28
+pathology	25883152	7157	Younger ST	Integrative genomic analysis reveals widespread enhancer regulation by p53 in response to DNA damage.	Nucleic acids research	2015	23
+pathology	25894828	7157	Cristescu R	Molecular analysis of gastric cancer identifies subtypes associated with distinct clinical outcomes.	Nature medicine	2015	84
+pathology	26024390	7157	Soussi T	TP53: an oncogene in disguise.	Cell death and differentiation	2015	26
+pathology	26032560	7157	Amelio I	The p53 family and the hypoxia-inducible factors (HIFs): determinants of cancer progression.	Trends in biochemical sciences	2015	15
+pathology	26398160	7157	Danilova N	Ribosomopathies: how a common root can cause a tree of pathologies.	Disease models and mechanisms	2015	20
+pathology	26462838	7157	Gong Z	An integrative transcriptomic analysis reveals p53 regulated miRNA, mRNA, and lncRNA networks in nasopharyngeal carcinoma.	Tumour biology 	2016	16
+pathology	26605532	7157	Jin W	Genome-wide detection of DNase I hypersensitive sites in single cells and FFPE tissue samples.	Nature	2015	31
+pathology	26748848	7157	Soragni A	A Designed Inhibitor of p53 Aggregation Rescues p53 Tumor Suppression in Ovarian Carcinomas.	Cancer cell	2016	19
+pathology	26751173	7157	Korkmaz G	Functional genetic screens for enhancer elements in the human genome using CRISPR-Cas9.	Nature biotechnology	2016	36
+pathology	26789255	7157	Martinez-Zapien D	Structure of the E6/E6AP/p53 complex required for HPV-mediated degradation of p53.	Nature	2016	10
+pathology	27580721	7157	Zhang F	Molecular signatures associated with ZIKV exposure in human cortical neural progenitors.	Nucleic acids research	2016	20
+stem+cells	10446993	7157	Chang BD	A senescence-like phenotype distinguishes tumor cells that undergo terminal proliferation arrest after exposure to anticancer agents.	Cancer research	1999	107
+stem+cells	17114587	7157	Truong AB	p63 regulates proliferation and differentiation of developmentally mature keratinocytes.	Genes and development	2006	151
+stem+cells	17179143	7157	Qin H	Regulation of apoptosis and differentiation by p53 in human embryonic stem cells.	The Journal of biological chemistry	2007	76
+stem+cells	17942417	7157	Rodier F	Two faces of p53: aging and tumor suppression.	Nucleic acids research	2007	111
+stem+cells	18563507	7157	Tang N	Osteosarcoma development and stem cell differentiation.	Clinical orthopaedics and related research	2008	92
+stem+cells	20038740	7157	De Angelis A	Anthracycline cardiomyopathy is mediated by depletion of the cardiac stem cell pool and is rescued by restoration of progenitor cell function.	Circulation	2010	62
+stem+cells	20074536	7157	Song H	Modeling disease in human ESCs using an efficient BAC-based homologous recombination system.	Cell stem cell	2010	68
+stem+cells	20201066	7157	Prigione A	The senescence-related mitochondrial/oxidative stress pathway is repressed in human induced pluripotent stem cells.	Stem cells	2010	152
+stem+cells	20336134	7157	Sahin E	Linking functional decline of telomeres, mitochondria and stem cells during ageing.	Nature	2010	191
+stem+cells	20619763	7157	Milyavsky M	A distinctive DNA damage response in human hematopoietic stem cells reveals an apoptosis-independent role for p53 in self-renewal.	Cell stem cell	2010	69
+stem+cells	20871609	7157	Swarbrick A	miR-380-5p represses p53 to control cellular survival and is associated with poor outcome in MYCN-amplified neuroblastoma.	Nature medicine	2010	52
+stem+cells	21576821	7157	Rhee YH	Protein-based human iPS cells efficiently generate functional dopamine neurons and can treat a rat model of Parkinson disease.	The Journal of clinical investigation	2011	74
+stem+cells	22579044	7157	Reijns MA	Enzymatic removal of ribonucleotides from DNA is essential for mammalian genome integrity and development.	Cell	2012	118
+stem+cells	23918355	7157	Lee MO	Inhibition of pluripotent stem cell-derived teratoma formation by small molecules.	Proceedings of the National Academy of Sciences of the United States of America	2013	42
+stem+cells	23954752	7157	Liu JC	High mitochondrial priming sensitizes hESCs to DNA-damage-induced apoptosis.	Cell stem cell	2013	36
+stem+cells	24138928	7157	Horvath S	DNA methylation age of human tissues and cell types.	Genome biology	2013	377
+stem+cells	24327604	7157	Abdi J	Drug resistance in multiple myeloma: latest findings and new concepts on molecular mechanisms.	Oncotarget	2013	28
+stem+cells	24630730	7157	Supek F	Synonymous mutations frequently act as driver mutations in human cancers.	Cell	2014	76
+stem+cells	25860607	7157	Lee DF	Modeling familial cancer with induced pluripotent stem cells.	Cell	2015	28
+stem+cells	25883152	7157	Younger ST	Integrative genomic analysis reveals widespread enhancer regulation by p53 in response to DNA damage.	Nucleic acids research	2015	23
+stem+cells	26748848	7157	Soragni A	A Designed Inhibitor of p53 Aggregation Rescues p53 Tumor Suppression in Ovarian Carcinomas.	Cancer cell	2016	19
+stem+cells	27187358	7157	Mirzayans R	The Growing Complexity of Cancer Cell Response to DNA-Damaging Agents: Caspase 3 Mediates Cell Death or Survival?	International journal of molecular sciences	2016	12
+stem+cells	27580721	7157	Zhang F	Molecular signatures associated with ZIKV exposure in human cortical neural progenitors.	Nucleic acids research	2016	20
+toxicology+or+toxic+or+toxin	1672732	7157	Bressac B	Selective G to T mutations of p53 gene in hepatocellular carcinoma from southern Africa.	Nature	1991	191
+toxicology+or+toxic+or+toxin	8832894	7157	Denissenko MF	Preferential formation of benzoapyrene adducts at lung cancer mutational hotspots in P53.	Science	1996	229
+toxicology+or+toxic+or+toxin	12821280	7157	Ichihashi M	UV-induced skin damage.	Toxicology	2003	95
+toxicology+or+toxic+or+toxin	15054096	7157	Wang S	Doxorubicin induces apoptosis in normal and tumor cells via distinctly different mechanisms. intermediacy of H(2)O(2)- and p53-dependent pathways.	The Journal of biological chemistry	2004	88
+toxicology+or+toxic+or+toxin	17638885	7157	Buzzai M	Systemic treatment with the antidiabetic drug metformin selectively impairs p53-deficient tumor cell growth.	Cancer research	2007	296
+toxicology+or+toxic+or+toxin	18454141	7157	Tasdemir E	Regulation of autophagy by cytoplasmic p53.	Nature cell biology	2008	313
+toxicology+or+toxic+or+toxin	21779517	7157	Rufini A	p73 in Cancer.	Genes and cancer	2011	39
+toxicology+or+toxic+or+toxin	22551203	7157	Intarasunanont P	Effects of arsenic exposure on DNA methylation in cord blood samples from newborn babies and in a human lymphoblast cell line.	Environmental health 	2012	38
+toxicology+or+toxic+or+toxin	24721780	7157	Zhang A	Role of the lncRNA-p53 regulatory network in cancer.	Journal of molecular cell biology	2014	22
+toxicology+or+toxic+or+toxin	26032560	7157	Amelio I	The p53 family and the hypoxia-inducible factors (HIFs): determinants of cancer progression.	Trends in biochemical sciences	2015	15
+toxicology+or+toxic+or+toxin	27580721	7157	Zhang F	Molecular signatures associated with ZIKV exposure in human cortical neural progenitors.	Nucleic acids research	2016	20

@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17224248
+Calculating PPS [query=epigenetic+or+chromatin+or+epigenomic+human]..count_Big_T=151715....[total citaion]=607858...Finished!---> Execucution:5 seconds
+Extracting PMIDs [query=epigenetic+or+chromatin+or+epigenomic+human]..PMID#=1177..Finished!---> Execucution:2 seconds
